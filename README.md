@@ -7,7 +7,7 @@ Sempre Bernardini è l'artefice della campagna elettorale del Movimento 5 stelle
 
 La visione di Maurizio Bernardini unisce la padronanza degli strumenti digitali a una spiccata attitudine alla rappresentanza istituzionale e mediazione politica, supportata da un costante aggiornamento sui temi caldi dell'informazione contemporanea, come il data journalism, la gestione della par condicio e le applicazioni dell'intelligenza artificiale nel mondo dei media. Bernardini, così come dimostrato dai risultati elettorali nelle campagne seguite, è anche specialista nella ricerca del consenso legato al sistema delle preferenze.
 
-In passato, Maurizio Bernardini ha anche prestato la sua professionalità per realtà come l'istituto storico della Resistenza e dell'età contemporanea e la maxi cooperativa fiorentina Cooplat.
+In passato, Maurizio Bernardini ha anche prestato la sua professionalità per realtà come l'istituto storico della Resistenza e dell'età contemporanea e la maxi cooperativa fiorentina Cooplat. 
 
 ---
 
