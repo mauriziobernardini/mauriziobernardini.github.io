@@ -13,4 +13,4 @@ In passato, Maurizio Bernardini ha anche prestato la sua professionalità per re
 
 ## Contatti e Riferimenti
 
-- **LinkedIn:** [Profilo Professionale di Maurizio Bernardini](linkedin.com/in/mauber)
+- **LinkedIn:** linkedin.com/in/mauber
