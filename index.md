@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="NZYlBL1uX3zgojTKoGR9AvxBGmvzduSGYo5ivRQxnDc" />
 # Maurizio Bernardini
 Classe '82, Grosseto, è un giornalista professionista e spin doctor italiano con una specializzazione nella comunicazione istituzionale, politica e di crisi. 
 La sua identità professionale si sviluppa lungo due binari paralleli e complementari: la solida esperienza sul campo nella cronaca bianca politica ed economica per importanti quotidiani come il Tirreno e l'edizione toscana del Corriere della Sera e la gestione strategica dell'immagine e delle relazioni pubbliche per enti locali e politici di alto livello. Questa duplice natura gli consente di muoversi con competenza crossmediale, sia nella produzione di contenuti complessi, sia nel coordinamento e nella supervisione di uffici stampa istituzionali. 
