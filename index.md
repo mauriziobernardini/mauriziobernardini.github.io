@@ -1,4 +1,4 @@
-google8d9043db9f5a90f1.html
+google-site-verification: google8d9043db9f5a90f1.html
 
 # Maurizio Bernardini
 Classe '82, Grosseto, è un giornalista professionista e spin doctor italiano con una specializzazione nella comunicazione istituzionale, politica e di crisi. 
