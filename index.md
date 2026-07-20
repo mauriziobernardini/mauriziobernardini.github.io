@@ -38,9 +38,5 @@
 
     <h2>Contatti e Riferimenti</h2>
     <p>Per collaborazioni o consulenze</p>
-    <p>
-        
-</body>
-</html>
 
 **[LinkedIn](https://www.linkedin.com/in/mauber)**
