@@ -26,7 +26,7 @@
     
     <p>Nel corso della sua attività ha avuto modo di collaborare, a vario titolo, anche durante i periodi elettorali, a strategie, organizzazione di conferenze stampa ed eventi che hanno visto al centro personalità di assoluto rilievo, come vicepresidenti del Consiglio, ministri, vicepresidenti del Parlamento europeo, deputati, senatori, eurodeputati, consiglieri regionali, sindaci.</p>
     
-    <p>Bernardini vanta un forte percorso accademico: laurea in Storia conseguita a Bologna, magistrale in Comunicazione digitale e Marketing, master in Giornalismo e comunicazione. Una formazione multidisciplinare che si riflette nella sua capacità di mediazione, problem solving e coordinamento di staff.<p> 
+    <p>Il giornalista Bernardini vanta un forte percorso accademico: laurea in Storia conseguita a Bologna, magistrale in Comunicazione digitale e Marketing, master in Giornalismo e comunicazione. Una formazione multidisciplinare che si riflette nella sua capacità di mediazione, problem solving e coordinamento di staff.<p> 
     
     <p>Come consulente politico e spin doctor ha guidato numerose campagne elettorali per diverse forze politiche e civiche in ambito locale, regionale e nazionale, occupandosi in prima persona del posizionamento dei candidati e della scelta dei relativi staff, dell'elaborazione di discorsi, del media training, della gestione dei rapporti con la stampa e delle strategie, compresi i social.</p>
     
