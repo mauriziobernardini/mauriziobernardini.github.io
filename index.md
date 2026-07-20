@@ -24,7 +24,7 @@
     
     <p>La sua identità professionale si sviluppa lungo due binari paralleli e complementari: la solida esperienza sul campo nella cronaca bianca politica ed economica per realtà televisive e digitali e importanti quotidiani come il quotidiano di Livorno il Tirreno e l'edizione toscana del Corriere della Sera e la gestione strategica dell'immagine e delle relazioni pubbliche per enti e politici di alto livello. Questa duplice natura gli consente di muoversi con competenza crossmediale, sia nella produzione di contenuti complessi, sia nel coordinamento e nella supervisione di uffici stampa istituzionali.<p> 
     
-    <p>Nella sua carriera ha avuto modo di collaborare, a vario titolo, anche durante i periodi elettorali, a strategie, organizzazione di conferenze stampa ed eventi che hanno visto al centro personalità di assoluto rilievo, come vicepresidenti del Consiglio, ministri, vicepresidenti del Parlamento europeo, deputati, senatori, eurodeputati, consiglieri regionali, sindaci.</p>
+    <p>Nel corso della sua attività ha avuto modo di collaborare, a vario titolo, anche durante i periodi elettorali, a strategie, organizzazione di conferenze stampa ed eventi che hanno visto al centro personalità di assoluto rilievo, come vicepresidenti del Consiglio, ministri, vicepresidenti del Parlamento europeo, deputati, senatori, eurodeputati, consiglieri regionali, sindaci.</p>
     
     <p>Bernardini vanta un forte percorso accademico: laurea in Storia conseguita a Bologna, magistrale in Comunicazione digitale e Marketing, master in Giornalismo e comunicazione. Una formazione multidisciplinare che si riflette nella sua capacità di mediazione, problem solving e coordinamento di staff.<p> 
     
