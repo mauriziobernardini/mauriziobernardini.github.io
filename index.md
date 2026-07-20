@@ -22,7 +22,7 @@
 
 <p>È un consulente politico indipendente che mette la propria strategia al servizio di diversi leader e partiti.</p>
     
-    <p>La sua identità professionale si sviluppa lungo due binari paralleli e complementari: la solida esperienza sul campo nella cronaca bianca politica ed economica per realtà televisive e digitali e importanti quotidiani come il quotidiano di Livorno il Tirreno e l'edizione toscana del Corriere della Sera e la gestione strategica dell'immagine e delle relazioni pubbliche per enti e politici di alto livello. Questa duplice natura gli consente di muoversi con competenza crossmediale, sia nella produzione di contenuti complessi, sia nel coordinamento e nella supervisione di uffici stampa istituzionali.<p> 
+    <p>La sua identità professionale si sviluppa lungo due binari paralleli e complementari: la solida esperienza sul campo nella cronaca bianca (politica, economia, sociale, attualità) per realtà televisive e digitali e importanti giornali come il quotidiano di Livorno il Tirreno e l'edizione toscana del Corriere della Sera e la gestione strategica dell'immagine e delle relazioni pubbliche per enti e politici di alto livello. Questa duplice natura gli consente di muoversi con competenza crossmediale, sia nella produzione di contenuti complessi, sia nel coordinamento e nella supervisione di uffici stampa istituzionali.<p> 
     
     <p>Nel corso della sua attività ha avuto modo di collaborare, a vario titolo, anche durante i periodi elettorali, a strategie, organizzazione di conferenze stampa ed eventi che hanno visto al centro personalità di assoluto rilievo come vicepresidenti del Consiglio, ministri, vicepresidenti del Parlamento europeo, deputati, senatori, eurodeputati, consiglieri regionali, sindaci.</p>
     
@@ -30,7 +30,7 @@
     
     <p>Come consulente politico e spin doctor ha guidato numerose campagne elettorali per diverse forze politiche e civiche in ambito locale, regionale e nazionale, occupandosi in prima persona del posizionamento dei candidati e della scelta dei relativi staff, dell'elaborazione di discorsi, del media training, della gestione dei rapporti con la stampa e delle strategie, compresi i social.</p>
     
-    <p>Nella sua carriera, Bernardini ha creato e gestito numerosi staff di giornalisti e professionisti di settore riuscendo a mantenere equilibri delicati e accrescere il consenso.</p>
+    <p>Nella sua carriera, Bernardini ha creato e gestito numerosi staff di giornalisti e professionisti di settore riuscendo ad accrescere il consenso dei suoi committenti e mantenere equilibri delicati.</p>
     
     <p>Forte anche l'impegno in ambito istituzionale. Su questo fronte, tra le personalità seguite si segnalano il sindaco di Grosseto Antonfrancesco Vivarelli Colonna (Capo ufficio stampa); il sindaco e presidente della Provincia di Imperia e già ministro Claudio Scajola (Portavoce e Capo di Gabinetto); il gruppo regionale del Movimento 5 stelle in Regione Toscana (Capo comunicazione in Regione per i 4 consiglieri regionali, presidente Giacomo Giannarelli).</p>
     
@@ -38,7 +38,7 @@
     
     <p>La visione di Maurizio Bernardini unisce la padronanza degli strumenti mediatici tradizionali e digitali a una spiccata attitudine alla rappresentanza istituzionale e alla mediazione politica e di crisi. Il tutto supportato da un costante aggiornamento sui 'temi caldi' dell'informazione contemporanea, come il data journalism, la gestione della par condicio, l'informazione e il presidio delle tivù, sistemi elettorali e le applicazioni dell'intelligenza artificiale nel mondo della comunicazione.<p> 
     
-    <p>Bernardini, così come dimostrato dai risultati elettorali nelle campagne seguite, è anche specialista nella ricerca del consenso legato al sistema delle preferenze.</p>
+    <p>Bernardini, così come dimostrato dai risultati elettorali nelle campagne seguite e dai record conseguiti, è anche specialista nella ricerca del consenso legato al sistema delle preferenze.</p>
     
     <p>In passato, Maurizio Bernardini ha anche prestato la sua professionalità per l'Istituto storico grossetano della Resistenza e dell'età contemporanea e la cooperativa fiorentina Cooplat.</p>
 
