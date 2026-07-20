@@ -37,11 +37,9 @@
     <p>In passato, Maurizio Bernardini ha anche prestato la sua professionalità per l'istituto storico grossetano della Resistenza e dell'età contemporanea e la cooperativa fiorentina Cooplat.</p>
 
     <h2>Contatti e Riferimenti</h2>
-    <p>Per collaborazioni, consulenze o contatti professionali, puoi fare riferimento al mio profilo ufficiale:</p>
+    <p>Per collaborazioni o consulenze</p>
     <p>
-        <a href="https://it.linkedin.com/in/maurizio-bernardini-728b1842" target="_blank" class="btn-linkedin">Collegati su LinkedIn</a>
-    </p>
-
+        
 </body>
 </html>
 
