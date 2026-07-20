@@ -39,4 +39,4 @@
     <h2>Contatti e Riferimenti</h2>
     <p>Per collaborazioni o consulenze</p>
 
-(https://www.linkedin.com/in/mauber)
+<strong><a href="https://www.linkedin.com/in/mauber" target="_blank" rel="noopener noreferrer">Il mio profilo LinkedIn</a></strong>
