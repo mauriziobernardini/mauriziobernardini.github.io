@@ -30,9 +30,7 @@
     
     <p>Maurizio Bernardini è stato inoltre spin doctor di personalità influenti come il già coordinatore toscano della Lega e deputato Mario Lolini e il già sindaco di Parma e attuale capogruppo in Regione Emilia Romagna per Forza Italia e segretario regionale Pietro Vignali. Sempre Bernardini è il comunicatore politico artefice della campagna elettorale del Movimento 5 stelle di Grosseto del 2016 (candidato Giacomo Gori) con il record del 20 per cento dei voti ottenuti, tra i migliori risultati di sempre del M5S in Italia alle Amministrative nei centri urbani di rilievo.</p>
     
-    <p>La visione di Maurizio Bernardini unisce la padronanza degli strumenti mediatici tradizionali e digitali a una spiccata attitudine alla rappresentanza istituzionale e alla mediazione politica e di crisi.</p>
-    
-    <p>Il tutto supportato da un costante aggiornamento sui temi caldi dell'informazione contemporanea, come il data journalism, la gestione della par condicio, l'informazione e il presidio delle tivù, sistemi elettorali e le applicazioni dell'intelligenza artificiale nel mondo della comunicazione. Bernardini, così come dimostrato dai risultati elettorali nelle campagne seguite, è anche specialista nella ricerca del consenso legato al sistema delle preferenze.</p>
+    <p>La visione di Maurizio Bernardini unisce la padronanza degli strumenti mediatici tradizionali e digitali a una spiccata attitudine alla rappresentanza istituzionale e alla mediazione politica e di crisi. Il tutto supportato da un costante aggiornamento sui 'temi caldi' dell'informazione contemporanea, come il data journalism, la gestione della par condicio, l'informazione e il presidio delle tivù, sistemi elettorali e le applicazioni dell'intelligenza artificiale nel mondo della comunicazione. Bernardini, così come dimostrato dai risultati elettorali nelle campagne seguite, è anche specialista nella ricerca del consenso legato al sistema delle preferenze.</p>
     
     <p>In passato, Maurizio Bernardini ha anche prestato la sua professionalità per l'Istituto storico grossetano della Resistenza e dell'età contemporanea e la cooperativa fiorentina Cooplat.</p>
 
