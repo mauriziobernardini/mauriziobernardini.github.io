@@ -21,7 +21,7 @@
     <p>Classe '82, Grosseto, è un giornalista professionista e spin doctor italiano di comprovata esperienza, specializzato nella comunicazione istituzionale, politica e di crisi. È attivo soprattutto in Toscana, Emilia Romagna, Liguria e Lazio. Si è distinto per il proprio lavoro in diversi importanti città capoluogo tra cui Firenze, Grosseto, Parma, Piacenza, Reggio Emilia, Imperia, Roma. 
 
 <p>È un consulente politico indipendente che mette la propria strategia al servizio di diversi leader e partiti.</p> 
-<a href="https://jobseekeritalia.it/2016/03/16/professionisti-comunicazione-politica-digitale/">Riconosciuto tra i principali spin doctor italiani</a>
+<a href="https://jobseekeritalia.it/2016/03/16/professionisti-comunicazione-politica-digitale/">Riconosciuto tra i principali spin doctor italiani.</a>
 
     <p>La sua identità professionale si sviluppa lungo due binari paralleli e complementari: la solida esperienza sul campo nella cronaca bianca (politica, economia, sociale, attualità) per realtà televisive e digitali e importanti giornali come il quotidiano di Livorno il Tirreno e l'edizione toscana del Corriere della Sera e la gestione strategica dell'immagine e delle relazioni pubbliche per enti e politici di alto livello. Questa duplice natura gli consente di muoversi con competenza crossmediale, sia nella produzione di contenuti complessi, sia nel coordinamento e nella supervisione di uffici stampa istituzionali.<p> 
     
