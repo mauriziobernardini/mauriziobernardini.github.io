@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Informativa sulla Privacy – Maurizio Bernardini</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      line-height: 1.6;
+      max-width: 780px;
+      margin: 40px auto;
+      padding: 0 20px;
+      color: #222;
+    }
+    h1 { font-size: 1.75rem; margin-bottom: 0.5rem; }
+    h2 { font-size: 1.2rem; margin-top: 1.8rem; }
+    a { color: #0056b3; }
+    .meta { color: #666; font-size: 0.9rem; margin-bottom: 2rem; }
+  </style>
+</head>
+<body>
+  <h1>Informativa sulla Privacy</h1>
+  <p class="meta">Ultimo aggiornamento: novembre 2026</p>
+
+  <p>
+    La presente informativa descrive le modalità di gestione del sito web
+    <strong>mauriziobernardini.github.io</strong> in riferimento al trattamento dei dati personali
+    degli utenti che lo consultano, ai sensi del Regolamento (UE) 2016/679 (GDPR).
+  </p>
+
+  <h2>1. Titolare del trattamento</h2>
+  <p>
+    Il titolare del trattamento è <strong>Maurizio Bernardini</strong>, giornalista e consulente
+    libero professionista – <strong>P.IVA: 01792410530</strong>. Per qualsiasi informazione relativa
+    al trattamento dei dati o per esercitare i diritti previsti dal GDPR è possibile fare riferimento
+    alla sezione <em>Contatti e Riferimenti</em> presente sul sito.
+  </p>
+
+  <h2>2. Tipologia di dati trattati e finalità</h2>
+  <p>
+    <strong>Dati di navigazione:</strong> questo sito è una pagina informativa ospitata su
+    <strong>GitHub Pages</strong>. Durante la normale consultazione, i sistemi informatici e i server
+    di GitHub possono acquisire automaticamente alcuni dati tecnici di connessione (come indirizzo IP,
+    tipo di browser, orario della richiesta) necessari al funzionamento e alla sicurezza del servizio
+    di hosting.
+  </p>
+  <p>
+    <strong>Contatti volontari:</strong> se l'utente contatta il titolare tramite i canali indicati
+    nella sezione <em>Contatti e Riferimenti</em> (ad esempio e-mail o profilo LinkedIn), i dati
+    eventualmente forniti saranno utilizzati esclusivamente per rispondere alla richiesta o valutare
+    collaborazioni professionali.
+  </p>
+
+  <h2>3. Cookie e strumenti di tracciamento</h2>
+  <p>
+    Il sito non utilizza cookie di profilazione né sistemi autonomi di tracciamento pubblicitario.
+    Eventuali collegamenti a piattaforme esterne (come il profilo LinkedIn) rimandano a servizi
+    gestiti da soggetti terzi, soggetti alle rispettive informative privacy.
+  </p>
+
+  <h2>4. Diritti dell'interessato</h2>
+  <p>
+    L'utente ha il diritto di chiedere al titolare l'accesso ai propri dati personali, la rettifica
+    o la cancellazione degli stessi, la limitazione del trattamento o di opporsi al trattamento nei
+    casi previsti dagli artt. 15–22 del GDPR, nonché di proporre reclamo all'Autorità Garante per
+    la protezione dei dati personali.
+  </p>
+
+  <p><a href="index.html">← Torna alla pagina principale</a></p>
+</body>
+</html>
