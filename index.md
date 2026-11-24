@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="it">
 <head>
     <meta charset="UTF-8">
@@ -20,6 +20,10 @@
 
         * {
             box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
         }
 
         body {
@@ -113,6 +117,20 @@
             color: var(--accent);
         }
 
+        .privacy-box {
+            margin-top: 44px;
+            padding-top: 24px;
+            border-top: 2px solid var(--border);
+            font-size: 0.95rem;
+            color: var(--text);
+        }
+
+        .privacy-box h3 {
+            margin: 18px 0 6px;
+            font-size: 1.05rem;
+            color: var(--accent);
+        }
+
         .btn-linkedin {
             display: inline-block;
             padding: 12px 22px;
@@ -196,6 +214,23 @@
                 <h2>Contatti e Riferimenti</h2>
                 <p>Per consulenze</p>
                 <a class="btn-linkedin" href="https://www.linkedin.com/in/mauber" target="_blank" rel="noopener noreferrer">Profilo LinkedIn di Maurizio Bernardini</a>
+
+                <section id="privacy" class="privacy-box">
+                    <h2>Informativa sulla Privacy (GDPR)</h2>
+                    <p>La presente informativa descrive le modalità di trattamento dei dati personali degli utenti che consultano questa pagina web, ai sensi del Regolamento (UE) 2016/679 (GDPR).</p>
+
+                    <h3>1. Titolare del trattamento</h3>
+                    <p>Il titolare del trattamento è <strong>Maurizio Bernardini</strong>, Giornalista e Consulente — P.IVA: <strong>01792410530</strong>. Per comunicazioni relative al trattamento dei dati è possibile contattare il titolare tramite il profilo <a href="https://www.linkedin.com/in/mauber" target="_blank" rel="noopener noreferrer">LinkedIn</a>.</p>
+
+                    <h3>2. Tipologia di dati trattati e finalità</h3>
+                    <p>La navigazione su questa pagina statica non richiede la registrazione di dati personali da parte dell'utente. I sistemi informatici e il provider di hosting possono acquisire, nel corso del loro normale esercizio, alcuni dati tecnici di connessione (come indirizzo IP, tipo di browser, orario della richiesta) necessari esclusivamente a garantire il funzionamento, la sicurezza e la manutenzione del servizio.</p>
+
+                    <h3>3. Link esterni e cookie</h3>
+                    <p>La pagina contiene collegamenti a siti o piattaforme esterne (ad esempio LinkedIn e portali istituzionali): cliccando su tali link si esce da questa pagina e si applicano le rispettive informative privacy. Eventuali cookie tecnici sono limitati all'operatività del servizio; qualora vengano introdotti strumenti di analisi statistica o tracciamento di terze parti, l'informativa e le modalità di consenso verranno aggiornate di conseguenza.</p>
+
+                    <h3>4. Diritti dell'interessato</h3>
+                    <p>In ogni momento l'interessato può esercitare i diritti previsti dagli articoli 15–22 del GDPR (accesso, rettifica, cancellazione, limitazione del trattamento, opposizione e reclamo all'Autorità Garante per la protezione dei dati personali).</p>
+                </section>
             </article>
         </div>
     </main>
@@ -203,7 +238,7 @@
     <footer class="site-footer">
         <div class="container footer-inner">
             <span>Maurizio Bernardini – Giornalista e Consulente | P.IVA: 01792410530</span>
-            <span><a href="privacy.html">Informativa sulla Privacy</a></span>
+            <span><a href="#privacy">Informativa sulla Privacy</a></span>
         </div>
     </footer>
 
