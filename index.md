@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="it">
 <head>
     <meta charset="UTF-8">
@@ -202,7 +203,8 @@
         <div class="container">
             <span class="hero-kicker">Comunicazione istituzionale, politica e di crisi</span>
             <h1>Maurizio Bernardini</h1>
-            <p class="hero-subtitle">Giornalista professionista e spin doctor · 
+            <p class="hero-subtitle">Giornalista professionista e spin doctor · Consulenza strategica, relazioni istituzionali, gestione uffici stampa, cura campagne elettorali</p>
+        </div>
     </header>
 
     <main>
@@ -251,4 +253,8 @@
     <footer class="site-footer">
         <div class="container footer-inner">
             <span>Maurizio Bernardini – Giornalista e Consulente | P.IVA: 01792410530</span>
-            <span><a href="#privacy" onclick="document.getElementById('privacy').open =
+        </div>
+    </footer>
+
+</body>
+</html>
