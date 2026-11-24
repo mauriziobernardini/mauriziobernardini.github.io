@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="it">
 <head>
     <meta charset="UTF-8">
@@ -18,28 +19,25 @@
 
     <h1>Maurizio Bernardini</h1>
     
-    <p>Classe '82, Grosseto, è un giornalista professionista e spin doctor italiano di comprovata esperienza, specializzato nella comunicazione istituzionale, politica e di crisi. Consulente indipendente, mette la propria strategia al servizio di diversi leader e partiti. È attivo soprattutto in Toscana, Emilia Romagna, Lazio e Liguria. Si è distinto per il proprio lavoro in diverse importanti città capoluogo tra cui Firenze, Bologna, Roma, Parma, Grosseto, Piacenza, Reggio Emilia, Imperia. Opera come libero professionista e consulente per diversi committenti pubblici e privati, mantenendo un approccio indipendente e orientato esclusivamente al metodo. In questa veste tecnica ha assunto anche l'incarico di coordinamento e indirizzo operativo dello staff di comunicazione per il gruppo assembleare di Forza Italia in Regione Emilia-Romagna 
-<a href="https://wwwservizi.regione.emilia-romagna.it/amministrazionetrasparente/Incarichi/RegioneEmiliaRomagna/Dettaglio/996">
-</a>. </p> 
+    <p>Classe '82, Grosseto, è un giornalista professionista e spin doctor italiano di comprovata esperienza, specializzato nella comunicazione istituzionale, politica e di crisi. Consulente indipendente, mette la propria strategia al servizio di diversi leader e partiti. È attivo soprattutto in Toscana, Emilia Romagna, Lazio e Liguria. Si è distinto per il proprio lavoro in diverse importanti città capoluogo tra cui Firenze, Bologna, Roma, Parma, Grosseto, Piacenza, Reggio Emilia, Imperia. Opera come libero professionista e consulente per diversi committenti pubblici e privati, mantenendo un approccio indipendente e orientato esclusivamente al metodo. In questa veste tecnica ha assunto anche l'incarico di coordinamento e indirizzo operativo dello staff di comunicazione per il gruppo assembleare di Forza Italia <a href="https://wwwservizi.regione.emilia-romagna.it/amministrazionetrasparente/Incarichi/RegioneEmiliaRomagna/Dettaglio/996" target="_blank" rel="noopener noreferrer">in Regione Emilia-Romagna</a>.</p> 
 
-<a href="https://jobseekeritalia.it/2016/03/16/professionisti-comunicazione-politica-digitale/">
-  Riconosciuto tra i principali spin doctor italiani.
-</a>
-    <p>La sua identità professionale si sviluppa lungo due binari paralleli e complementari: la solida esperienza sul campo nella cronaca bianca (politica, economia, sociale, attualità) per realtà televisive e digitali e importanti giornali come il quotidiano di Livorno il Tirreno e l'edizione toscana del Corriere della Sera e la gestione strategica dell'immagine e delle relazioni pubbliche per enti e politici di alto livello. Questa duplice natura gli consente di muoversi con competenza crossmediale, sia nella produzione di contenuti complessi, sia nel coordinamento e nella supervisione di uffici stampa istituzionali.<p> 
+    <p><a href="https://jobseekeritalia.it/2016/03/16/professionisti-comunicazione-politica-digitale/" target="_blank" rel="noopener noreferrer">Riconosciuto tra i principali spin doctor italiani.</a></p>
+
+    <p>La sua identità professionale si sviluppa lungo due binari paralleli e complementari: la solida esperienza sul campo nella cronaca bianca (politica, economia, sociale, attualità) per realtà televisive e digitali e importanti giornali come il quotidiano di Livorno il Tirreno e l'edizione toscana del Corriere della Sera e la gestione strategica dell'immagine e delle relazioni pubbliche per enti e politici di alto livello. Questa duplice natura gli consente di muoversi con competenza crossmediale, sia nella produzione di contenuti complessi, sia nel coordinamento e nella supervisione di uffici stampa istituzionali.</p> 
     
     <p>Nel corso della sua attività ha avuto modo di collaborare, a vario titolo, anche durante i periodi elettorali, a strategie, organizzazione di conferenze stampa ed eventi che hanno visto al centro personalità di assoluto rilievo come vicepresidenti del Consiglio, ministri, vicepresidenti del Parlamento europeo, deputati, senatori, eurodeputati, consiglieri regionali, sindaci.</p>
     
-    <p>Il giornalista Bernardini vanta un forte percorso accademico: laurea in Storia conseguita a Bologna, magistrale in Comunicazione digitale e Marketing, master in Giornalismo e comunicazione. Una formazione multidisciplinare che si riflette nella sua capacità di mediazione, problem solving e coordinamento di staff.<p> 
+    <p>Il giornalista Bernardini vanta un forte percorso accademico: laurea in Storia conseguita a Bologna, magistrale in Comunicazione digitale e Marketing, master in Giornalismo e comunicazione. Una formazione multidisciplinare che si riflette nella sua capacità di mediazione, problem solving e coordinamento di staff.</p> 
     
     <p>Come consulente politico e spin doctor ha guidato numerose campagne elettorali per diverse forze politiche e civiche in ambito locale, regionale e nazionale, occupandosi in prima persona del posizionamento dei candidati e della scelta dei relativi staff, dell'elaborazione di discorsi, del media training, della gestione dei rapporti con la stampa e delle strategie, compresi i social.</p>
     
     <p>Nella sua carriera, Bernardini ha creato e gestito numerosi staff di giornalisti e professionisti di settore riuscendo ad accrescere il consenso dei suoi committenti e mantenere equilibri delicati.</p>
     
-    <p>Forte anche l'impegno in ambito istituzionale. Su questo fronte, tra le personalità seguite si segnalano il sindaco di Grosseto Antonfrancesco Vivarelli Colonna (<a href="https://www.comune.grosseto.it/persona_pubblica/bernardini-maurizio/">Capo ufficio stampa del Comune</a>) e il sindaco e presidente della Provincia di Imperia e già ministro Claudio Scajola (Bernardini Portavoce, Capo di Gabinetto e responsabile del settore comunicazione). In passato Maurizio Bernardini ha anche ricoperto il ruolo di Capo comunicazione del Movimento 5 stelle in <a href="https://trasparenza.consiglio.regione.toscana.it/node/26930">Regione Toscana</a>.</p>
+    <p>Forte anche l'impegno in ambito istituzionale. Su questo fronte, tra le personalità seguite si segnalano il sindaco di Grosseto Antonfrancesco Vivarelli Colonna (<a href="https://www.comune.grosseto.it/persona_pubblica/bernardini-maurizio/" target="_blank" rel="noopener noreferrer">Capo ufficio stampa del Comune</a>) e il sindaco e presidente della Provincia di Imperia e già ministro Claudio Scajola (Bernardini Portavoce, Capo di Gabinetto e responsabile del settore comunicazione). In passato Maurizio Bernardini ha anche ricoperto il ruolo di Capo comunicazione del Movimento 5 stelle in <a href="https://trasparenza.consiglio.regione.toscana.it/node/26930" target="_blank" rel="noopener noreferrer">Regione Toscana</a>.</p>
     
     <p>Maurizio Bernardini è stato inoltre spin doctor di personalità influenti come il già coordinatore toscano della Lega e deputato Mario Lolini e il già sindaco di Parma e attuale capogruppo in Regione Emilia Romagna per Forza Italia e segretario regionale Pietro Vignali. Sempre Bernardini è il comunicatore politico artefice della campagna elettorale del Movimento 5 stelle di Grosseto del 2016 (candidato sindaco Giacomo Gori) con il record del 20% dei voti ottenuti, tra i migliori risultati di sempre del M5S in Italia alle Amministrative nei centri urbani di rilievo.</p>
     
-    <p>La visione di Maurizio Bernardini unisce la padronanza degli strumenti mediatici tradizionali e digitali a una spiccata attitudine alla rappresentanza istituzionale e alla mediazione politica e di crisi. Il tutto supportato da un costante aggiornamento sui 'temi caldi' dell'informazione contemporanea, come il data journalism, la gestione della par condicio, l'informazione e il presidio delle tivù, sistemi elettorali e le applicazioni dell'intelligenza artificiale nel mondo della comunicazione.<p> 
+    <p>La visione di Maurizio Bernardini unisce la padronanza degli strumenti mediatici tradizionali e digitali a una spiccata attitudine alla rappresentanza istituzionale e alla mediazione politica e di crisi. Il tutto supportato da un costante aggiornamento sui 'temi caldi' dell'informazione contemporanea, come il data journalism, la gestione della par condicio, l'informazione e il presidio delle tivù, sistemi elettorali e le applicazioni dell'intelligenza artificiale nel mondo della comunicazione.</p> 
     
     <p>Bernardini, così come dimostrato dai risultati elettorali nelle campagne seguite e dai record conseguiti, è anche specialista nella ricerca del consenso legato al sistema delle preferenze.</p>
     
@@ -48,4 +46,7 @@
     <h2>Contatti e Riferimenti</h2>
     <p>Per consulenze</p>
 
-<strong><a href="https://www.linkedin.com/in/mauber" target="_blank" rel="noopener noreferrer">Profilo LinkedIn di Maurizio Bernardini</a></strong>
+    <strong><a href="https://www.linkedin.com/in/mauber" target="_blank" rel="noopener noreferrer">Profilo LinkedIn di Maurizio Bernardini</a></strong>
+
+</body>
+</html>
