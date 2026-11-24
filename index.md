@@ -202,8 +202,7 @@
         <div class="container">
             <span class="hero-kicker">Comunicazione istituzionale, politica e di crisi</span>
             <h1>Maurizio Bernardini</h1>
-            <p class="hero-subtitle">Giornalista professionista e spin doctor · Consulenza strategica, relazioni istituzionali, gestione uffici stampa, cura campagne elettorali</p>
-        </div>
+            <p class="hero-subtitle">Giornalista professionista e spin doctor · 
     </header>
 
     <main>
