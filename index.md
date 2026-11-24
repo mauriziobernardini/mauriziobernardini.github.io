@@ -18,9 +18,8 @@
 
     <h1>Maurizio Bernardini</h1>
     
-    <p>Classe '82, Grosseto, è un giornalista professionista e spin doctor italiano di comprovata esperienza, specializzato nella comunicazione istituzionale, politica e di crisi. Consulente indipendente, mette la propria strategia al servizio di diversi leader e partiti. È attivo soprattutto in Toscana, Emilia Romagna, Lazio e Liguria. Si è distinto per il proprio lavoro in diverse importanti città capoluogo tra cui Firenze, Bologna, Roma, Parma, Grosseto, Piacenza, Reggio Emilia, Imperia. Da sempre trasversale nella sua prestazione d'opera per più committenti, come giornalista libero professionista ha assunto di recente anche l'incarico di 
+    <p>Classe '82, Grosseto, è un giornalista professionista e spin doctor italiano di comprovata esperienza, specializzato nella comunicazione istituzionale, politica e di crisi. Consulente indipendente, mette la propria strategia al servizio di diversi leader e partiti. È attivo soprattutto in Toscana, Emilia Romagna, Lazio e Liguria. Si è distinto per il proprio lavoro in diverse importanti città capoluogo tra cui Firenze, Bologna, Roma, Parma, Grosseto, Piacenza, Reggio Emilia, Imperia. Opera come libero professionista e consulente per diversi committenti pubblici e privati, mantenendo un approccio indipendente e orientato esclusivamente al metodo. In questa veste tecnica ha assunto anche l'incarico di coordinamento e indirizzo operativo dello staff di comunicazione per il gruppo assembleare di Forza Italia in Regione Emilia-Romagna. 
 <a href="https://wwwservizi.regione.emilia-romagna.it/amministrazionetrasparente/Incarichi/RegioneEmiliaRomagna/Dettaglio/996">
-  coordinamento e indirizzo operativo dello staff di comunicazione per il gruppo assembleare di Forza Italia in Regione Emilia-Romagna, pur non presentando alcuna connotazione politica
 </a>. </p> 
 
 <a href="https://jobseekeritalia.it/2016/03/16/professionisti-comunicazione-politica-digitale/">
