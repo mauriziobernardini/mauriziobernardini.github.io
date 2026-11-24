@@ -1,10 +1,9 @@
-<!DOCTYPE html>
 <html lang="it">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Maurizio Bernardini - Giornalista Professionista e Spin Doctor</title>
-    <meta name="description" content="Sito ufficiale di Maurizio Bernardini, giornalista professionista e spin doctor italiano specializzato in comunicazione istituzionale, politica e di crisi.">
+    <meta name="description" content=>
     <meta name="google-site-verification" content="8d9043db9f5a90f1" />
     <style>
         :root {
