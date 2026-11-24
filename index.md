@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="it">
 <head>
     <meta charset="UTF-8">
@@ -12,6 +13,9 @@
         p { margin-bottom: 20px; text-align: justify; }
         .btn-linkedin { display: inline-block; padding: 12px 24px; background-color: #0077b5; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; margin-top: 10px; transition: background-color 0.2s; }
         .btn-linkedin:hover { background-color: #005987; }
+        .site-footer { margin-top: 50px; padding-top: 16px; border-top: 1px solid #eee; font-size: 0.9em; color: #666; text-align: left; }
+        .site-footer a { color: #0077b5; text-decoration: none; }
+        .site-footer a:hover { text-decoration: underline; }
     </style>
 </head>
 <body>
@@ -46,6 +50,10 @@
     <p>Per consulenze</p>
 
     <strong><a href="https://www.linkedin.com/in/mauber" target="_blank" rel="noopener noreferrer">Profilo LinkedIn di Maurizio Bernardini</a></strong>
+
+    <footer class="site-footer">
+        Maurizio Bernardini – Giornalista e Consulente | P.IVA: 01792410530 | <a href="privacy.html">Informativa sulla Privacy</a>
+    </footer>
 
 </body>
 </html>
