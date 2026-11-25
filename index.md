@@ -7,14 +7,14 @@
     <meta name="google-site-verification" content="8d9043db9f5a90f1" />
     <style>
         :root {
-            --bg: #f7f8fa;
+            --bg: #f4f6f9;
             --surface: #ffffff;
             --text: #1e242b;
             --muted: #55606e;
             --accent: #0f3d68;
             --linkedin: #0077b5;
             --linkedin-hover: #005987;
-            --border: #e3e7ec;
+            --border: #dce2e8;
         }
 
         *, *::before, *::after {
@@ -31,7 +31,7 @@
             background-color: var(--bg);
             color: var(--text);
             font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-            line-height: 1.7;
+            line-height: 1.72;
             font-size: 16px;
             overflow-x: hidden;
         }
@@ -44,10 +44,11 @@
         }
 
         .hero {
-            background: linear-gradient(135deg, #0f2942 0%, #19456b 100%);
+            background: linear-gradient(135deg, #0c233a 0%, #19456b 100%);
             color: #ffffff;
             padding: 56px 0 48px;
             border-bottom: 4px solid var(--linkedin);
+            box-shadow: 0 4px 14px rgba(12, 35, 58, 0.12);
         }
 
         .hero-kicker {
@@ -82,9 +83,12 @@
         .card {
             background: var(--surface);
             border: 1px solid var(--border);
+            border-top: 3px solid var(--accent);
             border-radius: 10px;
-            padding: 32px;
-            box-shadow: 0 4px 16px rgba(15, 41, 66, 0.04);
+            padding: 34px;
+            box-shadow:
+                0 12px 28px -6px rgba(15, 41, 66, 0.09),
+                0 4px 10px -2px rgba(15, 41, 66, 0.05);
             overflow-wrap: break-word;
             word-wrap: break-word;
         }
@@ -115,10 +119,11 @@
         }
 
         h2 {
-            margin: 36px 0 12px;
-            padding-bottom: 8px;
-            border-bottom: 1px solid var(--border);
-            font-size: 1.35rem;
+            margin: 36px 0 14px;
+            padding-left: 12px;
+            border-left: 3px solid var(--accent);
+            font-size: 1.32rem;
+            line-height: 1.3;
             color: var(--accent);
         }
 
@@ -147,6 +152,7 @@
             padding: 14px 16px;
             background: var(--bg);
             border-radius: 6px;
+            border: 1px solid var(--border);
             font-size: 0.82rem;
             line-height: 1.55;
         }
@@ -169,12 +175,14 @@
             font-weight: 600;
             margin-top: 8px;
             text-align: center;
-            transition: background-color 0.2s ease;
+            box-shadow: 0 2px 6px rgba(0, 119, 181, 0.22);
+            transition: background-color 0.2s ease, transform 0.15s ease;
         }
 
         .btn-linkedin:hover {
             background-color: var(--linkedin-hover);
             color: #ffffff;
+            transform: translateY(-1px);
         }
 
         .site-footer {
@@ -215,6 +223,7 @@
             .card {
                 padding: 20px 16px;
                 border-radius: 8px;
+                box-shadow: 0 6px 18px -4px rgba(15, 41, 66, 0.08);
             }
             body {
                 font-size: 15.5px;
@@ -223,6 +232,9 @@
             .btn-linkedin {
                 display: block;
                 width: 100%;
+            }
+            .btn-linkedin:hover {
+                transform: none;
             }
         }
     </style>
@@ -240,8 +252,7 @@
     <main>
         <div class="container">
             <article class="card">
-                <p>Classe '82, Grosseto, sono un giornalista professionista e spin doctor italiano di comprovata esperienza, specializzato nella comunicazione istituzionale, politica e di crisi. Come consulente indipendente metto la mia strategia al servizio di diversi leader e partiti. Sono attivo soprattutto in Toscana, Emilia-Romagna, Lazio e Liguria, e ho lavorato in importanti città capoluogo tra cui Firenze, Bologna, Roma, Parma, Grosseto, Piacenza, Reggio Emilia e Imperia. 
-                Opero come libero professionista e consulente per committenti pubblici e privati, mantenendo un approccio indipendente e orientato esclusivamente al metodo. In questa veste tecnica, l'ultimo incarico che ho assunto è quello di coordinamento e indirizzo operativo dello staff di comunicazione per il gruppo assembleare di Forza Italia <a href="https://wwwservizi.regione.emilia-romagna.it/amministrazionetrasparente/Incarichi/RegioneEmiliaRomagna/Dettaglio/996" target="_blank" rel="noopener noreferrer">in Regione Emilia-Romagna</a>.</p>
+                <p>Classe '82, Grosseto, sono un giornalista professionista e spin doctor italiano di comprovata esperienza, specializzato nella comunicazione istituzionale, politica e di crisi. Come consulente indipendente metto la mia strategia al servizio di diversi leader e partiti. Sono attivo soprattutto in Toscana, Emilia-Romagna, Lazio e Liguria, e ho lavorato in importanti città capoluogo tra cui Firenze, Bologna, Roma, Parma, Grosseto, Piacenza, Reggio Emilia e Imperia. Opero come libero professionista e consulente per committenti pubblici e privati, mantenendo un approccio indipendente e orientato esclusivamente al metodo. In questa veste tecnica, l'ultimo incarico che ho assunto è quello di coordinamento e indirizzo operativo dello staff di comunicazione per il gruppo assembleare di Forza Italia <a href="https://wwwservizi.regione.emilia-romagna.it/amministrazionetrasparente/Incarichi/RegioneEmiliaRomagna/Dettaglio/996" target="_blank" rel="noopener noreferrer">in Regione Emilia-Romagna</a>.</p>
 
                 <p class="lead-highlight"><a href="https://jobseekeritalia.it/2016/03/16/professionisti-comunicazione-politica-digitale/" target="_blank" rel="noopener noreferrer">Riconosciuto tra i principali spin doctor italiani.</a></p>
 
