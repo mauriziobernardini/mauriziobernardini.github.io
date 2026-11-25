@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="it">
 <head>
     <meta charset="UTF-8">
@@ -219,6 +219,35 @@
             color: var(--navy);
         }
 
+        .skills-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 9px;
+            list-style: none;
+            margin: 0 0 18px;
+            padding: 0;
+        }
+
+        .skills-list li {
+            background: var(--surface-soft);
+            color: var(--navy);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 7px 14px;
+            font-size: 0.9rem;
+            font-weight: 600;
+        }
+
+        .courses-list {
+            margin: 0 0 18px;
+            padding-left: 20px;
+        }
+
+        .courses-list li {
+            margin-bottom: 8px;
+            color: var(--text);
+        }
+
         .contact-panel {
             margin-top: 16px;
             padding: 22px 24px;
@@ -359,6 +388,10 @@
                 font-size: 1.35rem;
                 margin: 30px 0 12px;
             }
+            .skills-list li {
+                font-size: 0.85rem;
+                padding: 6px 12px;
+            }
             .contact-panel {
                 padding: 18px 16px;
             }
@@ -387,6 +420,8 @@
                 <a href="#profilo">Profilo</a>
                 <a href="#giornalismo-strategia">Giornalismo e strategia</a>
                 <a href="#istituzioni-campagne">Istituzioni e campagne</a>
+                <a href="#skills">Skills</a>
+                <a href="#corsi-formazione">Corsi di formazione</a>
                 <a href="#contatti">Contatti</a>
             </nav>
         </div>
@@ -436,6 +471,43 @@
                 <p>Come dimostrato dai risultati elettorali nelle campagne seguite e dai record conseguiti, sono anche specializzato nella ricerca del consenso legato al sistema delle preferenze.</p>
 
                 <p>In passato ho inoltre prestato la mia professionalità per l'Istituto storico grossetano della Resistenza e dell'età contemporanea, per la cooperativa fiorentina Cooplat e per esponenti del Partito Democratico.</p>
+
+                <h2 id="skills">Skills</h2>
+                <ul class="skills-list">
+                    <li>Comunicazione istituzionale, politica e di crisi</li>
+                    <li>Rappresentanza istituzionale</li>
+                    <li>Mediazione</li>
+                    <li>Selezione e gestione staff</li>
+                    <li>Formazione crossmediale</li>
+                    <li>Presentazione eventi</li>
+                    <li>Problem solving</li>
+                </ul>
+
+                <h2 id="corsi-formazione">Corsi di formazione</h2>
+                <ul class="courses-list">
+                    <li>La comunicazione politica nell’epoca delle campagne elettorali permanenti</li>
+                    <li>L’Unione europea</li>
+                    <li>Usare l’intelligenza artificiale in redazione</li>
+                    <li>Economia e fondi Ue: un mondo da scoprire</li>
+                    <li>Par condicio e comunicazione istituzionale: indicazioni professionali e buone pratiche</li>
+                    <li>Regole giornalista vecchi e nuovi media Odg, La nuova deontologia</li>
+                    <li>Strumenti di verifica delle notizie e contrasto alle fake news</li>
+                    <li>Un mondo di bufale: un pericolo sottostimato per democrazia e giornalismo</li>
+                    <li>Raccontare i fenomeni migratori. L’agenda europea: fatti, prospettive e falsi miti</li>
+                    <li>La libertà (a cura di Vittorio Roidi)</li>
+                    <li>Geopolitica della libertà di stampa</li>
+                    <li>Deontologia (1 e 2)</li>
+                    <li>Deontologia e privacy dei social network</li>
+                    <li>La crisi climatica e nuove politiche energetiche</li>
+                    <li>Presunzione di innocenza</li>
+                    <li>Data journalism: Come trovare, rappresentare, raccontare i dati per fare informazione</li>
+                    <li>Grammatica, sostantivo femminile. Perché scrivere bene aiuta a combattere le discriminazioni</li>
+                    <li>Il nuovo codice deontologico delle giornaliste e dei giornalisti</li>
+                    <li>Sicurezza e benessere nell’era digitale. Aspetti tecnici ed etici</li>
+                    <li>Comunicare la medicina. Le sfide della ricerca sul cancro e come raccontarle</li>
+                    <li>Concetti e strumenti per una nuova professionalità del giornalista</li>
+                    <li>I cambiamenti climatici e la loro rappresentazione nel giornalismo</li>
+                </ul>
 
                 <h2 id="contatti">Contatti e Riferimenti</h2>
                 <div class="contact-panel">
