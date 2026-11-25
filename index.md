@@ -343,16 +343,15 @@
             line-height: 1.7;
         }
 
-        /* ESPERIENZA */
+        /* ESPERIENZA PROFESSIONALE */
 
         .experience {
             padding: 110px 0;
         }
 
-        .experience-grid {
-            display: grid;
-            grid-template-columns: .75fr 1.25fr;
-            gap: 90px;
+        .experience-content {
+            max-width: 900px;
+            margin: auto;
         }
 
         .experience-content p {
@@ -368,6 +367,10 @@
             font-weight: 700;
             color: var(--navy);
             margin: 42px 0 15px;
+        }
+
+        .experience-content h3:first-child {
+            margin-top: 0;
         }
 
         /* FORMAZIONE */
@@ -572,7 +575,6 @@
             }
 
             .intro-grid,
-            .experience-grid,
             .education-grid,
             .references-inner {
                 grid-template-columns: 1fr;
@@ -848,11 +850,12 @@
 
                     <article class="expertise-card">
                         <div class="card-number">01</div>
-                        <h3>Comunicazione politica</h3>
+                        <h3>Campagne elettorali e comunicazione politica</h3>
                         <p>
                             Posizionamento, strategie di consenso,
                             comunicazione dei candidati e supporto
-                            ai gruppi politici.
+                            ai gruppi politici, coordinamento delle
+                            strutture operative e mediazione politica.
                         </p>
                     </article>
 
@@ -868,26 +871,6 @@
 
                     <article class="expertise-card">
                         <div class="card-number">03</div>
-                        <h3>Media relations</h3>
-                        <p>
-                            Rapporti con giornalisti, organizzazione
-                            di conferenze stampa, presidio mediatico
-                            e gestione dei contenuti.
-                        </p>
-                    </article>
-
-                    <article class="expertise-card">
-                        <div class="card-number">04</div>
-                        <h3>Campagne elettorali</h3>
-                        <p>
-                            Organizzazione, strategia, comunicazione,
-                            discorsi, social media e coordinamento
-                            delle strutture operative.
-                        </p>
-                    </article>
-
-                    <article class="expertise-card">
-                        <div class="card-number">05</div>
                         <h3>Comunicazione di crisi</h3>
                         <p>
                             Gestione della comunicazione in contesti
@@ -897,7 +880,17 @@
                     </article>
 
                     <article class="expertise-card">
-                        <div class="card-number">06</div>
+                        <div class="card-number">04</div>
+                        <h3>Media relations</h3>
+                        <p>
+                            Rapporti con giornalisti, organizzazione
+                            di conferenze stampa, presidio mediatico
+                            e gestione dei contenuti.
+                        </p>
+                    </article>
+
+                    <article class="expertise-card">
+                        <div class="card-number">05</div>
                         <h3>Strategia digitale</h3>
                         <p>
                             Comunicazione crossmediale, social media,
@@ -911,18 +904,10 @@
         </section>
 
 
-        <!-- ESPERIENZA -->
+        <!-- ESPERIENZA PROFESSIONALE -->
 
         <section class="experience" id="esperienza">
-            <div class="container experience-grid">
-
-                <div>
-                    <div class="section-label">03 / Esperienza</div>
-
-                    <h2 class="section-heading">
-                        Istituzioni, politica e informazione.
-                    </h2>
-                </div>
+            <div class="container">
 
                 <div class="experience-content">
 
@@ -978,7 +963,9 @@
                         della Lega e deputato, e Pietro Vignali,
                         già sindaco di Parma, attuale capogruppo
                         di Forza Italia in Regione Emilia-Romagna
-                        e segretario regionale.
+                        e segretario regionale. Ho curato anche
+                        l'immagine di esponenti di rilievo
+                        del Partito democratico.
                     </p>
 
                     <p>
@@ -992,11 +979,10 @@
                     </p>
 
                     <p>
-                        Ho inoltre prestato la mia professionalità
-                        per esponenti del Partito Democratico,
-                        per l'Istituto storico grossetano della
+                        Ho prestato la mia professionalità anche
+                        per l'Istituto storico Grossetano della
                         Resistenza e dell'età contemporanea
-                        e per la cooperativa fiorentina Cooplat.
+                        e per realtà del mondo cooperativo nazionale.
                     </p>
 
 
@@ -1039,7 +1025,7 @@
             <div class="container education-grid">
 
                 <div>
-                    <div class="section-label">04 / Giornalismo e formazione</div>
+                    <div class="section-label">03 / Giornalismo e formazione</div>
 
                     <h2 class="section-heading">
                         Il valore dell'informazione.
@@ -1055,12 +1041,12 @@
                     </p>
 
                     <p>
-                        Ho lavorato nella cronaca bianca, occupandomi
-                        di politica, economia, società e attualità,
-                        per realtà televisive e digitali e per importanti
-                        testate giornalistiche, tra cui
-                        <em>Il Tirreno</em> e l'edizione toscana
-                        del <em>Corriere della Sera</em>.
+                        Ho lavorato per anni nella cronaca bianca,
+                        occupandomi di politica, economia, società
+                        e attualità, per realtà televisive e digitali
+                        e per importanti testate giornalistiche,
+                        tra cui <em>Il Tirreno</em> e l'edizione
+                        toscana del <em>Corriere della Sera</em>.
                     </p>
 
                     <p>
@@ -1105,7 +1091,7 @@
             <div class="container references-inner">
 
                 <div>
-                    <div class="section-label">05 / Competenze</div>
+                    <div class="section-label">04 / Competenze</div>
 
                     <h2 class="section-heading">
                         Skills
@@ -1135,7 +1121,7 @@
             <div class="container contact-inner">
 
                 <div>
-                    <div class="section-label">06 / Contatti professionali</div>
+                    <div class="section-label">05 / Contatti professionali</div>
 
                     <h2>
                         Parliamo di comunicazione e strategia.
