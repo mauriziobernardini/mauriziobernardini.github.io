@@ -3,16 +3,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Maurizio Bernardini | Giornalista professionista e consulente</title>
+    <title>Maurizio Bernardini | Giornalista professionista e spin doctor</title>
 
-    <meta name="description" content="Maurizio Bernardini, giornalista professionista e consulente indipendente. Comunicazione politica, istituzionale e strategica.">
+    <meta name="description" content="Maurizio Bernardini, giornalista professionista e spin doctor. Comunicazione politica, istituzionale e strategica.">
     <meta name="author" content="Maurizio Bernardini">
     <meta name="robots" content="index, follow">
     <meta name="theme-color" content="#142b40">
 
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Maurizio Bernardini | Giornalista professionista e consulente">
-    <meta property="og:description" content="Giornalista professionista e consulente indipendente. Comunicazione politica e istituzionale.">
+    <meta property="og:title" content="Maurizio Bernardini | Giornalista professionista e spin doctor">
+    <meta property="og:description" content="Giornalista professionista e spin doctor. Comunicazione politica e istituzionale.">
     <meta property="og:locale" content="it_IT">
 
     <link rel="canonical" href="https://mauriziobernardini.github.io/">
@@ -920,7 +920,7 @@
                     </p>
 
                     <p>
-                        Sono stato Capo ufficio stampa del Comune
+                        Capo ufficio stampa del Comune
                         di Grosseto durante l'amministrazione
                         del sindaco Antonfrancesco Vivarelli Colonna.
                         <a href="https://www.comune.grosseto.it/persona_pubblica/bernardini-maurizio/"
@@ -930,14 +930,11 @@
                     </p>
 
                     <p>
-                        A Imperia ho ricoperto, su incarico del sindaco
-                        ed ex ministro Claudio Scajola, i ruoli di
                         Capo di Gabinetto, portavoce e responsabile
-                        del settore comunicazione.
+                        del settore comunicazione a Imperia su incarico del sindaco e già ministro Claudio Scajola.
                     </p>
 
                     <p>
-                        In precedenza ho ricoperto il ruolo di
                         Capo comunicazione del Movimento 5 Stelle
                         in Regione Toscana.
                         <a href="https://trasparenza.consiglio.regione.toscana.it/node/26930"
@@ -966,6 +963,11 @@
                         e segretario regionale. Ho curato anche
                         l'immagine di esponenti di rilievo
                         del Partito democratico.
+                        Nel 2016 ho curato la comunicazione politica
+                        della campagna elettorale del Movimento 5 Stelle
+                        di Grosseto, con candidato sindaco Giacomo Gori.
+                        La lista ottenne il 20% dei voti, uno dei risultati
+                        più significativi del Movimento nei centri urbani.
                     </p>
 
                     <p>
@@ -999,19 +1001,9 @@
                     </p>
 
                     <p>
-                        Nel 2016 ho curato la comunicazione politica
-                        della campagna elettorale del Movimento 5 Stelle
-                        di Grosseto, con candidato sindaco Giacomo Gori.
-                        La lista ottenne il 20% dei voti, uno dei risultati
-                        più significativi del Movimento nei centri urbani
-                        di rilievo alle amministrative di quell'anno.
-                    </p>
-
-                    <p>
                         Una parte della mia attività è dedicata
                         alla ricerca del consenso attraverso il sistema
-                        delle preferenze, ambito nel quale ho maturato
-                        esperienza nelle campagne seguite.
+                        delle preferenze.
                     </p>
 
                 </div>
