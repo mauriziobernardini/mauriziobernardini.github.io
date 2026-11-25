@@ -831,7 +831,6 @@
     <div class="container">
 
         <div class="section-top">
-
             <div class="section-label">02 / Ambiti professionali</div>
 
             <h2 class="section-heading">
@@ -843,7 +842,6 @@
                 informazione, strategia, relazioni istituzionali
                 e comunicazione politica.
             </p>
-
         </div>
 
         <div class="expertise-grid">
@@ -912,7 +910,6 @@
         </div>
     </div>
 </section>
-
 
 <!-- ESPERIENZA PROFESSIONALE -->
 
