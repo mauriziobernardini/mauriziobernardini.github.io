@@ -283,7 +283,7 @@
 
     <footer class="site-footer">
         <div class="container footer-inner">
-            <span>Maurizio Bernardini – Giornalista e Consulente | P.IVA: 01792410530</span>
+            <span>Maurizio Bernardini – Giornalista libero professionista | P.IVA: 01792410530</span>
         </div>
     </footer>
 
