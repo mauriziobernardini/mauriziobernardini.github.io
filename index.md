@@ -825,91 +825,103 @@
         </section>
 
 
-        <!-- COMPETENZE -->
+<!-- COMPETENZE -->
 
-        <section class="expertise" id="competenze">
-            <div class="container">
+<section class="expertise" id="competenze">
+    <div class="container">
 
-                <div class="section-top">
+        <div class="section-top">
 
-                    <div class="section-label">02 / Ambiti professionali</div>
+            <div class="section-label">02 / Ambiti professionali</div>
 
-                    <h2 class="section-heading">
-                        Le aree di competenza
-                    </h2>
+            <h2 class="section-heading">
+                Le aree di competenza
+            </h2>
 
-                    <p>
-                        Un'esperienza trasversale che integra
-                        informazione, strategia, relazioni istituzionali
-                        e comunicazione politica.
-                    </p>
+            <p>
+                Un'esperienza trasversale che integra
+                informazione, strategia, relazioni istituzionali
+                e comunicazione politica.
+            </p>
 
-                </div>
+        </div>
 
-                <div class="expertise-grid">
+        <div class="expertise-grid">
 
-                    <article class="expertise-card">
-                        <div class="card-number">01</div>
-                        <h3>Campagne elettorali e comunicazione politica</h3>
-                        <p>
-                            Posizionamento, strategie di consenso,
-                            comunicazione dei candidati e supporto
-                            ai gruppi politici, coordinamento delle
-                            strutture operative e mediazione politica.
-                        </p>
-                    </article>
+            <article class="expertise-card">
+                <div class="card-number">01</div>
+                <h3>Campagne elettorali e comunicazione politica</h3>
+                <p>
+                    Posizionamento, strategie di consenso,
+                    comunicazione dei candidati e supporto
+                    ai gruppi politici, coordinamento delle
+                    strutture operative e mediazione politica.
+                </p>
+            </article>
 
-                    <article class="expertise-card">
-                        <div class="card-number">02</div>
-                        <h3>Comunicazione istituzionale</h3>
-                        <p>
-                            Uffici stampa, coordinamento degli staff
-                            e comunicazione per amministrazioni
-                            e organismi istituzionali.
-                        </p>
-                    </article>
+            <article class="expertise-card">
+                <div class="card-number">02</div>
+                <h3>Comunicazione istituzionale</h3>
+                <p>
+                    Uffici stampa, coordinamento degli staff
+                    e comunicazione per amministrazioni
+                    e organismi istituzionali.
+                </p>
+            </article>
 
-                    <article class="expertise-card">
-                        <div class="card-number">03</div>
-                        <h3>Comunicazione di crisi</h3>
-                        <p>
-                            Gestione della comunicazione in contesti
-                            complessi, mediazione e rapporti
-                            con gli interlocutori istituzionali.
-                        </p>
-                    </article>
+            <article class="expertise-card">
+                <div class="card-number">03</div>
+                <h3>Comunicazione di crisi</h3>
+                <p>
+                    Gestione della comunicazione in contesti
+                    complessi, mediazione e rapporti
+                    con gli interlocutori istituzionali.
+                </p>
+            </article>
 
-                    <article class="expertise-card">
-                        <div class="card-number">04</div>
-                        <h3>Media relations</h3>
-                        <p>
-                            Rapporti con giornalisti, organizzazione
-                            di conferenze stampa, presidio mediatico
-                            e gestione dei contenuti.
-                        </p>
-                    </article>
+            <article class="expertise-card">
+                <div class="card-number">04</div>
+                <h3>Media relations</h3>
+                <p>
+                    Rapporti con giornalisti, organizzazione
+                    di conferenze stampa, presidio mediatico
+                    e gestione dei contenuti.
+                </p>
+            </article>
 
-                    <article class="expertise-card">
-                        <div class="card-number">05</div>
-                        <h3>Strategia digitale</h3>
-                        <p>
-                            Comunicazione crossmediale, social media,
-                            data journalism e applicazioni
-                            dell'intelligenza artificiale.
-                        </p>
-                    </article>
+            <article class="expertise-card">
+                <div class="card-number">05</div>
+                <h3>Strategia digitale</h3>
+                <p>
+                    Comunicazione crossmediale, social media,
+                    data journalism e applicazioni
+                    dell'intelligenza artificiale.
+                </p>
+            </article>
 
-                </div>
-            </div>
-        </section>
+            <article class="expertise-card">
+                <div class="card-number">06</div>
+                <h3>Presentazione eventi</h3>
+                <p>
+                    Conduzione e presentazione di eventi istituzionali,
+                    politici e pubblici, moderazione di incontri,
+                    dibattiti e conferenze, gestione degli interventi
+                    e coordinamento dei momenti di comunicazione.
+                </p>
+            </article>
+
+        </div>
+    </div>
+</section>
 
 
-        <!-- ESPERIENZA PROFESSIONALE -->
+<!-- ESPERIENZA PROFESSIONALE -->
 
-        <section class="experience" id="esperienza">
-            <div class="container">
+<section class="experience" id="esperienza">
+    <div class="container">
 
-                <div class="experience-content">
+        <div class="experience-content">
+
 
                     <h3>Comunicazione istituzionale</h3>
 
