@@ -3,1227 +3,310 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>Maurizio Bernardini | Comunicazione strategica e istituzionale</title>
-
-    <meta name="description" content="Maurizio Bernardini, giornalista professionista e consulente di comunicazione politica, istituzionale e di crisi. Esperienza in campagne elettorali, media relations e strategie di comunicazione.">
-
-    <meta name="author" content="Maurizio Bernardini">
-    <meta name="robots" content="index, follow">
-    <meta name="theme-color" content="#142b40">
-
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="Maurizio Bernardini | Comunicazione strategica">
-    <meta property="og:description" content="Giornalismo, comunicazione politica e istituzionale. Strategia, media relations e gestione della comunicazione complessa.">
-    <meta property="og:locale" content="it_IT">
-
-    <link rel="canonical" href="https://mauriziobernardini.github.io/">
-
+    <title>Maurizio Bernardini - Giornalista professionista e spin doctor</title>
+    <meta name="description" content="Maurizio Bernardini, giornalista professionista e spin doctor specializzato in comunicazione istituzionale, politica e di crisi.">
+    <meta name="google-site-verification" content="8d9043db9f5a90f1" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-
-    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
-
+    <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600;6..72,700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
     <style>
         :root {
-            --navy: #142b40;
-            --navy-light: #203e56;
-            --ink: #202b35;
-            --muted: #68737d;
-            --paper: #f7f6f2;
-            --white: #ffffff;
-            --line: #deded8;
-            --accent: #b18a54;
-            --accent-light: #d6bc94;
-            --serif: "Playfair Display", Georgia, serif;
-            --sans: "DM Sans", Arial, sans-serif;
-            --max: 1120px;
+            --bg: #f4f6f9;
+            --surface: #ffffff;
+            --text: #1c242e;
+            --muted: #5a6675;
+            --navy: #0f2942;
+            --accent: #0f4c81;
+            --linkedin: #0077b5;
+            --linkedin-hover: #005582;
+            --border: #e2e8f0;
         }
 
-        * {
+        *, *::before, *::after {
             box-sizing: border-box;
-            margin: 0;
-            padding: 0;
         }
 
         html {
             scroll-behavior: smooth;
-            scroll-padding-top: 90px;
+            -webkit-text-size-adjust: 100%;
         }
 
         body {
-            background: var(--paper);
-            color: var(--ink);
-            font-family: var(--sans);
-            font-size: 16px;
+            margin: 0;
+            background-color: var(--bg);
+            color: var(--text);
+            font-family: "Plus Jakarta Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
             line-height: 1.75;
-            -webkit-font-smoothing: antialiased;
-        }
-
-        a {
-            color: inherit;
-            text-decoration: none;
+            font-size: 16px;
+            overflow-x: hidden;
         }
 
         .container {
-            width: min(var(--max), calc(100% - 64px));
-            margin: auto;
+            width: 100%;
+            max-width: 820px;
+            margin: 0 auto;
+            padding: 0 20px;
         }
-
-        /* NAVIGAZIONE */
-
-        .navigation {
-            position: sticky;
-            top: 0;
-            z-index: 100;
-            background: rgba(247,246,242,.96);
-            backdrop-filter: blur(12px);
-            border-bottom: 1px solid var(--line);
-        }
-
-        .nav-inner {
-            min-height: 76px;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            gap: 30px;
-        }
-
-        .brand {
-            font-family: var(--serif);
-            font-size: 20px;
-            font-weight: 600;
-            color: var(--navy);
-            letter-spacing: -.4px;
-        }
-
-        .nav-links {
-            display: flex;
-            align-items: center;
-            gap: 30px;
-        }
-
-        .nav-links a {
-            font-size: 12px;
-            font-weight: 600;
-            letter-spacing: .055em;
-            text-transform: uppercase;
-            color: #58636d;
-            transition: color .2s;
-        }
-
-        .nav-links a:hover {
-            color: var(--accent);
-        }
-
-        /* HERO */
 
         .hero {
-            background: var(--navy);
-            color: white;
-            position: relative;
-            overflow: hidden;
+            background: linear-gradient(135deg, #0f2942 0%, #19456b 100%);
+            color: #ffffff;
+            padding: 52px 0 44px;
+            border-bottom: 3px solid var(--linkedin);
         }
 
-        .hero::after {
-            content: "";
-            position: absolute;
-            width: 440px;
-            height: 440px;
-            border: 1px solid rgba(214,188,148,.18);
-            border-radius: 50%;
-            right: -100px;
-            top: -200px;
-            box-shadow:
-                0 0 0 45px rgba(214,188,148,.025),
-                0 0 0 90px rgba(214,188,148,.025);
-            pointer-events: none;
-        }
-
-        .hero-inner {
-            min-height: 530px;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            padding-top: 90px;
-            padding-bottom: 100px;
-            position: relative;
-            z-index: 1;
-        }
-
-        .eyebrow {
-            display: flex;
-            align-items: center;
-            gap: 14px;
-            color: var(--accent-light);
-            font-size: 11px;
-            font-weight: 700;
-            letter-spacing: .17em;
+        .hero-kicker {
+            display: block;
+            font-size: 0.82rem;
+            letter-spacing: 0.06em;
             text-transform: uppercase;
-            margin-bottom: 32px;
-        }
-
-        .eyebrow::before {
-            content: "";
-            width: 36px;
-            height: 1px;
-            background: var(--accent);
+            color: #c8dcf0;
+            margin-bottom: 10px;
+            font-weight: 600;
         }
 
         .hero h1 {
-            font-family: var(--serif);
-            font-size: clamp(52px, 7vw, 88px);
-            font-weight: 500;
-            line-height: 1.06;
-            letter-spacing: -2px;
-            max-width: 850px;
-            margin-bottom: 25px;
-        }
-
-        .hero h1 span {
-            color: var(--accent-light);
-        }
-
-        .hero-description {
-            font-size: 18px;
-            line-height: 1.65;
-            color: #d1dbe3;
-            max-width: 650px;
-            font-weight: 400;
-        }
-
-        .hero-bottom {
-            display: flex;
-            align-items: center;
-            gap: 24px;
-            margin-top: 45px;
-        }
-
-        .hero-link {
-            display: inline-flex;
-            align-items: center;
-            gap: 12px;
-            color: white;
-            font-size: 12px;
+            margin: 0 0 10px;
+            font-family: "Newsreader", Georgia, serif;
+            font-size: 2.45rem;
+            line-height: 1.15;
             font-weight: 700;
-            letter-spacing: .08em;
-            text-transform: uppercase;
-            border-bottom: 1px solid var(--accent);
-            padding-bottom: 8px;
-            transition: color .2s;
+            color: #ffffff;
         }
 
-        .hero-link:hover {
-            color: var(--accent-light);
+        .hero-subtitle {
+            margin: 0;
+            font-size: 1.08rem;
+            color: #e6eff8;
+            font-weight: 500;
         }
 
-        /* INTRODUZIONE */
-
-        .intro {
-            padding: 110px 0;
-            border-bottom: 1px solid var(--line);
+        main {
+            padding: 32px 0 48px;
         }
 
-        .section-label {
+        .sheet {
+            background: var(--surface);
+            border-radius: 10px;
+            padding: 36px 40px;
+            box-shadow:
+                0 12px 30px rgba(15, 41, 66, 0.08),
+                0 2px 8px rgba(15, 41, 66, 0.04);
+            overflow-wrap: break-word;
+            word-wrap: break-word;
+        }
+
+        .lead-highlight {
+            font-family: "Newsreader", Georgia, serif;
+            font-size: 1.25rem;
+            line-height: 1.45;
+            font-weight: 600;
+            color: var(--navy);
+            border-left: 3px solid var(--accent);
+            padding-left: 14px;
+            margin: 24px 0;
+        }
+
+        p {
+            margin: 0 0 18px;
+            text-align: left;
+        }
+
+        a {
             color: var(--accent);
-            font-size: 11px;
-            font-weight: 700;
-            text-transform: uppercase;
-            letter-spacing: .16em;
-            margin-bottom: 20px;
-        }
-
-        .intro-grid {
-            display: grid;
-            grid-template-columns: .75fr 1.25fr;
-            gap: 90px;
-        }
-
-        .section-heading {
-            font-family: var(--serif);
-            color: var(--navy);
-            font-size: clamp(36px, 4vw, 51px);
-            font-weight: 500;
-            line-height: 1.2;
-        }
-
-        .intro-content p {
-            font-size: 16px;
-            color: #505c66;
-            margin-bottom: 22px;
-        }
-
-        .intro-content .highlight {
-            font-family: var(--serif);
-            font-size: 25px;
-            line-height: 1.55;
-            color: var(--navy);
-            border-left: 2px solid var(--accent);
-            padding-left: 25px;
-            margin: 32px 0;
-        }
-
-        .intro-content a,
-        .experience-content a {
-            color: #315c7a;
             text-decoration: underline;
-            text-decoration-color: #b8c7d2;
-            text-underline-offset: 4px;
+            text-decoration-thickness: 1.5px;
+            text-underline-offset: 3px;
+            overflow-wrap: break-word;
         }
 
-        .intro-content a:hover,
-        .experience-content a:hover {
-            color: var(--accent);
+        a:hover {
+            color: var(--linkedin-hover);
         }
 
-        /* COMPETENZE */
-
-        .expertise {
-            background: #eeede7;
-            padding: 100px 0;
-        }
-
-        .section-top {
-            max-width: 650px;
-            margin-bottom: 55px;
-        }
-
-        .section-top p {
-            color: var(--muted);
-            margin-top: 18px;
-        }
-
-        .expertise-grid {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 1px;
-            background: #d9d8d0;
-            border: 1px solid #d9d8d0;
-        }
-
-        .expertise-card {
-            background: #eeede7;
-            padding: 35px 30px;
-            min-height: 215px;
-            transition: background .2s;
-        }
-
-        .expertise-card:hover {
-            background: #fff;
-        }
-
-        .card-number {
-            font-family: var(--serif);
-            color: var(--accent);
-            font-size: 25px;
-            margin-bottom: 25px;
-        }
-
-        .expertise-card h3 {
-            font-family: var(--serif);
-            font-size: 22px;
-            font-weight: 500;
+        h2 {
+            margin: 34px 0 14px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            font-family: "Newsreader", Georgia, serif;
+            font-size: 1.45rem;
+            font-weight: 700;
+            line-height: 1.3;
             color: var(--navy);
+        }
+
+        .btn-linkedin {
+            display: inline-block;
+            padding: 12px 22px;
+            background-color: var(--linkedin);
+            color: #ffffff;
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: 600;
+            margin-top: 6px;
+            text-align: center;
+            transition: background-color 0.2s ease;
+        }
+
+        .btn-linkedin:hover {
+            background-color: var(--linkedin-hover);
+            color: #ffffff;
+        }
+
+        .privacy-toggle {
+            margin-top: 30px;
+            padding-top: 14px;
+            border-top: 1px solid var(--border);
+            font-size: 0.82rem;
+            color: var(--muted);
+        }
+
+        .privacy-toggle summary {
+            cursor: pointer;
+            display: inline-block;
+            color: var(--muted);
+            text-decoration: underline;
+            text-underline-offset: 2px;
+        }
+
+        .privacy-toggle summary:hover {
+            color: var(--accent);
+        }
+
+        .privacy-content {
+            margin-top: 12px;
+            padding-top: 10px;
+            font-size: 0.83rem;
+            line-height: 1.6;
+        }
+
+        .privacy-content p {
             margin-bottom: 10px;
         }
 
-        .expertise-card p {
-            font-size: 13px;
+        .privacy-content p:last-child {
+            margin-bottom: 0;
+        }
+
+        .site-footer {
+            background: var(--surface);
+            border-top: 1px solid var(--border);
+            padding: 24px 0;
+            font-size: 0.9rem;
             color: var(--muted);
-            line-height: 1.7;
-        }
-
-        /* ESPERIENZA */
-
-        .experience {
-            padding: 110px 0;
-        }
-
-        .experience-grid {
-            display: grid;
-            grid-template-columns: .75fr 1.25fr;
-            gap: 90px;
-        }
-
-        .experience-content p {
-            color: #505c66;
-            margin-bottom: 22px;
-        }
-
-        .experience-content h3 {
-            font-family: var(--serif);
-            font-size: 27px;
-            font-weight: 500;
-            color: var(--navy);
-            margin: 42px 0 15px;
-        }
-
-        /* FORMAZIONE */
-
-        .education {
-            background: var(--navy);
-            color: white;
-            padding: 90px 0;
-        }
-
-        .education .section-heading {
-            color: white;
-        }
-
-        .education-grid {
-            display: grid;
-            grid-template-columns: .75fr 1.25fr;
-            gap: 90px;
-        }
-
-        .education-content p {
-            color: #d0d9df;
-            margin-bottom: 20px;
-        }
-
-        .education-note {
-            border-left: 2px solid var(--accent);
-            padding-left: 22px;
-            font-family: var(--serif);
-            font-size: 22px;
-            line-height: 1.5;
-            color: var(--accent-light);
-            margin-top: 30px;
-        }
-
-        /* RIFERIMENTI */
-
-        .references {
-            padding: 100px 0;
-            border-bottom: 1px solid var(--line);
-        }
-
-        .references-inner {
-            display: grid;
-            grid-template-columns: .75fr 1.25fr;
-            gap: 90px;
-        }
-
-        .reference-content p {
-            color: #505c66;
-            margin-bottom: 20px;
-        }
-
-        .reference-list {
-            list-style: none;
-            margin-top: 30px;
-        }
-
-        .reference-list li {
-            border-top: 1px solid var(--line);
-            padding: 17px 0;
-            color: var(--navy);
-            font-size: 15px;
-        }
-
-        .reference-list li:last-child {
-            border-bottom: 1px solid var(--line);
-        }
-
-        /* CONTATTI */
-
-        .contact {
-            background: #eeede7;
-            padding: 100px 0;
-        }
-
-        .contact-inner {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            align-items: center;
-            gap: 60px;
-        }
-
-        .contact h2 {
-            font-family: var(--serif);
-            font-size: clamp(38px, 5vw, 58px);
-            color: var(--navy);
-            font-weight: 500;
-            line-height: 1.15;
-        }
-
-        .contact-content p {
-            color: var(--muted);
-            margin-bottom: 25px;
-        }
-
-        .contact-button {
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            padding: 15px 25px;
-            background: var(--navy);
-            color: white;
-            font-size: 12px;
-            font-weight: 700;
-            letter-spacing: .08em;
-            text-transform: uppercase;
-            transition: background .2s;
-        }
-
-        .contact-button:hover {
-            background: var(--accent);
-        }
-
-        /* FOOTER */
-
-        footer {
-            background: #102436;
-            color: #d0d9df;
-            padding: 40px 0;
         }
 
         .footer-inner {
             display: flex;
+            flex-wrap: wrap;
             justify-content: space-between;
+            gap: 12px;
             align-items: center;
-            gap: 30px;
         }
 
-        .footer-name {
-            font-family: var(--serif);
-            font-size: 21px;
-            color: white;
-        }
-
-        .footer-meta {
-            font-size: 11px;
-            color: #aebbc5;
-            line-height: 1.8;
-        }
-
-        .footer-links {
-            display: flex;
-            gap: 20px;
-            font-size: 12px;
-        }
-
-        .footer-links a:hover {
-            color: var(--accent-light);
-        }
-
-        /* PRIVACY */
-
-        .privacy {
-            background: #102436;
-            border-top: 1px solid #334656;
-            padding: 25px 0;
-            color: #aebbc5;
-        }
-
-        .privacy summary {
-            cursor: pointer;
-            font-size: 12px;
-            font-weight: 600;
-            letter-spacing: .08em;
-            text-transform: uppercase;
-        }
-
-        .privacy-content {
-            padding-top: 20px;
-            max-width: 800px;
-            font-size: 12px;
-            line-height: 1.8;
-        }
-
-        .privacy-content p {
-            margin-bottom: 12px;
-        }
-
-        .privacy-content a {
-            text-decoration: underline;
-        }
-
-        /* RESPONSIVE */
-
-        @media (max-width: 850px) {
+        @media (max-width: 600px) {
             .container {
-                width: min(100% - 44px, var(--max));
+                padding: 0 14px;
             }
-
-            .nav-links {
-                gap: 16px;
+            .hero {
+                padding: 36px 0 32px;
             }
-
-            .nav-links a {
-                font-size: 10px;
+            .hero-kicker {
+                font-size: 0.78rem;
             }
-
-            .intro-grid,
-            .experience-grid,
-            .education-grid,
-            .references-inner {
-                grid-template-columns: 1fr;
-                gap: 35px;
-            }
-
-            .expertise-grid {
-                grid-template-columns: repeat(2, 1fr);
-            }
-
-            .contact-inner {
-                grid-template-columns: 1fr;
-                gap: 25px;
-            }
-        }
-
-        @media (max-width: 580px) {
-            .container {
-                width: calc(100% - 36px);
-            }
-
-            .nav-inner {
-                min-height: 65px;
-                flex-direction: column;
-                justify-content: center;
-                gap: 7px;
-                padding: 10px 0;
-            }
-
-            .brand {
-                font-size: 19px;
-            }
-
-            .nav-links {
-                width: 100%;
-                justify-content: center;
-                gap: 16px;
-                flex-wrap: wrap;
-            }
-
-            .nav-links a {
-                font-size: 9px;
-            }
-
-            .hero-inner {
-                min-height: 440px;
-                padding: 75px 0;
-            }
-
             .hero h1 {
-                font-size: 52px;
-                letter-spacing: -1.5px;
+                font-size: 1.9rem;
             }
-
-            .hero-description {
-                font-size: 16px;
+            .hero-subtitle {
+                font-size: 1rem;
             }
-
-            .intro,
-            .experience,
-            .references,
-            .contact {
-                padding: 70px 0;
+            main {
+                padding: 20px 0 36px;
             }
-
-            .expertise,
-            .education {
-                padding: 70px 0;
+            .sheet {
+                padding: 22px 16px;
+                border-radius: 8px;
+                box-shadow: 0 6px 20px rgba(15, 41, 66, 0.07);
             }
-
-            .expertise-grid {
-                grid-template-columns: 1fr;
+            .lead-highlight {
+                font-size: 1.12rem;
             }
-
-            .expertise-card {
-                min-height: auto;
-                padding: 27px;
+            h2 {
+                font-size: 1.3rem;
+                margin: 28px 0 12px;
             }
-
-            .section-heading {
-                font-size: 38px;
+            body {
+                font-size: 15.5px;
+                line-height: 1.68;
             }
-
-            .intro-content .highlight {
-                font-size: 22px;
-            }
-
-            .footer-inner {
-                flex-direction: column;
-                align-items: flex-start;
-            }
-
-            .footer-links {
-                flex-wrap: wrap;
-            }
-        }
-
-        @media (prefers-reduced-motion: reduce) {
-            html {
-                scroll-behavior: auto;
-            }
-
-            *, *::before, *::after {
-                transition-duration: .01ms !important;
+            .btn-linkedin {
+                display: block;
+                width: 100%;
             }
         }
     </style>
 </head>
-
 <body>
 
-    <!-- NAVIGAZIONE -->
-
-    <nav class="navigation">
-        <div class="container nav-inner">
-
-            <a href="#inizio" class="brand">
-                Maurizio Bernardini
-            </a>
-
-            <div class="nav-links">
-                <a href="#profilo">Profilo</a>
-                <a href="#competenze">Competenze</a>
-                <a href="#esperienza">Esperienza</a>
-                <a href="#formazione">Formazione</a>
-                <a href="#contatti">Contatti</a>
-            </div>
-
-        </div>
-    </nav>
-
-
-    <!-- HERO -->
-
-    <header class="hero" id="inizio">
-        <div class="container hero-inner">
-
-            <div class="eyebrow">
-                Comunicazione strategica e istituzionale
-            </div>
-
-            <h1>
-                Maurizio<br>
-                <span>Bernardini.</span>
-            </h1>
-
-            <p class="hero-description">
-                Giornalista professionista e consulente di comunicazione
-                politica, istituzionale e di crisi.
-                Strategia, relazioni con i media e gestione della
-                comunicazione complessa.
-            </p>
-
-            <div class="hero-bottom">
-                <a href="#profilo" class="hero-link">
-                    Scopri il profilo <span>→</span>
-                </a>
-            </div>
-
+    <header class="hero">
+        <div class="container">
+            <span class="hero-kicker">Comunicazione istituzionale, politica e di crisi</span>
+            <h1>Maurizio Bernardini</h1>
+            <p class="hero-subtitle"><strong>Giornalista professionista e spin doctor</strong></p>
         </div>
     </header>
 
-
     <main>
+        <div class="container">
+            <article class="sheet">
+                <h2>Profilo e incarichi</h2>
+                <p>Classe '82, Grosseto, sono un giornalista professionista e spin doctor italiano di comprovata esperienza, specializzato nella comunicazione istituzionale, politica e di crisi. Come consulente indipendente metto la mia strategia al servizio di diversi leader e partiti. Sono attivo soprattutto in Toscana, Emilia-Romagna, Lazio e Liguria, e ho lavorato in importanti città capoluogo tra cui Firenze, Bologna, Roma, Parma, Grosseto, Piacenza, Reggio Emilia e Imperia. Opero come libero professionista e consulente per committenti pubblici e privati, mantenendo un approccio indipendente e orientato esclusivamente al metodo. In questa veste tecnica, l'ultimo incarico che ho assunto è quello di coordinamento e indirizzo operativo dello staff di comunicazione per il gruppo assembleare di Forza Italia <a href="https://wwwservizi.regione.emilia-romagna.it/amministrazionetrasparente/Incarichi/RegioneEmiliaRomagna/Dettaglio/996" target="_blank" rel="noopener noreferrer">in Regione Emilia-Romagna</a>.</p>
 
-        <!-- PROFILO -->
+                <p class="lead-highlight"><a href="https://jobseekeritalia.it/2016/03/16/professionisti-comunicazione-politica-digitale/" target="_blank" rel="noopener noreferrer">Riconosciuto tra i principali spin doctor italiani.</a></p>
 
-        <section class="intro" id="profilo">
-            <div class="container intro-grid">
+                <h2>Giornalismo, formazione e strategia</h2>
+                <p>La mia identità professionale si sviluppa lungo due binari paralleli e complementari: da un lato la solida esperienza sul campo nella cronaca bianca (politica, economia, sociale, attualità) per realtà televisive e digitali e importanti giornali come il quotidiano di Livorno <em>Il Tirreno</em> e l'edizione toscana del <em>Corriere della Sera</em>; dall'altro la gestione strategica dell'immagine e delle relazioni pubbliche per enti e politici di alto livello. Questa duplice natura mi consente di muovermi con competenza crossmediale, sia nella supervisione di contenuti complessi, sia nel coordinamento di uffici stampa istituzionali.</p>
 
-                <div>
-                    <div class="section-label">01 / Profilo</div>
-                    <h2 class="section-heading">
-                        Esperienza giornalistica.
-                        Visione strategica.
-                    </h2>
-                </div>
+                <p>Nel corso della mia attività ho collaborato, a vario titolo, anche durante i periodi elettorali, a strategie, organizzazione di conferenze stampa ed eventi che hanno visto al centro personalità di assoluto rilievo come vicepresidenti del Consiglio, ministri, vicepresidenti del Parlamento europeo, deputati, senatori, eurodeputati, consiglieri regionali e sindaci.</p>
 
-                <div class="intro-content">
+                <p>Ho un solido percorso accademico: laurea in Storia conseguita a Bologna, laurea magistrale in Comunicazione digitale e Marketing e master in Giornalismo e comunicazione. Una formazione multidisciplinare che si riflette nella mia capacità di mediazione, problem solving e coordinamento di staff.</p>
 
-                    <p>
-                        Classe 1982, originario di Grosseto, sono un
-                        giornalista professionista e consulente di
-                        comunicazione politica e istituzionale.
-                        Opero come libero professionista e consulente
-                        indipendente per committenti pubblici e privati,
-                        mettendo la mia esperienza al servizio di
-                        strategie di comunicazione, relazioni istituzionali
-                        e gestione dei rapporti con il sistema
-                        dell'informazione.
-                    </p>
+                <p>La mia visione unisce la padronanza degli strumenti mediatici tradizionali e digitali a una spiccata attitudine alla rappresentanza istituzionale e alla mediazione politica e di crisi. Il tutto supportato da un costante aggiornamento sui temi chiave dell'informazione contemporanea, come il data journalism, la gestione della par condicio, il presidio televisivo, i sistemi elettorali e le applicazioni dell'intelligenza artificiale nel mondo della comunicazione.</p>
 
-                    <p>
-                        La mia attività si sviluppa soprattutto in Toscana,
-                        Emilia-Romagna, Lazio e Liguria. Nel corso della
-                        carriera ho lavorato in importanti città capoluogo,
-                        tra cui Firenze, Bologna, Roma, Parma, Grosseto,
-                        Piacenza, Reggio Emilia e Imperia.
-                    </p>
+                <h2>Istituzioni, campagne elettorali e collaborazioni</h2>
+                <p>Come giornalista politico e spin doctor ho guidato numerose campagne elettorali per forze politiche e civiche in ambito locale, regionale e nazionale, occupandomi in prima persona del posizionamento dei candidati e della scelta dei relativi staff, dell'elaborazione di discorsi, del media training, della gestione dei rapporti con la stampa e delle strategie di comunicazione, compresi i social.</p>
 
-                    <div class="highlight">
-                        Giornalismo, comunicazione politica e istituzioni:
-                        tre dimensioni di un percorso professionale
-                        orientato alla strategia e alla gestione della
-                        complessità.
+                <p>Nella mia carriera ho creato e gestito numerosi staff di giornalisti e professionisti di settore, riuscendo ad accrescere il consenso dei miei committenti e a mantenere equilibri delicati.</p>
+
+                <p>Forte anche il mio impegno in ambito istituzionale. Su questo fronte, tra le personalità seguite si segnalano il sindaco di Grosseto Antonfrancesco Vivarelli Colonna (<a href="https://www.comune.grosseto.it/persona_pubblica/bernardini-maurizio/" target="_blank" rel="noopener noreferrer">Capo ufficio stampa del Comune</a>) e il sindaco e presidente della Provincia di Imperia ed ex ministro Claudio Scajola, per il quale sono stato Portavoce, Capo di Gabinetto e responsabile del settore comunicazione. In passato ho inoltre ricoperto il ruolo di Capo comunicazione del Movimento 5 Stelle in <a href="https://trasparenza.consiglio.regione.toscana.it/node/26930" target="_blank" rel="noopener noreferrer">Regione Toscana</a>.</p>
+
+                <p>Sono stato inoltre spin doctor di personalità influenti come l'ex coordinatore toscano della Lega e deputato Mario Lolini e l'ex sindaco di Parma, attuale capogruppo in Regione Emilia-Romagna per Forza Italia e segretario regionale Pietro Vignali. Ho inoltre curato la comunicazione politica della campagna elettorale del Movimento 5 Stelle di Grosseto del 2016 (candidato sindaco Giacomo Gori) con il record del 20% dei voti ottenuti, tra i migliori risultati di sempre del M5S in Italia alle Amministrative nei centri urbani di rilievo.</p>
+
+                <p>Come dimostrato dai risultati elettorali nelle campagne seguite e dai record conseguiti, sono anche specializzato nella ricerca del consenso legato al sistema delle preferenze.</p>
+
+                <p>In passato ho inoltre prestato la mia professionalità per l'Istituto storico grossetano della Resistenza e dell'età contemporanea, per la cooperativa fiorentina Cooplat e per esponenti del Partito Democratico.</p>
+
+                <h2>Contatti e Riferimenti</h2>
+                <p>Per consulenze e contatti professionali:</p>
+                <a class="btn-linkedin" href="https://www.linkedin.com/in/mauber" target="_blank" rel="noopener noreferrer">Il mio profilo LinkedIn</a>
+
+                <details id="privacy" class="privacy-toggle">
+                    <summary>Privacy</summary>
+                    <div class="privacy-content">
+                        <p><strong>Titolare del trattamento:</strong> Maurizio Bernardini, Giornalista libero professionista — P.IVA: 01792410530. Contatti tramite profilo <a href="https://www.linkedin.com/in/mauber" target="_blank" rel="noopener noreferrer">LinkedIn</a>.</p>
+                        <p><strong>Dati e finalità:</strong> La navigazione non richiede registrazione. Il server/hosting può registrare solo dati tecnici di connessione (IP, browser, orario) per sicurezza e funzionamento. Link esterni (LinkedIn, enti) seguono le rispettive informative. Eventuali cookie sono solo tecnici.</p>
+                        <p><strong>Diritti GDPR (artt. 15–22):</strong> Accesso, rettifica, cancellazione, limitazione, opposizione e reclamo al Garante per la protezione dei dati personali.</p>
                     </div>
-
-                    <p>
-                        Nell'ambito della consulenza istituzionale,
-                        ho assunto l'incarico di coordinamento e
-                        indirizzo operativo dello staff di comunicazione
-                        per il gruppo assembleare di Forza Italia
-                        in Regione Emilia-Romagna.
-                        <a href="https://wwwservizi.regione.emilia-romagna.it/amministrazionetrasparente/Incarichi/RegioneEmiliaRomagna/Dettaglio/996"
-                           target="_blank" rel="noopener noreferrer">
-                            Consulta il riferimento istituzionale.
-                        </a>
-                    </p>
-
-                    <p>
-                        Sono stato inoltre riconosciuto tra i principali
-                        professionisti italiani della comunicazione
-                        politica digitale.
-                        <a href="https://jobseekeritalia.it/2016/03/16/professionisti-comunicazione-politica-digitale/"
-                           target="_blank" rel="noopener noreferrer">
-                            Leggi il riferimento.
-                        </a>
-                    </p>
-
-                </div>
-            </div>
-        </section>
-
-
-        <!-- COMPETENZE -->
-
-        <section class="expertise" id="competenze">
-            <div class="container">
-
-                <div class="section-top">
-                    <div class="section-label">02 / Ambiti professionali</div>
-
-                    <h2 class="section-heading">
-                        Le aree di competenza.
-                    </h2>
-
-                    <p>
-                        Un'esperienza trasversale che integra
-                        informazione, strategia, relazioni istituzionali
-                        e comunicazione politica.
-                    </p>
-                </div>
-
-                <div class="expertise-grid">
-
-                    <article class="expertise-card">
-                        <div class="card-number">01</div>
-                        <h3>Comunicazione politica</h3>
-                        <p>
-                            Posizionamento, strategie di consenso,
-                            comunicazione dei candidati e supporto
-                            ai gruppi politici.
-                        </p>
-                    </article>
-
-                    <article class="expertise-card">
-                        <div class="card-number">02</div>
-                        <h3>Comunicazione istituzionale</h3>
-                        <p>
-                            Uffici stampa, coordinamento degli staff
-                            e comunicazione per amministrazioni
-                            e organismi istituzionali.
-                        </p>
-                    </article>
-
-                    <article class="expertise-card">
-                        <div class="card-number">03</div>
-                        <h3>Media relations</h3>
-                        <p>
-                            Rapporti con giornalisti, organizzazione
-                            di conferenze stampa, presidio mediatico
-                            e gestione dei contenuti.
-                        </p>
-                    </article>
-
-                    <article class="expertise-card">
-                        <div class="card-number">04</div>
-                        <h3>Campagne elettorali</h3>
-                        <p>
-                            Organizzazione, strategia, comunicazione,
-                            discorsi, social media e coordinamento
-                            delle strutture operative.
-                        </p>
-                    </article>
-
-                    <article class="expertise-card">
-                        <div class="card-number">05</div>
-                        <h3>Comunicazione di crisi</h3>
-                        <p>
-                            Gestione della comunicazione in contesti
-                            complessi, mediazione e rapporti
-                            con gli interlocutori istituzionali.
-                        </p>
-                    </article>
-
-                    <article class="expertise-card">
-                        <div class="card-number">06</div>
-                        <h3>Strategia digitale</h3>
-                        <p>
-                            Comunicazione crossmediale, social media,
-                            data journalism e applicazioni
-                            dell'intelligenza artificiale.
-                        </p>
-                    </article>
-
-                </div>
-            </div>
-        </section>
-
-
-        <!-- ESPERIENZA -->
-
-        <section class="experience" id="esperienza">
-            <div class="container experience-grid">
-
-                <div>
-                    <div class="section-label">03 / Esperienza</div>
-                    <h2 class="section-heading">
-                        Istituzioni, politica e informazione.
-                    </h2>
-                </div>
-
-                <div class="experience-content">
-
-                    <h3>Comunicazione istituzionale</h3>
-
-                    <p>
-                        Ho ricoperto incarichi di responsabilità
-                        nella comunicazione di amministrazioni
-                        pubbliche e organismi politici.
-                    </p>
-
-                    <p>
-                        Sono stato Capo ufficio stampa del Comune
-                        di Grosseto durante l'amministrazione
-                        del sindaco Antonfrancesco Vivarelli Colonna.
-                        <a href="https://www.comune.grosseto.it/persona_pubblica/bernardini-maurizio/"
-                           target="_blank" rel="noopener noreferrer">
-                            Riferimento istituzionale.
-                        </a>
-                    </p>
-
-                    <p>
-                        Ho inoltre lavorato al fianco del sindaco
-                        e presidente della Provincia di Imperia,
-                        già ministro, Claudio Scajola, ricoprendo
-                        gli incarichi di Portavoce, Capo di Gabinetto
-                        e responsabile del settore comunicazione.
-                    </p>
-
-                    <p>
-                        In precedenza ho ricoperto il ruolo di
-                        Capo comunicazione del Movimento 5 Stelle
-                        in Regione Toscana.
-                        <a href="https://trasparenza.consiglio.regione.toscana.it/node/26930"
-                           target="_blank" rel="noopener noreferrer">
-                            Riferimento istituzionale.
-                        </a>
-                    </p>
-
-
-                    <h3>Consulenza politica</h3>
-
-                    <p>
-                        Nel corso della mia attività professionale
-                        ho seguito, a vario titolo, esponenti politici
-                        di diversi orientamenti, occupandomi
-                        di posizionamento, strategia, rapporti
-                        con i media e coordinamento della comunicazione.
-                    </p>
-
-                    <p>
-                        Tra le personalità seguite figurano
-                        Mario Lolini, già coordinatore toscano
-                        della Lega e deputato, e Pietro Vignali,
-                        già sindaco di Parma, attuale capogruppo
-                        di Forza Italia in Regione Emilia-Romagna
-                        e segretario regionale.
-                    </p>
-
-                    <p>
-                        Ho inoltre collaborato con personalità
-                        istituzionali e politiche di rilievo nazionale
-                        ed europeo, tra cui vicepresidenti del Consiglio,
-                        ministri, vicepresidenti del Parlamento europeo,
-                        deputati, senatori, eurodeputati, consiglieri
-                        regionali e sindaci.
-                    </p>
-
-
-                    <h3>Campagne elettorali</h3>
-
-                    <p>
-                        Ho guidato e contribuito a numerose campagne
-                        elettorali in ambito locale, regionale e nazionale,
-                        curando il posizionamento dei candidati,
-                        l'organizzazione degli staff, l'elaborazione
-                        dei discorsi, il media training, le conferenze
-                        stampa, la comunicazione digitale e le relazioni
-                        con il sistema dell'informazione.
-                    </p>
-
-                    <p>
-                        Nel 2016 ho curato la comunicazione politica
-                        della campagna elettorale del Movimento 5 Stelle
-                        di Grosseto, con candidato sindaco Giacomo Gori.
-                        La lista ottenne il 20% dei voti, uno dei risultati
-                        più significativi del Movimento nei centri urbani
-                        di rilievo alle amministrative di quell'anno.
-                    </p>
-
-                    <p>
-                        Una parte della mia attività è dedicata
-                        alla ricerca del consenso attraverso il sistema
-                        delle preferenze, ambito nel quale ho maturato
-                        esperienza nelle campagne seguite.
-                    </p>
-
-                    <p>
-                        Ho inoltre prestato la mia professionalità
-                        all'Istituto storico grossetano della Resistenza
-                        e dell'età contemporanea, alla cooperativa
-                        fiorentina Cooplat e a esponenti del
-                        Partito Democratico.
-                    </p>
-
-                </div>
-            </div>
-        </section>
-
-
-        <!-- FORMAZIONE E GIORNALISMO -->
-
-        <section class="education" id="formazione">
-            <div class="container education-grid">
-
-                <div>
-                    <div class="section-label">04 / Giornalismo e formazione</div>
-                    <h2 class="section-heading">
-                        Il valore dell'informazione.
-                    </h2>
-                </div>
-
-                <div class="education-content">
-
-                    <p>
-                        La mia identità professionale si fonda
-                        sull'integrazione tra esperienza giornalistica
-                        e consulenza strategica.
-                    </p>
-
-                    <p>
-                        Ho lavorato nella cronaca bianca, occupandomi
-                        di politica, economia, società e attualità,
-                        per realtà televisive e digitali e per importanti
-                        testate giornalistiche, tra cui
-                        <em>Il Tirreno</em> e l'edizione toscana
-                        del <em>Corriere della Sera</em>.
-                    </p>
-
-                    <p>
-                        Questa esperienza mi ha consentito di sviluppare
-                        una conoscenza diretta dei meccanismi
-                        dell'informazione, delle dinamiche editoriali
-                        e delle relazioni tra istituzioni e media.
-                    </p>
-
-                    <p>
-                        Ho conseguito una laurea in Storia a Bologna,
-                        una laurea magistrale in Comunicazione digitale
-                        e Marketing e un master in Giornalismo
-                        e comunicazione.
-                    </p>
-
-                    <p>
-                        Nel mio aggiornamento professionale trovano
-                        spazio temi come data journalism, par condicio,
-                        presidio televisivo, sistemi elettorali
-                        e applicazioni dell'intelligenza artificiale
-                        nella comunicazione.
-                    </p>
-
-                    <div class="education-note">
-                        La conoscenza del giornalismo e delle istituzioni
-                        rappresenta il punto di incontro tra analisi,
-                        strategia e comunicazione.
-                    </div>
-
-                </div>
-            </div>
-        </section>
-
-
-        <!-- RIFERIMENTI -->
-
-        <section class="references">
-            <div class="container references-inner">
-
-                <div>
-                    <div class="section-label">05 / Approccio</div>
-                    <h2 class="section-heading">
-                        Indipendenza e metodo.
-                    </h2>
-                </div>
-
-                <div class="reference-content">
-
-                    <p>
-                        Opero come professionista indipendente,
-                        collaborando con committenti pubblici
-                        e privati in contesti politici e istituzionali
-                        differenti.
-                    </p>
-
-                    <p>
-                        Il mio approccio si fonda sulla conoscenza
-                        del sistema dell'informazione, sulla capacità
-                        di coordinamento e sulla comprensione
-                        delle dinamiche istituzionali e politiche.
-                    </p>
-
-                    <p>
-                        La varietà delle esperienze maturate costituisce
-                        un patrimonio professionale che consente
-                        di affrontare situazioni complesse con
-                        una prospettiva trasversale.
-                    </p>
-
-                    <ul class="reference-list">
-                        <li>Giornalismo professionale</li>
-                        <li>Comunicazione politica e istituzionale</li>
-                        <li>Strategia e coordinamento</li>
-                        <li>Relazioni con il sistema dei media</li>
-                        <li>Gestione della comunicazione complessa</li>
-                    </ul>
-
-                </div>
-            </div>
-        </section>
-
-
-        <!-- CONTATTI -->
-
-        <section class="contact" id="contatti">
-            <div class="container contact-inner">
-
-                <div>
-                    <div class="section-label">06 / Contatti professionali</div>
-
-                    <h2>
-                        Parliamo di comunicazione e strategia.
-                    </h2>
-                </div>
-
-                <div class="contact-content">
-
-                    <p>
-                        Per consulenze, collaborazioni
-                        e contatti professionali è possibile
-                        utilizzare il mio profilo LinkedIn.
-                    </p>
-
-                    <a class="contact-button"
-                       href="https://www.linkedin.com/in/mauber"
-                       target="_blank"
-                       rel="noopener noreferrer">
-                        Profilo LinkedIn &nbsp; →
-                    </a>
-
-                </div>
-            </div>
-        </section>
-
+                </details>
+            </article>
+        </div>
     </main>
 
-
-    <!-- FOOTER -->
-
-    <footer>
+    <footer class="site-footer">
         <div class="container footer-inner">
-
-            <div>
-                <div class="footer-name">Maurizio Bernardini</div>
-                <div class="footer-meta">
-                    Giornalista libero professionista<br>
-                    P.IVA: 01792410530
-                </div>
-            </div>
-
-            <div class="footer-links">
-                <a href="#inizio">Torna all'inizio ↑</a>
-                <a href="https://www.linkedin.com/in/mauber"
-                   target="_blank"
-                   rel="noopener noreferrer">
-                    LinkedIn
-                </a>
-            </div>
-
+            <span>Maurizio Bernardini – Giornalista libero professionista | P.IVA: 01792410530</span>
         </div>
     </footer>
-
-
-    <!-- PRIVACY -->
-
-    <div class="privacy">
-        <div class="container">
-
-            <details>
-                <summary>Informativa privacy</summary>
-
-                <div class="privacy-content">
-
-                    <p>
-                        <strong>Titolare del trattamento:</strong>
-                        Maurizio Bernardini, giornalista libero
-                        professionista. P.IVA: 01792410530.
-                        Contatti tramite il profilo
-                        <a href="https://www.linkedin.com/in/mauber"
-                           target="_blank"
-                           rel="noopener noreferrer">
-                            LinkedIn
-                        </a>.
-                    </p>
-
-                    <p>
-                        <strong>Dati e finalità:</strong>
-                        la navigazione non richiede registrazione.
-                        Il server o il servizio di hosting può
-                        registrare dati tecnici di connessione,
-                        quali indirizzo IP, browser e orario,
-                        per esigenze di sicurezza e funzionamento.
-                    </p>
-
-                    <p>
-                        I collegamenti verso servizi esterni,
-                        tra cui LinkedIn e siti istituzionali,
-                        sono soggetti alle rispettive informative.
-                    </p>
-
-                    <p>
-                        Eventuali cookie tecnici sono utilizzati
-                        per il funzionamento del sito.
-                    </p>
-
-                    <p>
-                        <strong>Diritti dell'interessato:</strong>
-                        ai sensi degli articoli 15-22 del GDPR,
-                        è possibile esercitare i diritti di accesso,
-                        rettifica, cancellazione, limitazione
-                        e opposizione, nonché proporre reclamo
-                        al Garante per la protezione dei dati personali.
-                    </p>
-
-                </div>
-            </details>
-
-        </div>
-    </div>
 
 </body>
 </html>
