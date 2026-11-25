@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="it">
 <head>
     <meta charset="UTF-8">
@@ -17,12 +18,13 @@
             --border: #e3e7ec;
         }
 
-        * {
+        *, *::before, *::after {
             box-sizing: border-box;
         }
 
         html {
             scroll-behavior: smooth;
+            -webkit-text-size-adjust: 100%;
         }
 
         body {
@@ -32,9 +34,11 @@
             font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
             line-height: 1.7;
             font-size: 16px;
+            overflow-x: hidden;
         }
 
         .container {
+            width: 100%;
             max-width: 860px;
             margin: 0 auto;
             padding: 0 20px;
@@ -82,6 +86,8 @@
             border-radius: 10px;
             padding: 32px;
             box-shadow: 0 4px 16px rgba(15, 41, 66, 0.04);
+            overflow-wrap: break-word;
+            word-wrap: break-word;
         }
 
         .lead-highlight {
@@ -102,6 +108,7 @@
             color: var(--accent);
             text-decoration: underline;
             text-underline-offset: 3px;
+            overflow-wrap: break-word;
         }
 
         a:hover {
@@ -162,6 +169,7 @@
             border-radius: 6px;
             font-weight: 600;
             margin-top: 8px;
+            text-align: center;
             transition: background-color 0.2s ease;
         }
 
@@ -187,11 +195,35 @@
         }
 
         @media (max-width: 600px) {
+            .container {
+                padding: 0 14px;
+            }
+            .hero {
+                padding: 36px 0 32px;
+            }
+            .hero-kicker {
+                font-size: 0.8rem;
+            }
             .hero h1 {
-                font-size: 1.85rem;
+                font-size: 1.75rem;
+            }
+            .hero-subtitle {
+                font-size: 1rem;
+            }
+            main {
+                padding: 20px 0 32px;
             }
             .card {
-                padding: 22px 18px;
+                padding: 20px 16px;
+                border-radius: 8px;
+            }
+            body {
+                font-size: 15.5px;
+                line-height: 1.65;
+            }
+            .btn-linkedin {
+                display: block;
+                width: 100%;
             }
         }
     </style>
