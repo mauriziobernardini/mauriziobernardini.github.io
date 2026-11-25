@@ -7,7 +7,6 @@
     <title>Maurizio Bernardini | Giornalista professionista e spin doctor</title>
 
     <meta name="description" content="Maurizio Bernardini, giornalista professionista e spin doctor. Comunicazione politica, istituzionale e di crisi.">
-
     <meta name="author" content="Maurizio Bernardini">
     <meta name="robots" content="index, follow">
     <meta name="theme-color" content="#142b40">
@@ -22,7 +21,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
-    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=Roboto+Slab:wght@400;500;600;700;800&family=Source+Sans+3:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 
     <style>
         :root {
@@ -35,8 +34,11 @@
             --line: #deded8;
             --accent: #b18a54;
             --accent-light: #d6bc94;
-            --serif: "Playfair Display", Georgia, serif;
-            --sans: "DM Sans", Arial, sans-serif;
+
+            --serif: "Roboto Slab", Georgia, serif;
+            --sans: "Source Sans 3", Arial, sans-serif;
+            --mono: "IBM Plex Mono", monospace;
+
             --max: 1120px;
         }
 
@@ -55,8 +57,10 @@
             background: var(--paper);
             color: var(--ink);
             font-family: var(--sans);
-            font-size: 16px;
-            line-height: 1.75;
+            font-size: 17px;
+            font-weight: 500;
+            line-height: 1.8;
+            letter-spacing: -.15px;
             -webkit-font-smoothing: antialiased;
         }
 
@@ -92,7 +96,7 @@
         .brand {
             font-family: var(--serif);
             font-size: 20px;
-            font-weight: 600;
+            font-weight: 700;
             color: var(--navy);
             letter-spacing: -.4px;
         }
@@ -105,7 +109,7 @@
 
         .nav-links a {
             font-size: 12px;
-            font-weight: 600;
+            font-weight: 700;
             letter-spacing: .055em;
             text-transform: uppercase;
             color: #58636d;
@@ -156,9 +160,10 @@
             align-items: center;
             gap: 14px;
             color: var(--accent-light);
+            font-family: var(--mono);
             font-size: 11px;
-            font-weight: 700;
-            letter-spacing: .17em;
+            font-weight: 600;
+            letter-spacing: .08em;
             text-transform: uppercase;
             margin-bottom: 32px;
         }
@@ -173,9 +178,9 @@
         .hero h1 {
             font-family: var(--serif);
             font-size: clamp(52px, 7vw, 88px);
-            font-weight: 500;
+            font-weight: 800;
             line-height: 1.06;
-            letter-spacing: -2px;
+            letter-spacing: -2.5px;
             max-width: 850px;
             margin-bottom: 25px;
         }
@@ -185,10 +190,10 @@
         }
 
         .hero-description {
-            font-size: 18px;
+            font-size: 20px;
             line-height: 1.65;
             color: #e0e7ed;
-            font-weight: 500;
+            font-weight: 700;
         }
 
         .hero-bottom {
@@ -225,10 +230,11 @@
 
         .section-label {
             color: var(--accent);
+            font-family: var(--mono);
             font-size: 11px;
-            font-weight: 700;
+            font-weight: 600;
             text-transform: uppercase;
-            letter-spacing: .16em;
+            letter-spacing: .08em;
             margin-bottom: 20px;
         }
 
@@ -242,12 +248,14 @@
             font-family: var(--serif);
             color: var(--navy);
             font-size: clamp(36px, 4vw, 51px);
-            font-weight: 500;
+            font-weight: 700;
             line-height: 1.2;
+            letter-spacing: -1px;
         }
 
         .intro-content p {
-            font-size: 16px;
+            font-size: 17px;
+            font-weight: 500;
             color: #505c66;
             margin-bottom: 22px;
         }
@@ -256,6 +264,7 @@
             font-family: var(--serif);
             font-size: 25px;
             line-height: 1.55;
+            font-weight: 600;
             color: var(--navy);
             border-left: 2px solid var(--accent);
             padding-left: 25px;
@@ -312,7 +321,8 @@
         }
 
         .card-number {
-            font-family: var(--serif);
+            font-family: var(--mono);
+            font-weight: 600;
             color: var(--accent);
             font-size: 25px;
             margin-bottom: 25px;
@@ -321,13 +331,14 @@
         .expertise-card h3 {
             font-family: var(--serif);
             font-size: 22px;
-            font-weight: 500;
+            font-weight: 700;
             color: var(--navy);
             margin-bottom: 10px;
         }
 
         .expertise-card p {
-            font-size: 13px;
+            font-size: 15px;
+            font-weight: 500;
             color: var(--muted);
             line-height: 1.7;
         }
@@ -346,13 +357,15 @@
 
         .experience-content p {
             color: #505c66;
+            font-size: 17px;
+            font-weight: 500;
             margin-bottom: 22px;
         }
 
         .experience-content h3 {
             font-family: var(--serif);
             font-size: 27px;
-            font-weight: 500;
+            font-weight: 700;
             color: var(--navy);
             margin: 42px 0 15px;
         }
@@ -377,6 +390,8 @@
 
         .education-content p {
             color: #d0d9df;
+            font-size: 17px;
+            font-weight: 500;
             margin-bottom: 20px;
         }
 
@@ -386,6 +401,7 @@
             font-family: var(--serif);
             font-size: 22px;
             line-height: 1.5;
+            font-weight: 600;
             color: var(--accent-light);
             margin-top: 30px;
         }
@@ -409,9 +425,9 @@
         }
 
         .reference-content h3 {
-            font-family: var(--sans);
+            font-family: var(--mono);
             font-size: 13px;
-            letter-spacing: .16em;
+            letter-spacing: .08em;
             color: var(--accent);
             margin-bottom: 25px;
         }
@@ -428,7 +444,8 @@
             border-top: 1px solid var(--line);
             padding: 17px 0;
             color: var(--navy);
-            font-size: 14px;
+            font-size: 15px;
+            font-weight: 600;
         }
 
         .reference-list li:last-child {
@@ -453,7 +470,7 @@
             font-family: var(--serif);
             font-size: clamp(38px, 5vw, 58px);
             color: var(--navy);
-            font-weight: 500;
+            font-weight: 700;
             line-height: 1.15;
         }
 
@@ -498,11 +515,12 @@
         .footer-name {
             font-family: var(--serif);
             font-size: 21px;
+            font-weight: 700;
             color: white;
         }
 
         .footer-meta {
-            font-size: 11px;
+            font-size: 12px;
             color: #aebbc5;
             line-height: 1.8;
         }
@@ -528,8 +546,9 @@
 
         .privacy summary {
             cursor: pointer;
+            font-family: var(--mono);
             font-size: 12px;
-            font-weight: 600;
+            font-weight: 500;
             letter-spacing: .08em;
             text-transform: uppercase;
         }
@@ -552,6 +571,7 @@
         /* RESPONSIVE */
 
         @media (max-width: 850px) {
+
             .container {
                 width: min(100% - 44px, var(--max));
             }
@@ -583,6 +603,11 @@
         }
 
         @media (max-width: 580px) {
+
+            body {
+                font-size: 16px;
+            }
+
             .container {
                 width: calc(100% - 36px);
             }
@@ -621,7 +646,7 @@
             }
 
             .hero-description {
-                font-size: 16px;
+                font-size: 17px;
             }
 
             .intro,
@@ -649,6 +674,12 @@
                 font-size: 38px;
             }
 
+            .intro-content p,
+            .experience-content p,
+            .education-content p {
+                font-size: 16px;
+            }
+
             .intro-content .highlight {
                 font-size: 22px;
             }
@@ -667,15 +698,21 @@
             }
         }
 
+        /* ACCESSIBILITÀ */
+
         @media (prefers-reduced-motion: reduce) {
+
             html {
                 scroll-behavior: auto;
             }
 
-            *, *::before, *::after {
+            *,
+            *::before,
+            *::after {
                 transition-duration: .01ms !important;
             }
         }
+
     </style>
 </head>
 
@@ -739,6 +776,7 @@
 
                 <div>
                     <div class="section-label">01 / Profilo</div>
+
                     <h2 class="section-heading">
                         Esperienza giornalistica.
                         Visione strategica.
@@ -804,6 +842,7 @@
             <div class="container">
 
                 <div class="section-top">
+
                     <div class="section-label">02 / Ambiti professionali</div>
 
                     <h2 class="section-heading">
@@ -815,6 +854,7 @@
                         informazione, strategia, relazioni istituzionali
                         e comunicazione politica.
                     </p>
+
                 </div>
 
                 <div class="expertise-grid">
@@ -891,6 +931,7 @@
 
                 <div>
                     <div class="section-label">03 / Esperienza</div>
+
                     <h2 class="section-heading">
                         Istituzioni, politica e informazione.
                     </h2>
@@ -1011,6 +1052,7 @@
 
                 <div>
                     <div class="section-label">04 / Giornalismo e formazione</div>
+
                     <h2 class="section-heading">
                         Il valore dell'informazione.
                     </h2>
@@ -1076,6 +1118,7 @@
 
                 <div>
                     <div class="section-label">05 / Competenze</div>
+
                     <h2 class="section-heading">
                         Skills
                     </h2>
@@ -1140,6 +1183,7 @@
 
             <div>
                 <div class="footer-name">Maurizio Bernardini</div>
+
                 <div class="footer-meta">
                     Giornalista libero professionista<br>
                     P.IVA: 01792410530
@@ -1148,6 +1192,7 @@
 
             <div class="footer-links">
                 <a href="#inizio">Torna all'inizio ↑</a>
+
                 <a href="https://www.linkedin.com/in/mauber"
                    target="_blank"
                    rel="noopener noreferrer">
