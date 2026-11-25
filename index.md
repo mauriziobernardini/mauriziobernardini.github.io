@@ -1,19 +1,18 @@
-
 <html lang="it">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Maurizio Bernardini | Giornalista professionista e spin doctor</title>
+    <title>Maurizio Bernardini | Giornalista professionista e consulente</title>
 
-    <meta name="description" content="Maurizio Bernardini, giornalista professionista e spin doctor. Comunicazione politica, istituzionale e di crisi.">
+    <meta name="description" content="Maurizio Bernardini, giornalista professionista e consulente indipendente. Comunicazione politica, istituzionale e strategica.">
     <meta name="author" content="Maurizio Bernardini">
     <meta name="robots" content="index, follow">
     <meta name="theme-color" content="#142b40">
 
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Maurizio Bernardini | Giornalista professionista e spin doctor">
-    <meta property="og:description" content="Giornalista professionista e spin doctor. Comunicazione politica e istituzionale.">
+    <meta property="og:title" content="Maurizio Bernardini | Giornalista professionista e consulente">
+    <meta property="og:description" content="Giornalista professionista e consulente indipendente. Comunicazione politica e istituzionale.">
     <meta property="og:locale" content="it_IT">
 
     <link rel="canonical" href="https://mauriziobernardini.github.io/">
@@ -149,8 +148,7 @@
             display: flex;
             flex-direction: column;
             justify-content: center;
-            padding-top: 90px;
-            padding-bottom: 100px;
+            padding: 90px 0 100px;
             position: relative;
             z-index: 1;
         }
@@ -221,12 +219,7 @@
             color: var(--accent-light);
         }
 
-        /* INTRODUZIONE */
-
-        .intro {
-            padding: 110px 0;
-            border-bottom: 1px solid var(--line);
-        }
+        /* ELEMENTI COMUNI */
 
         .section-label {
             color: var(--accent);
@@ -238,12 +231,6 @@
             margin-bottom: 20px;
         }
 
-        .intro-grid {
-            display: grid;
-            grid-template-columns: .75fr 1.25fr;
-            gap: 90px;
-        }
-
         .section-heading {
             font-family: var(--serif);
             color: var(--navy);
@@ -251,6 +238,19 @@
             font-weight: 700;
             line-height: 1.2;
             letter-spacing: -1px;
+        }
+
+        /* PROFILO */
+
+        .intro {
+            padding: 110px 0;
+            border-bottom: 1px solid var(--line);
+        }
+
+        .intro-grid {
+            display: grid;
+            grid-template-columns: .75fr 1.25fr;
+            gap: 90px;
         }
 
         .intro-content p {
@@ -406,7 +406,7 @@
             margin-top: 30px;
         }
 
-        /* SKILLS */
+        /* COMPETENZE TRASVERSALI */
 
         .references {
             padding: 100px 0;
@@ -417,19 +417,6 @@
             display: grid;
             grid-template-columns: .75fr 1.25fr;
             gap: 90px;
-        }
-
-        .reference-content p {
-            color: #505c66;
-            margin-bottom: 20px;
-        }
-
-        .reference-content h3 {
-            font-family: var(--mono);
-            font-size: 13px;
-            letter-spacing: .08em;
-            color: var(--accent);
-            margin-bottom: 25px;
         }
 
         .reference-list {
@@ -745,7 +732,7 @@
         <div class="container hero-inner">
 
             <div class="eyebrow">
-                Comunicazione istituzionale, politica e di crisi
+                Comunicazione istituzionale, politica e strategica
             </div>
 
             <h1>
@@ -754,7 +741,7 @@
             </h1>
 
             <p class="hero-description">
-                Giornalista professionista e spin doctor
+                Giornalista professionista e consulente indipendente
             </p>
 
             <div class="hero-bottom">
@@ -787,8 +774,8 @@
 
                     <p>
                         Classe 1982, sono un giornalista professionista
-                        e spin doctor italiano, specializzato nella
-                        comunicazione istituzionale, politica e di crisi.
+                        e consulente nel campo della comunicazione
+                        istituzionale, politica e strategica.
                     </p>
 
                     <p>
@@ -805,9 +792,9 @@
                         un approccio indipendente e orientato
                         esclusivamente al metodo. In questa veste
                         tecnica l'ultimo incarico che ho assunto è quello
-                        di coordinamento e indirizzo operativo dello
-                        staff di comunicazione per il gruppo assembleare
-                        di Forza Italia in Regione Emilia-Romagna.
+                        in Regione Emilia-Romagna, presso i gruppi
+                        consiliari, per il coordinamento e l'indirizzo
+                        operativo dello staff di comunicazione.
                         <a href="https://wwwservizi.regione.emilia-romagna.it/amministrazionetrasparente/Incarichi/RegioneEmiliaRomagna/Dettaglio/996"
                            target="_blank" rel="noopener noreferrer">
                             Consulta il riferimento istituzionale.
@@ -958,10 +945,10 @@
                     </p>
 
                     <p>
-                        Ho inoltre lavorato al fianco di Claudio Scajola,
-                        sindaco di Imperia ed ex ministro, ricoprendo
-                        gli incarichi di Portavoce, Capo di Gabinetto
-                        e responsabile del settore comunicazione.
+                        A Imperia ho ricoperto, su incarico del sindaco
+                        ed ex ministro Claudio Scajola, i ruoli di
+                        Capo di Gabinetto, portavoce e responsabile
+                        del settore comunicazione.
                     </p>
 
                     <p>
@@ -975,7 +962,7 @@
                     </p>
 
 
-                    <h3>Consulenza politica</h3>
+                    <h3>Consulenza politica e collaborazioni</h3>
 
                     <p>
                         Nel corso della mia attività professionale
@@ -995,12 +982,21 @@
                     </p>
 
                     <p>
-                        Ho inoltre collaborato con personalità
+                        Ho collaborato, anche durante eventi
+                        o iniziative elettorali, con personalità
                         istituzionali e politiche di rilievo nazionale
                         ed europeo, tra cui vicepresidenti del Consiglio,
                         ministri, vicepresidenti del Parlamento europeo,
                         deputati, senatori, eurodeputati, consiglieri
                         regionali e sindaci.
+                    </p>
+
+                    <p>
+                        Ho inoltre prestato la mia professionalità
+                        per esponenti del Partito Democratico,
+                        per l'Istituto storico grossetano della
+                        Resistenza e dell'età contemporanea
+                        e per la cooperativa fiorentina Cooplat.
                     </p>
 
 
@@ -1030,14 +1026,6 @@
                         alla ricerca del consenso attraverso il sistema
                         delle preferenze, ambito nel quale ho maturato
                         esperienza nelle campagne seguite.
-                    </p>
-
-                    <p>
-                        Ho inoltre prestato la mia professionalità
-                        all'Istituto storico grossetano della Resistenza
-                        e dell'età contemporanea, alla cooperativa
-                        fiorentina Cooplat e a esponenti del
-                        Partito Democratico.
                     </p>
 
                 </div>
@@ -1111,7 +1099,7 @@
         </section>
 
 
-        <!-- SKILLS -->
+        <!-- COMPETENZE TRASVERSALI -->
 
         <section class="references">
             <div class="container references-inner">
@@ -1124,7 +1112,7 @@
                     </h2>
                 </div>
 
-                <div class="reference-content">
+                <div>
 
                     <ul class="reference-list">
                         <li>Comunicazione istituzionale, politica e di crisi</li>
