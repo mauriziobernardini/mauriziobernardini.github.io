@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="it">
 <head>
     <meta charset="UTF-8">
@@ -11,19 +11,15 @@
     <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600;6..72,700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
     <style>
         :root {
-            --bg: #eef2f6;
+            --bg: #f4f6f9;
             --surface: #ffffff;
-            --surface-soft: #f7f9fc;
-            --text: #18202c;
-            --muted: #526071;
-            --navy: #0b243e;
-            --navy-mid: #163d66;
+            --text: #1c242e;
+            --muted: #5a6675;
+            --navy: #0f2942;
             --accent: #0f4c81;
-            --accent-warm: #b45309;
             --linkedin: #0077b5;
             --linkedin-hover: #005582;
-            --border: #dde4ec;
-            --radius: 12px;
+            --border: #e2e8f0;
         }
 
         *, *::before, *::after {
@@ -37,9 +33,7 @@
 
         body {
             margin: 0;
-            background:
-                radial-gradient(circle at top right, rgba(15, 76, 129, 0.06), transparent 42%),
-                var(--bg);
+            background-color: var(--bg);
             color: var(--text);
             font-family: "Plus Jakarta Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
             line-height: 1.75;
@@ -49,145 +43,68 @@
 
         .container {
             width: 100%;
-            max-width: 880px;
+            max-width: 820px;
             margin: 0 auto;
             padding: 0 20px;
         }
 
         .hero {
-            position: relative;
-            background:
-                radial-gradient(circle at 88% 18%, rgba(56, 149, 211, 0.22), transparent 45%),
-                linear-gradient(135deg, var(--navy) 0%, var(--navy-mid) 100%);
+            background: linear-gradient(135deg, #0f2942 0%, #19456b 100%);
             color: #ffffff;
-            padding: 60px 0 52px;
-            border-bottom: 4px solid var(--linkedin);
-            box-shadow: 0 10px 28px rgba(11, 36, 62, 0.16);
+            padding: 52px 0 44px;
+            border-bottom: 3px solid var(--linkedin);
         }
 
         .hero-kicker {
-            display: inline-block;
-            font-size: 0.78rem;
-            letter-spacing: 0.09em;
+            display: block;
+            font-size: 0.82rem;
+            letter-spacing: 0.06em;
             text-transform: uppercase;
-            color: #d6e8fa;
-            background: rgba(255, 255, 255, 0.09);
-            border: 1px solid rgba(255, 255, 255, 0.16);
-            padding: 5px 12px;
-            border-radius: 999px;
-            margin-bottom: 16px;
+            color: #c8dcf0;
+            margin-bottom: 10px;
             font-weight: 600;
         }
 
         .hero h1 {
-            margin: 0 0 12px;
+            margin: 0 0 10px;
             font-family: "Newsreader", Georgia, serif;
-            font-size: 2.65rem;
-            line-height: 1.12;
+            font-size: 2.45rem;
+            line-height: 1.15;
             font-weight: 700;
-            letter-spacing: -0.015em;
             color: #ffffff;
         }
 
         .hero-subtitle {
-            margin: 0 0 24px;
-            font-size: 1.12rem;
-            color: #e8f1fa;
-            max-width: 680px;
+            margin: 0;
+            font-size: 1.08rem;
+            color: #e6eff8;
             font-weight: 500;
-        }
-
-        .hero-nav {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 8px;
-        }
-
-        .hero-nav a {
-            display: inline-block;
-            color: #f1f7fd;
-            background: rgba(255, 255, 255, 0.08);
-            border: 1px solid rgba(255, 255, 255, 0.18);
-            text-decoration: none;
-            font-size: 0.85rem;
-            font-weight: 500;
-            padding: 6px 13px;
-            border-radius: 6px;
-            transition: background-color 0.2s ease, border-color 0.2s ease, transform 0.15s ease;
-        }
-
-        .hero-nav a:hover {
-            background: rgba(255, 255, 255, 0.18);
-            border-color: rgba(255, 255, 255, 0.35);
-            transform: translateY(-1px);
         }
 
         main {
-            padding: 34px 0 52px;
+            padding: 32px 0 48px;
         }
 
-        .highlights-strip {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 14px;
-            margin-bottom: 22px;
-        }
-
-        .highlight-box {
+        .sheet {
             background: var(--surface);
-            border: 1px solid var(--border);
             border-radius: 10px;
-            padding: 15px 16px;
-            box-shadow: 0 4px 12px rgba(11, 36, 62, 0.04);
-        }
-
-        .highlight-label {
-            display: block;
-            font-size: 0.75rem;
-            text-transform: uppercase;
-            letter-spacing: 0.06em;
-            color: var(--muted);
-            font-weight: 700;
-            margin-bottom: 4px;
-        }
-
-        .highlight-value {
-            display: block;
-            font-size: 0.94rem;
-            font-weight: 600;
-            color: var(--navy);
-            line-height: 1.35;
-        }
-
-        .card {
-            background: var(--surface);
-            border: 1px solid var(--border);
-            border-top: 4px solid var(--accent);
-            border-radius: var(--radius);
-            padding: 38px 40px;
+            padding: 36px 40px;
             box-shadow:
-                0 16px 36px -10px rgba(11, 36, 62, 0.10),
-                0 4px 12px -2px rgba(11, 36, 62, 0.05);
+                0 12px 30px rgba(15, 41, 66, 0.08),
+                0 2px 8px rgba(15, 41, 66, 0.04);
             overflow-wrap: break-word;
             word-wrap: break-word;
         }
 
         .lead-highlight {
             font-family: "Newsreader", Georgia, serif;
-            font-size: 1.32rem;
-            line-height: 1.42;
+            font-size: 1.25rem;
+            line-height: 1.45;
             font-weight: 600;
             color: var(--navy);
-            background: linear-gradient(90deg, rgba(15, 76, 129, 0.07) 0%, rgba(15, 76, 129, 0.01) 100%);
-            border-left: 4px solid var(--accent-warm);
-            padding: 14px 18px;
-            border-radius: 0 8px 8px 0;
-            margin: 26px 0;
-        }
-
-        .lead-highlight a {
-            color: var(--navy);
-            text-decoration-color: rgba(180, 83, 9, 0.55);
+            border-left: 3px solid var(--accent);
+            padding-left: 14px;
+            margin: 24px 0;
         }
 
         p {
@@ -201,7 +118,6 @@
             text-decoration-thickness: 1.5px;
             text-underline-offset: 3px;
             overflow-wrap: break-word;
-            transition: color 0.18s ease;
         }
 
         a:hover {
@@ -209,85 +125,37 @@
         }
 
         h2 {
-            margin: 38px 0 16px;
-            padding-left: 14px;
-            border-left: 4px solid var(--accent);
+            margin: 34px 0 14px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
             font-family: "Newsreader", Georgia, serif;
-            font-size: 1.55rem;
+            font-size: 1.45rem;
             font-weight: 700;
-            line-height: 1.25;
+            line-height: 1.3;
             color: var(--navy);
-        }
-
-        .skills-list {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 9px;
-            list-style: none;
-            margin: 0 0 18px;
-            padding: 0;
-        }
-
-        .skills-list li {
-            background: var(--surface-soft);
-            color: var(--navy);
-            border: 1px solid var(--border);
-            border-radius: 8px;
-            padding: 7px 14px;
-            font-size: 0.9rem;
-            font-weight: 600;
-        }
-
-        .courses-list {
-            margin: 0 0 18px;
-            padding-left: 20px;
-        }
-
-        .courses-list li {
-            margin-bottom: 8px;
-            color: var(--text);
-        }
-
-        .contact-panel {
-            margin-top: 16px;
-            padding: 22px 24px;
-            background: var(--surface-soft);
-            border: 1px solid var(--border);
-            border-radius: 10px;
-        }
-
-        .contact-panel p {
-            margin-bottom: 12px;
-            color: var(--muted);
-            font-weight: 500;
         }
 
         .btn-linkedin {
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            gap: 8px;
-            padding: 12px 24px;
-            background: linear-gradient(180deg, #0082c8 0%, var(--linkedin) 100%);
+            display: inline-block;
+            padding: 12px 22px;
+            background-color: var(--linkedin);
             color: #ffffff;
             text-decoration: none;
-            border-radius: 8px;
+            border-radius: 6px;
             font-weight: 600;
-            font-size: 0.96rem;
-            box-shadow: 0 4px 12px rgba(0, 119, 181, 0.25);
-            transition: background-color 0.2s ease, transform 0.15s ease, box-shadow 0.2s ease;
+            margin-top: 6px;
+            text-align: center;
+            transition: background-color 0.2s ease;
         }
 
         .btn-linkedin:hover {
-            background: linear-gradient(180deg, #006da8 0%, var(--linkedin-hover) 100%);
+            background-color: var(--linkedin-hover);
             color: #ffffff;
-            transform: translateY(-1px);
-            box-shadow: 0 6px 16px rgba(0, 119, 181, 0.32);
         }
 
         .privacy-toggle {
             margin-top: 30px;
-            padding-top: 16px;
+            padding-top: 14px;
             border-top: 1px solid var(--border);
             font-size: 0.82rem;
             color: var(--muted);
@@ -297,7 +165,6 @@
             cursor: pointer;
             display: inline-block;
             color: var(--muted);
-            font-weight: 600;
             text-decoration: underline;
             text-underline-offset: 2px;
         }
@@ -308,10 +175,7 @@
 
         .privacy-content {
             margin-top: 12px;
-            padding: 16px 18px;
-            background: var(--surface-soft);
-            border-radius: 8px;
-            border: 1px solid var(--border);
+            padding-top: 10px;
             font-size: 0.83rem;
             line-height: 1.6;
         }
@@ -340,71 +204,44 @@
             align-items: center;
         }
 
-        @media (max-width: 760px) {
-            .highlights-strip {
-                grid-template-columns: 1fr;
-                gap: 10px;
-            }
-        }
-
         @media (max-width: 600px) {
             .container {
                 padding: 0 14px;
             }
             .hero {
-                padding: 38px 0 34px;
+                padding: 36px 0 32px;
             }
             .hero-kicker {
-                font-size: 0.72rem;
-                margin-bottom: 12px;
+                font-size: 0.78rem;
             }
             .hero h1 {
-                font-size: 2rem;
+                font-size: 1.9rem;
             }
             .hero-subtitle {
                 font-size: 1rem;
-                margin-bottom: 18px;
-            }
-            .hero-nav {
-                gap: 6px;
-            }
-            .hero-nav a {
-                font-size: 0.8rem;
-                padding: 5px 10px;
             }
             main {
                 padding: 20px 0 36px;
             }
-            .card {
+            .sheet {
                 padding: 22px 16px;
-                border-radius: 10px;
-                box-shadow: 0 8px 22px -6px rgba(11, 36, 62, 0.09);
+                border-radius: 8px;
+                box-shadow: 0 6px 20px rgba(15, 41, 66, 0.07);
             }
             .lead-highlight {
-                font-size: 1.14rem;
-                padding: 12px 14px;
+                font-size: 1.12rem;
             }
             h2 {
-                font-size: 1.35rem;
-                margin: 30px 0 12px;
-            }
-            .skills-list li {
-                font-size: 0.85rem;
-                padding: 6px 12px;
-            }
-            .contact-panel {
-                padding: 18px 16px;
+                font-size: 1.3rem;
+                margin: 28px 0 12px;
             }
             body {
                 font-size: 15.5px;
                 line-height: 1.68;
             }
             .btn-linkedin {
-                display: flex;
+                display: block;
                 width: 100%;
-            }
-            .btn-linkedin:hover {
-                transform: none;
             }
         }
     </style>
@@ -416,41 +253,18 @@
             <span class="hero-kicker">Comunicazione istituzionale, politica e di crisi</span>
             <h1>Maurizio Bernardini</h1>
             <p class="hero-subtitle"><strong>Giornalista professionista e spin doctor</strong></p>
-            <nav class="hero-nav" aria-label="Sezioni della pagina">
-                <a href="#profilo">Profilo</a>
-                <a href="#giornalismo-strategia">Giornalismo e strategia</a>
-                <a href="#istituzioni-campagne">Istituzioni e campagne</a>
-                <a href="#skills">Skills</a>
-                <a href="#corsi-formazione">Corsi di formazione</a>
-                <a href="#contatti">Contatti</a>
-            </nav>
         </div>
     </header>
 
     <main>
         <div class="container">
-            <section class="highlights-strip" aria-label="Sintesi del profilo">
-                <div class="highlight-box">
-                    <span class="highlight-label">Specializzazione</span>
-                    <span class="highlight-value">Comunicazione istituzionale, politica e di crisi</span>
-                </div>
-                <div class="highlight-box">
-                    <span class="highlight-label">Ambito geografico</span>
-                    <span class="highlight-value">Toscana, Emilia-Romagna, Lazio e Liguria</span>
-                </div>
-                <div class="highlight-box">
-                    <span class="highlight-label">Inquadramento</span>
-                    <span class="highlight-value">Giornalista libero professionista e consulente</span>
-                </div>
-            </section>
-
-            <article class="card">
-                <h2 id="profilo">Profilo e incarichi</h2>
+            <article class="sheet">
+                <h2>Profilo e incarichi</h2>
                 <p>Classe '82, Grosseto, sono un giornalista professionista e spin doctor italiano di comprovata esperienza, specializzato nella comunicazione istituzionale, politica e di crisi. Come consulente indipendente metto la mia strategia al servizio di diversi leader e partiti. Sono attivo soprattutto in Toscana, Emilia-Romagna, Lazio e Liguria, e ho lavorato in importanti città capoluogo tra cui Firenze, Bologna, Roma, Parma, Grosseto, Piacenza, Reggio Emilia e Imperia. Opero come libero professionista e consulente per committenti pubblici e privati, mantenendo un approccio indipendente e orientato esclusivamente al metodo. In questa veste tecnica, l'ultimo incarico che ho assunto è quello di coordinamento e indirizzo operativo dello staff di comunicazione per il gruppo assembleare di Forza Italia <a href="https://wwwservizi.regione.emilia-romagna.it/amministrazionetrasparente/Incarichi/RegioneEmiliaRomagna/Dettaglio/996" target="_blank" rel="noopener noreferrer">in Regione Emilia-Romagna</a>.</p>
 
                 <p class="lead-highlight"><a href="https://jobseekeritalia.it/2016/03/16/professionisti-comunicazione-politica-digitale/" target="_blank" rel="noopener noreferrer">Riconosciuto tra i principali spin doctor italiani.</a></p>
 
-                <h2 id="giornalismo-strategia">Giornalismo, formazione e strategia</h2>
+                <h2>Giornalismo, formazione e strategia</h2>
                 <p>La mia identità professionale si sviluppa lungo due binari paralleli e complementari: da un lato la solida esperienza sul campo nella cronaca bianca (politica, economia, sociale, attualità) per realtà televisive e digitali e importanti giornali come il quotidiano di Livorno <em>Il Tirreno</em> e l'edizione toscana del <em>Corriere della Sera</em>; dall'altro la gestione strategica dell'immagine e delle relazioni pubbliche per enti e politici di alto livello. Questa duplice natura mi consente di muovermi con competenza crossmediale, sia nella supervisione di contenuti complessi, sia nel coordinamento di uffici stampa istituzionali.</p>
 
                 <p>Nel corso della mia attività ho collaborato, a vario titolo, anche durante i periodi elettorali, a strategie, organizzazione di conferenze stampa ed eventi che hanno visto al centro personalità di assoluto rilievo come vicepresidenti del Consiglio, ministri, vicepresidenti del Parlamento europeo, deputati, senatori, eurodeputati, consiglieri regionali e sindaci.</p>
@@ -459,7 +273,7 @@
 
                 <p>La mia visione unisce la padronanza degli strumenti mediatici tradizionali e digitali a una spiccata attitudine alla rappresentanza istituzionale e alla mediazione politica e di crisi. Il tutto supportato da un costante aggiornamento sui temi chiave dell'informazione contemporanea, come il data journalism, la gestione della par condicio, il presidio televisivo, i sistemi elettorali e le applicazioni dell'intelligenza artificiale nel mondo della comunicazione.</p>
 
-                <h2 id="istituzioni-campagne">Istituzioni, campagne elettorali e collaborazioni</h2>
+                <h2>Istituzioni, campagne elettorali e collaborazioni</h2>
                 <p>Come giornalista politico e spin doctor ho guidato numerose campagne elettorali per forze politiche e civiche in ambito locale, regionale e nazionale, occupandomi in prima persona del posizionamento dei candidati e della scelta dei relativi staff, dell'elaborazione di discorsi, del media training, della gestione dei rapporti con la stampa e delle strategie di comunicazione, compresi i social.</p>
 
                 <p>Nella mia carriera ho creato e gestito numerosi staff di giornalisti e professionisti di settore, riuscendo ad accrescere il consenso dei miei committenti e a mantenere equilibri delicati.</p>
@@ -472,48 +286,9 @@
 
                 <p>In passato ho inoltre prestato la mia professionalità per l'Istituto storico grossetano della Resistenza e dell'età contemporanea, per la cooperativa fiorentina Cooplat e per esponenti del Partito Democratico.</p>
 
-                <h2 id="skills">Skills</h2>
-                <ul class="skills-list">
-                    <li>Comunicazione istituzionale, politica e di crisi</li>
-                    <li>Rappresentanza istituzionale</li>
-                    <li>Mediazione</li>
-                    <li>Selezione e gestione staff</li>
-                    <li>Formazione crossmediale</li>
-                    <li>Presentazione eventi</li>
-                    <li>Problem solving</li>
-                </ul>
-
-                <h2 id="corsi-formazione">Corsi di formazione</h2>
-                <ul class="courses-list">
-                    <li>La comunicazione politica nell’epoca delle campagne elettorali permanenti</li>
-                    <li>L’Unione europea</li>
-                    <li>Usare l’intelligenza artificiale in redazione</li>
-                    <li>Economia e fondi Ue: un mondo da scoprire</li>
-                    <li>Par condicio e comunicazione istituzionale: indicazioni professionali e buone pratiche</li>
-                    <li>Regole giornalista vecchi e nuovi media Odg, La nuova deontologia</li>
-                    <li>Strumenti di verifica delle notizie e contrasto alle fake news</li>
-                    <li>Un mondo di bufale: un pericolo sottostimato per democrazia e giornalismo</li>
-                    <li>Raccontare i fenomeni migratori. L’agenda europea: fatti, prospettive e falsi miti</li>
-                    <li>La libertà (a cura di Vittorio Roidi)</li>
-                    <li>Geopolitica della libertà di stampa</li>
-                    <li>Deontologia (1 e 2)</li>
-                    <li>Deontologia e privacy dei social network</li>
-                    <li>La crisi climatica e nuove politiche energetiche</li>
-                    <li>Presunzione di innocenza</li>
-                    <li>Data journalism: Come trovare, rappresentare, raccontare i dati per fare informazione</li>
-                    <li>Grammatica, sostantivo femminile. Perché scrivere bene aiuta a combattere le discriminazioni</li>
-                    <li>Il nuovo codice deontologico delle giornaliste e dei giornalisti</li>
-                    <li>Sicurezza e benessere nell’era digitale. Aspetti tecnici ed etici</li>
-                    <li>Comunicare la medicina. Le sfide della ricerca sul cancro e come raccontarle</li>
-                    <li>Concetti e strumenti per una nuova professionalità del giornalista</li>
-                    <li>I cambiamenti climatici e la loro rappresentazione nel giornalismo</li>
-                </ul>
-
-                <h2 id="contatti">Contatti e Riferimenti</h2>
-                <div class="contact-panel">
-                    <p>Per consulenze e contatti professionali:</p>
-                    <a class="btn-linkedin" href="https://www.linkedin.com/in/mauber" target="_blank" rel="noopener noreferrer">Il mio profilo LinkedIn</a>
-                </div>
+                <h2>Contatti e Riferimenti</h2>
+                <p>Per consulenze e contatti professionali:</p>
+                <a class="btn-linkedin" href="https://www.linkedin.com/in/mauber" target="_blank" rel="noopener noreferrer">Il mio profilo LinkedIn</a>
 
                 <details id="privacy" class="privacy-toggle">
                     <summary>Privacy</summary>
