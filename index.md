@@ -905,8 +905,7 @@
                 <p>
                     Conduzione e presentazione di eventi istituzionali,
                     politici e pubblici, moderazione di incontri,
-                    dibattiti e conferenze, gestione degli interventi
-                    e coordinamento dei momenti di comunicazione.
+                    dibattiti e conferenze, gestione degli interventi.
                 </p>
             </article>
 
