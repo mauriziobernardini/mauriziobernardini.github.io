@@ -417,9 +417,10 @@
         }
 
         .references-inner {
-            display: grid;
-            grid-template-columns: .75fr 1.25fr;
-            gap: 90px;
+    display: grid;
+    grid-template-columns: .75fr 1.25fr;
+    gap: 45px;
+    align-items: start;
         }
 
         .reference-list {
