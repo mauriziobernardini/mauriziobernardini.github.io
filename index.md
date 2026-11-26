@@ -745,8 +745,6 @@
         }
 
     </style>
-
-    </style>
 </head>
 
 <body>
