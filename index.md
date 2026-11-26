@@ -723,6 +723,29 @@
             }
         }
 
+        @media (prefers-reduced-motion: reduce) {
+
+            html {
+                scroll-behavior: auto;
+            }
+
+            *,
+            *::before,
+            *::after {
+                transition-duration: .01ms !important;
+            }
+        }
+
+        /* RIMOZIONE DEL NOME DALLA BARRA SUPERIORE */
+
+        .navigation .brand,
+        .navigation .nav-inner > a,
+        .navigation .nav-inner > div:not(.nav-links) {
+            display: none !important;
+        }
+
+    </style>
+
     </style>
 </head>
 
