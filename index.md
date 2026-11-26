@@ -925,9 +925,7 @@
                 </p>
             </article>
 
-        </div>
-    </div>
-</section>
+    
 
 <!-- ESPERIENZA PROFESSIONALE -->
 
