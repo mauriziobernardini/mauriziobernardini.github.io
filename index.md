@@ -5,7 +5,7 @@
 
     <title>Maurizio Bernardini | Giornalista professionista e spin doctor</title>
 
-    <meta name="description" content="Maurizio Bernardini, giornalista professionista e spin doctor. Comunicazione politica, istituzionale e strategica.">
+    <meta name="description" content="Maurizio Bernardini, giornalista professionista e spin doctor. Comunicazione politica e istituzionale.">
     <meta name="author" content="Maurizio Bernardini">
     <meta name="robots" content="index, follow">
     <meta name="theme-color" content="#142b40">
