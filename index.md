@@ -635,8 +635,8 @@
             }
 
             .brand {
-                font-size: 19px;
-            }
+    font-size: 11px;
+}
 
             .nav-links {
                 width: 100%;
@@ -754,9 +754,22 @@
     <!-- NAVIGAZIONE -->
 
     <nav class="navigation">
-        <div class="container nav-inner">
+    <div class="container nav-inner">
 
-            <div class="nav-links">
+        <div class="brand">
+            Maurizio Bernardini
+        </div>
+
+        <div class="nav-links">
+            <a href="#profilo">Profilo</a>
+            <a href="#competenze">Competenze</a>
+            <a href="#esperienza">Esperienza</a>
+            <a href="#formazione">Formazione</a>
+            <a href="#contatti">Contatti</a>
+        </div>
+
+    </div>
+</nav>
                 <a href="#profilo">Profilo</a>
                 <a href="#competenze">Competenze</a>
                 <a href="#esperienza">Esperienza</a>
