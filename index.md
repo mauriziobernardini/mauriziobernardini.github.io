@@ -948,18 +948,11 @@
 </p>
 
 <p>
-    Capo ufficio stampa del Comune
-    di Grosseto durante l'amministrazione
-    del sindaco Antonfrancesco Vivarelli Colonna.
-    <a href="https://www.comune.grosseto.it/persona_pubblica/bernardini-maurizio/"
+    Capo comunicazione del Movimento 5 Stelle in Regione Toscana.
+    <a href="https://trasparenza.consiglio.regione.toscana.it/node/26930"
        target="_blank" rel="noopener noreferrer">
         Riferimento istituzionale.
     </a>
-</p>
-
-<p>
-    Capo di Gabinetto, portavoce e responsabile
-    del settore comunicazione a Imperia su incarico del sindaco e già ministro Claudio Scajola.
 </p>
 
 <p>
@@ -972,12 +965,20 @@
 </p>
 
 <p>
-    Capo comunicazione del Movimento 5 Stelle in Regione Toscana.
-    <a href="https://trasparenza.consiglio.regione.toscana.it/node/26930"
+    Capo di Gabinetto, portavoce e responsabile
+    del settore comunicazione a Imperia su incarico del sindaco e già ministro Claudio Scajola.
+</p>
+
+<p>
+    Capo ufficio stampa del Comune
+    di Grosseto durante l'amministrazione
+    del sindaco Antonfrancesco Vivarelli Colonna.
+    <a href="https://www.comune.grosseto.it/persona_pubblica/bernardini-maurizio/"
        target="_blank" rel="noopener noreferrer">
         Riferimento istituzionale.
     </a>
 </p>
+
 
 
                     <h3>Consulenza politica e collaborazioni</h3>
