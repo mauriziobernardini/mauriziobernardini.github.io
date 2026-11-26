@@ -1095,45 +1095,8 @@
 </div>
                    <div style="margin-top: 55px; margin-bottom: 25px;">
 
-    <div style="
-        font-family: var(--mono);
-        font-size: 12px;
-        font-weight: 600;
-        letter-spacing: .12em;
-        text-transform: uppercase;
-        color: var(--accent-light);
-        margin-bottom: 15px;
-    ">
-        Formazione
-    </div>
-
-    <h3 style="
-        font-family: var(--serif);
-        font-size: 32px;
-        line-height: 1.25;
-        font-weight: 700;
-        color: #ffffff;
-        margin-bottom: 25px;
-    ">
-        Percorso accademico e aggiornamento professionale.
-    </h3>
-
-</div>
-
-<p>
-    Ho conseguito una laurea in Storia a Bologna,
-    una laurea magistrale in Comunicazione digitale
-    e marketing e un master in Giornalismo
-    e comunicazione.
-</p>
-
-                    <p>
-                        Nel mio aggiornamento professionale trovano
-                        anche spazio temi come data journalism,
-                        par condicio, presidio televisivo, sistemi
-                        elettorali e applicazioni dell'intelligenza
-                        artificiale nella comunicazione.
-                    </p>
+    
+                    <!-- CHIUSURA BLOCCO GIORNALISMO -->
 
                     <div class="education-note">
                         «Non esiste vento favorevole per il marinaio
@@ -1143,6 +1106,51 @@
                             Seneca
                         </span>
                     </div>
+
+                    <!-- BLOCCO FORMAZIONE -->
+
+                    <div style="margin-top: 65px;">
+
+                        <div style="
+                            font-family: var(--mono);
+                            font-size: 12px;
+                            font-weight: 600;
+                            letter-spacing: .12em;
+                            text-transform: uppercase;
+                            color: var(--accent-light);
+                            margin-bottom: 15px;
+                        ">
+                            Formazione
+                        </div>
+
+                        <h3 style="
+                            font-family: var(--serif);
+                            font-size: 32px;
+                            line-height: 1.25;
+                            font-weight: 700;
+                            color: #ffffff;
+                            margin-bottom: 25px;
+                        ">
+                            Percorso accademico e aggiornamento professionale.
+                        </h3>
+
+                    </div>
+
+                    <p>
+                        Ho conseguito una laurea in Storia a Bologna,
+                        una laurea magistrale in Comunicazione digitale
+                        e marketing e un master in Giornalismo
+                        e comunicazione.
+                    </p>
+
+                    <p>
+                        Nel mio aggiornamento professionale trovano
+                        anche spazio temi come data journalism,
+                        par condicio, presidio televisivo, sistemi
+                        elettorali e applicazioni dell'intelligenza
+                        artificiale nella comunicazione.
+                    </p>
+
 
                 </div>
             </div>
