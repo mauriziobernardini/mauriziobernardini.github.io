@@ -737,7 +737,7 @@
         <div class="container hero-inner">
 
             <div class="eyebrow">
-                Comunicazione istituzionale, politica e strategica
+                Comunicazione istituzionale e politica
             </div>
 
             <h1>
@@ -746,7 +746,7 @@
             </h1>
 
             <p class="hero-description">
-                Giornalista professionista e consulente indipendente
+                Giornalista professionista e spin doctor indipendente
             </p>
 
             <div class="hero-bottom">
@@ -1049,7 +1049,7 @@
                         e attualità, per realtà televisive e digitali
                         e per importanti testate giornalistiche,
                         tra cui <em>Il Tirreno</em> e l'edizione
-                        toscana del <em>Corriere della Sera</em>.
+                        toscana del <em>Corriere della Sera a Firenze</em>.
                     </p>
 
                     <p>
