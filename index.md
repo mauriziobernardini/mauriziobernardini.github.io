@@ -461,10 +461,9 @@
         }
 
         .contact-content p {
-    color: var(--muted);
-    margin-bottom: 25px;
-    font-weight: 800;
-}
+            color: var(--muted);
+            margin-bottom: 25px;
+        }
 
        
 .contact-button {
@@ -1042,7 +1041,9 @@
                         alla ricerca del consenso attraverso il sistema
                         delle preferenze.
                     </p>
-  
+        </div>
+    </div>
+</section>
 
 
         <!-- FORMAZIONE E GIORNALISMO -->
@@ -1081,60 +1082,6 @@
                         dell'informazione, delle dinamiche editoriali
                         e delle relazioni tra istituzioni e media.
                     </p>
-<div style="
-    font-family: var(--mono);
-    font-size: 12px;
-    font-weight: 600;
-    letter-spacing: .12em;
-    text-transform: uppercase;
-    color: #ffffff;
-    margin-top: 30px;
-    margin-bottom: 15px;
-">
-    Formazione
-</div>
-                   <div style="margin-top: 55px; margin-bottom: 25px;">
-
-    
-                    <!-- CHIUSURA BLOCCO GIORNALISMO -->
-
-                    <div class="education-note">
-                        «Non esiste vento favorevole per il marinaio
-                        che non sa dove andare».
-                        <br>
-                        <span style="font-family:var(--sans);font-size:12px;letter-spacing:.08em;text-transform:uppercase;">
-                            Seneca
-                        </span>
-                    </div>
-
-                    <!-- BLOCCO FORMAZIONE -->
-
-                    <div style="margin-top: 65px;">
-
-                        <div style="
-                            font-family: var(--mono);
-                            font-size: 12px;
-                            font-weight: 600;
-                            letter-spacing: .12em;
-                            text-transform: uppercase;
-                            color: var(--accent-light);
-                            margin-bottom: 15px;
-                        ">
-                            Formazione
-                        </div>
-
-                        <h3 style="
-                            font-family: var(--serif);
-                            font-size: 32px;
-                            line-height: 1.25;
-                            font-weight: 700;
-                            color: #ffffff;
-                            margin-bottom: 25px;
-                        ">
-                            Percorso accademico e aggiornamento professionale.
-                        </h3>
-
-                    </div>
 
                     <p>
                         Ho conseguito una laurea in Storia a Bologna,
@@ -1151,6 +1098,14 @@
                         artificiale nella comunicazione.
                     </p>
 
+                    <div class="education-note">
+                        «Non esiste vento favorevole per il marinaio
+                        che non sa dove andare».
+                        <br>
+                        <span style="font-family:var(--sans);font-size:12px;letter-spacing:.08em;text-transform:uppercase;">
+                            Seneca
+                        </span>
+                    </div>
 
                 </div>
             </div>
