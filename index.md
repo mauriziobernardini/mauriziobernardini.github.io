@@ -461,9 +461,10 @@
         }
 
         .contact-content p {
-            color: var(--muted);
-            margin-bottom: 25px;
-        }
+    color: var(--muted);
+    margin-bottom: 25px;
+    font-weight: 800;
+}
 
        
 .contact-button {
