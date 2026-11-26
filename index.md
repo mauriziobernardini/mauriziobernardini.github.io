@@ -1041,9 +1041,7 @@
                         alla ricerca del consenso attraverso il sistema
                         delle preferenze.
                     </p>
-        </div>
-    </div>
-</section>
+     
 
 
         <!-- FORMAZIONE E GIORNALISMO -->
