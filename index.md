@@ -713,10 +713,6 @@
     <nav class="navigation">
         <div class="container nav-inner">
 
-            <a href="#inizio" class="brand">
-                Maurizio Bernardini
-            </a>
-
             <div class="nav-links">
                 <a href="#profilo">Profilo</a>
                 <a href="#competenze">Competenze</a>
