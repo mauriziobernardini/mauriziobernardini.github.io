@@ -178,7 +178,7 @@
             font-size: clamp(52px, 7vw, 88px);
             font-weight: 800;
             line-height: 1.06;
-            letter-spacing: -2.5px;
+            letter-spacing: -1px;
             max-width: 850px;
             margin-bottom: 25px;
         }
