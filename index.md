@@ -1041,7 +1041,26 @@
                         alla ricerca del consenso attraverso il sistema
                         delle preferenze.
                     </p>
-     
+
+       <h3>Formazione accademica e aggiornamento professionale</h3>
+
+<p>
+                        Ho conseguito una laurea in Storia a Bologna,
+                        una laurea magistrale in Comunicazione digitale
+                        e marketing e un master in Giornalismo
+                        e comunicazione.
+                    </p>
+
+                    <p>
+                        Nel mio aggiornamento professionale trovano
+                        anche spazio temi come data journalism,
+                        par condicio, presidio televisivo, sistemi
+                        elettorali e applicazioni dell'intelligenza
+                        artificiale nella comunicazione.
+                    </p>
+        <p>
+                        
+                    </p>
 
 
         <!-- FORMAZIONE E GIORNALISMO -->
@@ -1081,20 +1100,6 @@
                         e delle relazioni tra istituzioni e media.
                     </p>
 
-                    <p>
-                        Ho conseguito una laurea in Storia a Bologna,
-                        una laurea magistrale in Comunicazione digitale
-                        e marketing e un master in Giornalismo
-                        e comunicazione.
-                    </p>
-
-                    <p>
-                        Nel mio aggiornamento professionale trovano
-                        anche spazio temi come data journalism,
-                        par condicio, presidio televisivo, sistemi
-                        elettorali e applicazioni dell'intelligenza
-                        artificiale nella comunicazione.
-                    </p>
 
                     <div class="education-note">
                         «Non esiste vento favorevole per il marinaio
