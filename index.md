@@ -971,8 +971,7 @@
 
 <p>
     Capo ufficio stampa del Comune
-    di Grosseto durante l'amministrazione
-    del sindaco Antonfrancesco Vivarelli Colonna.
+    di Grosseto nominato dal sindaco Antonfrancesco Vivarelli Colonna.
     <a href="https://www.comune.grosseto.it/persona_pubblica/bernardini-maurizio/"
        target="_blank" rel="noopener noreferrer">
         Riferimento istituzionale.
