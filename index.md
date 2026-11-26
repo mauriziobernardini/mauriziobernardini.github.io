@@ -948,15 +948,11 @@ Consulta il riferimento istituzionale.
 <br><br>
 
 <p>
-    Capo comunicazione del Movimento 5 Stelle
-</p>
-
-                        in Regione Toscana.
+    Capo comunicazione del Movimento 5 Stelle in Regione Toscana.
                         <a href="https://trasparenza.consiglio.regione.toscana.it/node/26930"
                            target="_blank" rel="noopener noreferrer">
                             Riferimento istituzionale.
                         </a>
-                    </p>
 
 
                     <h3>Consulenza politica e collaborazioni</h3>
