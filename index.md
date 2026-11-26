@@ -1093,12 +1093,39 @@
 ">
     Formazione
 </div>
-                    <p>
-                        Ho conseguito una laurea in Storia a Bologna,
-                        una laurea magistrale in Comunicazione digitale
-                        e marketing e un master in Giornalismo
-                        e comunicazione.
-                    </p>
+                   <div style="margin-top: 55px; margin-bottom: 25px;">
+
+    <div style="
+        font-family: var(--mono);
+        font-size: 12px;
+        font-weight: 600;
+        letter-spacing: .12em;
+        text-transform: uppercase;
+        color: var(--accent-light);
+        margin-bottom: 15px;
+    ">
+        Formazione
+    </div>
+
+    <h3 style="
+        font-family: var(--serif);
+        font-size: 32px;
+        line-height: 1.25;
+        font-weight: 700;
+        color: #ffffff;
+        margin-bottom: 25px;
+    ">
+        Percorso accademico e aggiornamento professionale.
+    </h3>
+
+</div>
+
+<p>
+    Ho conseguito una laurea in Storia a Bologna,
+    una laurea magistrale in Comunicazione digitale
+    e marketing e un master in Giornalismo
+    e comunicazione.
+</p>
 
                     <p>
                         Nel mio aggiornamento professionale trovano
