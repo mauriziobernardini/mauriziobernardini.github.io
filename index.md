@@ -174,15 +174,14 @@
         }
 
         .hero h1 {
-            font-family: var(--serif);
-            font-size: clamp(52px, 7vw, 88px);
-            font-weight: 800;
-            line-height: 1.06;
-            letter-spacing: -1px;
-            max-width: 850px;
-            margin-bottom: 25px;
-        }
-
+    font-family: var(--serif);
+    font-size: clamp(52px, 7vw, 88px);
+    font-weight: 800;
+    line-height: 1.12;
+    letter-spacing: 0.5px;
+    max-width: 850px;
+    margin-bottom: 25px;
+}
         .hero h1 span {
             color: var(--accent-light);
         }
@@ -628,12 +627,12 @@
             .hero-inner {
                 min-height: 440px;
                 padding: 75px 0;
-            }
-
-            .hero h1 {
-                font-size: 52px;
-                letter-spacing: -1.5px;
-            }
+        
+           .hero h1 {
+    font-size: 52px;
+    letter-spacing: 0.2px;
+    line-height: 1.12;
+}
 
             .hero-description {
                 font-size: 17px;
