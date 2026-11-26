@@ -515,15 +515,22 @@
             line-height: 1.8;
         }
 
-        .footer-links {
-            display: flex;
-            gap: 20px;
-            font-size: 12px;
-        }
+       .footer-links {
+    display: flex;
+    gap: 20px;
+    font-size: 12px;
+    font-weight: 700;
+}
 
-        .footer-links a:hover {
-            color: var(--accent-light);
-        }
+.footer-links a {
+    color: #ffffff;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.footer-links a:hover {
+    color: var(--accent-light);
+}
 
         /* PRIVACY */
 
