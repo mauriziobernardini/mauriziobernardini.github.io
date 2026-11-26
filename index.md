@@ -925,7 +925,9 @@
                 </p>
             </article>
 
-    
+        </div>
+    </div>
+</section>
 
 <!-- ESPERIENZA PROFESSIONALE -->
 
@@ -1039,7 +1041,9 @@
                         alla ricerca del consenso attraverso il sistema
                         delle preferenze.
                     </p>
-   
+        </div>
+    </div>
+</section>
 
 
         <!-- FORMAZIONE E GIORNALISMO -->
@@ -1079,6 +1083,21 @@
                         e delle relazioni tra istituzioni e media.
                     </p>
 
+                    <p>
+                        Ho conseguito una laurea in Storia a Bologna,
+                        una laurea magistrale in Comunicazione digitale
+                        e marketing e un master in Giornalismo
+                        e comunicazione.
+                    </p>
+
+                    <p>
+                        Nel mio aggiornamento professionale trovano
+                        anche spazio temi come data journalism,
+                        par condicio, presidio televisivo, sistemi
+                        elettorali e applicazioni dell'intelligenza
+                        artificiale nella comunicazione.
+                    </p>
+
                     <div class="education-note">
                         «Non esiste vento favorevole per il marinaio
                         che non sa dove andare».
@@ -1091,30 +1110,7 @@
                 </div>
             </div>
         </section>
-<section class="experience">
-    <div class="container">
-        <div class="experience-content">
 
-            <h3>Formazione accademica e aggiornamento professionale</h3>
-
-            <p>
-                Ho conseguito una laurea in Storia a Bologna,
-                una laurea magistrale in Comunicazione digitale
-                e marketing e un master in Giornalismo
-                e comunicazione.
-            </p>
-
-            <p>
-                Nel mio aggiornamento professionale trovano
-                spazio temi come data journalism, par condicio,
-                presidio televisivo, sistemi elettorali e
-                applicazioni dell'intelligenza artificiale
-                nella comunicazione.
-            </p>
-
-        </div>
-    </div>
-</section>
 
         <!-- COMPETENZE TRASVERSALI -->
 
