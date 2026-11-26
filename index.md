@@ -93,7 +93,13 @@
         }
 
         .brand {
-    display: none;
+    display: block;
+    font-family: var(--sans);
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    color: #ffffff;
 }
 
         .nav-links {
@@ -728,13 +734,17 @@
             }
         }
 
-        /* RIMOZIONE DEL NOME DALLA BARRA SUPERIORE */
+        /* STILE DEL NOME NELLA BARRA SUPERIORE */
 
-        .navigation .brand,
-        .navigation .nav-inner > a,
-        .navigation .nav-inner > div:not(.nav-links) {
-            display: none !important;
-        }
+.navigation .brand {
+    display: block !important;
+    font-family: var(--sans);
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    color: #ffffff;
+}
 
     </style>
 </head>
