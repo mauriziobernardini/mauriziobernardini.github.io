@@ -941,11 +941,16 @@
                      Coordinamento e indirizzo operativo dello staff di comunicazione in Regione Emilia-Romagna presso i gruppi consiliari.
                         <a href="https://wwwservizi.regione.emilia-romagna.it/amministrazionetrasparente/Incarichi/RegioneEmiliaRomagna/Dettaglio/996"
                            target="_blank" rel="noopener noreferrer">
-                            Consulta il riferimento istituzionale.
-                        </a>
+                          
+Consulta il riferimento istituzionale.
+</a>
 
-                    <p>
-                        Capo comunicazione del Movimento 5 Stelle
+<br><br>
+
+<p>
+    Capo comunicazione del Movimento 5 Stelle
+</p>
+
                         in Regione Toscana.
                         <a href="https://trasparenza.consiglio.regione.toscana.it/node/26930"
                            target="_blank" rel="noopener noreferrer">
