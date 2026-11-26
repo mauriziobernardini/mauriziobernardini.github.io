@@ -996,7 +996,7 @@
 
                     <p>
                         Ho prestato la mia professionalità anche
-                        per l'Istituto storico Grossetano della
+                        per l'Istituto storico grossetano della
                         Resistenza e dell'età contemporanea
                         e per realtà del mondo cooperativo nazionale.
                     </p>
@@ -1005,7 +1005,7 @@
                     <h3>Campagne elettorali</h3>
 
                     <p>
-                        Ho guidato e contribuito a numerose campagne
+                        Ho guidato numerose campagne
                         elettorali in ambito locale, regionale e nazionale,
                         curando il posizionamento dei candidati,
                         l'organizzazione degli staff, l'elaborazione
@@ -1031,7 +1031,7 @@
                     <div class="section-label">03 / Giornalismo e formazione</div>
 
                     <h2 class="section-heading">
-                        Il valore dell'informazione.
+                        Dalla cronaca alla consulenza strategica.
                     </h2>
                 </div>
 
