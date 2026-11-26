@@ -734,17 +734,6 @@
             }
         }
 
-        /* STILE DEL NOME NELLA BARRA SUPERIORE */
-
-.navigation .brand {
-    display: block !important;
-    font-family: var(--sans);
-    font-size: 11px !important;
-    font-weight: 700;
-    letter-spacing: .12em;
-    text-transform: uppercase;
-    color: #ffffff !important;
-}
 
     </style>
 </head>
