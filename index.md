@@ -794,16 +794,9 @@
                     <p>
                         Opero come libero professionista e consulente
                         per committenti pubblici e privati, mantenendo
-                        un approccio indipendente e orientato
-                        esclusivamente al metodo. In questa veste
-                        tecnica l'ultimo incarico che ho assunto è quello
-                        in Regione Emilia-Romagna, presso i gruppi
-                        consiliari, per il coordinamento e l'indirizzo
-                        operativo dello staff di comunicazione.
-                        <a href="https://wwwservizi.regione.emilia-romagna.it/amministrazionetrasparente/Incarichi/RegioneEmiliaRomagna/Dettaglio/996"
-                           target="_blank" rel="noopener noreferrer">
-                            Consulta il riferimento istituzionale.
-                        </a>
+                        un approccio tecnico indipendente e orientato
+                        esclusivamente al metodo.
+                       
                     </p>
 
                     <div class="highlight">
@@ -944,6 +937,12 @@
                         Capo di Gabinetto, portavoce e responsabile
                         del settore comunicazione a Imperia su incarico del sindaco e già ministro Claudio Scajola.
                     </p>
+
+                     Coordinamento e indirizzo operativo dello staff di comunicazione in Regione Emilia-Romagna presso i gruppi consiliari.
+                        <a href="https://wwwservizi.regione.emilia-romagna.it/amministrazionetrasparente/Incarichi/RegioneEmiliaRomagna/Dettaglio/996"
+                           target="_blank" rel="noopener noreferrer">
+                            Consulta il riferimento istituzionale.
+                        </a>
 
                     <p>
                         Capo comunicazione del Movimento 5 Stelle
