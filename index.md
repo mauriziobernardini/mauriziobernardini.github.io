@@ -918,41 +918,44 @@
                     <h3>Comunicazione istituzionale</h3>
 
                     <p>
-                        Ho ricoperto incarichi di responsabilità
-                        nella comunicazione di amministrazioni
-                        pubbliche e organismi politici.
-                    </p>
+                        
+<p>
+    Ho ricoperto incarichi di responsabilità
+    nella comunicazione di amministrazioni
+    pubbliche e organismi politici.
+</p>
 
-                    <p>
-                        Capo ufficio stampa del Comune
-                        di Grosseto durante l'amministrazione
-                        del sindaco Antonfrancesco Vivarelli Colonna.
-                        <a href="https://www.comune.grosseto.it/persona_pubblica/bernardini-maurizio/"
-                           target="_blank" rel="noopener noreferrer">
-                            Riferimento istituzionale.
-                        </a>
-                    </p>
+<p>
+    Capo ufficio stampa del Comune
+    di Grosseto durante l'amministrazione
+    del sindaco Antonfrancesco Vivarelli Colonna.
+    <a href="https://www.comune.grosseto.it/persona_pubblica/bernardini-maurizio/"
+       target="_blank" rel="noopener noreferrer">
+        Riferimento istituzionale.
+    </a>
+</p>
 
-                    <p>
-                        Capo di Gabinetto, portavoce e responsabile
-                        del settore comunicazione a Imperia su incarico del sindaco e già ministro Claudio Scajola.
-                    </p>
+<p>
+    Capo di Gabinetto, portavoce e responsabile
+    del settore comunicazione a Imperia su incarico del sindaco e già ministro Claudio Scajola.
+</p>
 
-                     Coordinamento e indirizzo operativo dello staff di comunicazione in Regione Emilia-Romagna presso i gruppi consiliari.
-                        <a href="https://wwwservizi.regione.emilia-romagna.it/amministrazionetrasparente/Incarichi/RegioneEmiliaRomagna/Dettaglio/996"
-                           target="_blank" rel="noopener noreferrer">
-                          
-Consulta il riferimento istituzionale.
-</a>
-
-<br><br>
+<p>
+    Coordinamento e indirizzo operativo dello staff di comunicazione
+    in Regione Emilia-Romagna presso i gruppi consiliari.
+    <a href="https://wwwservizi.regione.emilia-romagna.it/amministrazionetrasparente/Incarichi/RegioneEmiliaRomagna/Dettaglio/996"
+       target="_blank" rel="noopener noreferrer">
+        Consulta il riferimento istituzionale.
+    </a>
+</p>
 
 <p>
     Capo comunicazione del Movimento 5 Stelle in Regione Toscana.
-                        <a href="https://trasparenza.consiglio.regione.toscana.it/node/26930"
-                           target="_blank" rel="noopener noreferrer">
-                            Riferimento istituzionale.
-                        </a>
+    <a href="https://trasparenza.consiglio.regione.toscana.it/node/26930"
+       target="_blank" rel="noopener noreferrer">
+        Riferimento istituzionale.
+    </a>
+</p>
 
 
                     <h3>Consulenza politica e collaborazioni</h3>
