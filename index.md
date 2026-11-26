@@ -1150,7 +1150,6 @@
             </div>
         </section>
 
-    </main>
 
 
     <!-- FOOTER -->
