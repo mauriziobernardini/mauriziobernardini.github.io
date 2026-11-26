@@ -1160,11 +1160,11 @@
 
                <div class="contact-content">
 
-    <p class="contact-description">
-        Per consulenze, collaborazioni
-        e contatti professionali è possibile
-        utilizzare il mio profilo LinkedIn.
-    </p>
+   <p class="contact-description" style="font-weight: 700;">
+    Per consulenze, collaborazioni
+    e contatti professionali è possibile
+    utilizzare il mio profilo LinkedIn.
+</p>
 
     <a class="contact-button"
        href="https://www.linkedin.com/in/mauber"
