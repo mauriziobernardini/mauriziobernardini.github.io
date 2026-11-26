@@ -1184,15 +1184,9 @@
                 </div>
             </div>
 
-            <div class="footer-links">
-                <a href="#inizio">Torna all'inizio ↑</a>
-
-                <a href="https://www.linkedin.com/in/mauber"
-                   target="_blank"
-                   rel="noopener noreferrer">
-                    LinkedIn
-                </a>
-            </div>
+           <div class="footer-links">
+    <a href="#inizio">Torna all'inizio ↑</a>
+</div>
 
         </div>
     </footer>
