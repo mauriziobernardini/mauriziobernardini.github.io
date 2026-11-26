@@ -1020,9 +1020,6 @@
                         delle preferenze.
                     </p>
 
-                </div>
-            </div>
-        </section>
 
 
         <!-- FORMAZIONE E GIORNALISMO -->
