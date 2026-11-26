@@ -708,23 +708,10 @@
             }
         }
 
+        
         /* ACCESSIBILITÀ */
 
         @media (prefers-reduced-motion: reduce) {
-
-            html {
-                scroll-behavior: auto;
-            }
-
-            *,
-            *::before,
-            *::after {
-                transition-duration: .01ms !important;
-            }
-        }
-
-        @media (prefers-reduced-motion: reduce) {
-
             html {
                 scroll-behavior: auto;
             }
