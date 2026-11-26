@@ -624,11 +624,16 @@
                 font-size: 9px;
             }
 
-            .hero-inner {
-                min-height: 440px;
-                padding: 75px 0;
+          .hero-inner {
+    min-height: 440px;
+    padding: 75px 0;
+}
 
-                }
+.hero h1 {
+    font-size: 52px;
+    letter-spacing: 0.2px;
+    line-height: 1.12;
+}
         
            .hero h1 {
     font-size: 52px;
