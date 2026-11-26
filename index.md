@@ -1155,23 +1155,22 @@
                     </h2>
                 </div>
 
-                <div class="contact-content">
+               <div class="contact-content">
 
-                   <p>
-    <strong>
+    <p class="contact-description">
         Per consulenze, collaborazioni
         e contatti professionali è possibile
         utilizzare il mio profilo LinkedIn.
-    </strong>
-</p>
-                    <a class="contact-button"
-                       href="https://www.linkedin.com/in/mauber"
-                       target="_blank"
-                       rel="noopener noreferrer">
-                        Profilo LinkedIn &nbsp; →
-                    </a>
+    </p>
 
-                </div>
+    <a class="contact-button"
+       href="https://www.linkedin.com/in/mauber"
+       target="_blank"
+       rel="noopener noreferrer">
+        Profilo LinkedIn &nbsp; →
+    </a>
+
+</div>
             </div>
         </section>
 
