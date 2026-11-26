@@ -340,199 +340,69 @@
 
         /* ESPERIENZA PROFESSIONALE */
 
-       
-<!-- ESPERIENZA PROFESSIONALE -->
+        .experience {
+            padding: 110px 0;
+        }
 
-<section class="experience" id="esperienza">
-    <div class="container">
-        <div class="experience-content">
+        .experience-content {
+            max-width: 900px;
+            margin: auto;
+        }
 
-            <h3>Comunicazione istituzionale</h3>
+        .experience-content p {
+            color: #505c66;
+            font-size: 17px;
+            font-weight: 500;
+            margin-bottom: 22px;
+        }
 
-            <p>
-                Ho ricoperto incarichi di responsabilità
-                nella comunicazione di amministrazioni
-                pubbliche e organismi politici.
-            </p>
+        .experience-content h3 {
+            font-family: var(--serif);
+            font-size: 27px;
+            font-weight: 700;
+            color: var(--navy);
+            margin: 42px 0 15px;
+        }
 
-            <p>
-                Capo comunicazione del Movimento 5 Stelle in Regione Toscana.
-                <a href="https://trasparenza.consiglio.regione.toscana.it/node/26930"
-                   target="_blank" rel="noopener noreferrer">
-                    Riferimento istituzionale.
-                </a>
-            </p>
+        .experience-content h3:first-child {
+            margin-top: 0;
+        }
 
-            <p>
-                Coordinamento e indirizzo operativo dello staff di comunicazione
-                in Regione Emilia-Romagna presso i gruppi consiliari.
-                <a href="https://wwwservizi.regione.emilia-romagna.it/amministrazionetrasparente/Incarichi/RegioneEmiliaRomagna/Dettaglio/996"
-                   target="_blank" rel="noopener noreferrer">
-                    Consulta il riferimento istituzionale.
-                </a>
-            </p>
+        /* FORMAZIONE */
 
-            <p>
-                Capo di Gabinetto, portavoce e responsabile
-                del settore comunicazione a Imperia su incarico
-                del sindaco e già ministro Claudio Scajola.
-            </p>
+        .education {
+            background: var(--navy);
+            color: white;
+            padding: 90px 0;
+        }
 
-            <p>
-                Capo ufficio stampa del Comune di Grosseto
-                nominato dal sindaco Antonfrancesco Vivarelli Colonna.
-                <a href="https://www.comune.grosseto.it/persona_pubblica/bernardini-maurizio/"
-                   target="_blank" rel="noopener noreferrer">
-                    Riferimento istituzionale.
-                </a>
-            </p>
+        .education .section-heading {
+            color: white;
+        }
 
+        .education-grid {
+            display: grid;
+            grid-template-columns: .75fr 1.25fr;
+            gap: 90px;
+        }
 
-            <h3>Consulenza politica e collaborazioni</h3>
+        .education-content p {
+            color: #d0d9df;
+            font-size: 17px;
+            font-weight: 500;
+            margin-bottom: 20px;
+        }
 
-            <p>
-                Nel corso della mia attività professionale
-                ho seguito, a vario titolo, esponenti politici
-                di diversi orientamenti, occupandomi
-                di posizionamento, strategia, rapporti
-                con i media e coordinamento della comunicazione.
-            </p>
-
-            <p>
-                Tra le personalità seguite figurano
-                Mario Lolini, già coordinatore toscano
-                della Lega e deputato, e Pietro Vignali,
-                già sindaco di Parma, attuale capogruppo
-                di Forza Italia in Regione Emilia-Romagna
-                e segretario regionale. Ho curato anche
-                l'immagine di esponenti di rilievo
-                del Partito democratico.
-                Nel 2016 ho curato la comunicazione politica
-                della campagna elettorale del Movimento 5 Stelle
-                di Grosseto, con candidato sindaco Giacomo Gori.
-                La lista ottenne il 20% dei voti, uno dei risultati
-                più significativi del Movimento nei centri urbani.
-            </p>
-
-            <p>
-                Ho collaborato, anche durante eventi
-                o iniziative elettorali, con personalità
-                istituzionali e politiche di rilievo nazionale
-                ed europeo, tra cui vicepresidenti del Consiglio,
-                ministri, vicepresidenti del Parlamento europeo,
-                deputati, senatori, eurodeputati, consiglieri
-                regionali e sindaci.
-            </p>
-
-            <p>
-                Ho prestato la mia professionalità anche
-                per l'Istituto storico grossetano della
-                Resistenza e dell'età contemporanea
-                e per realtà del mondo cooperativo nazionale.
-            </p>
-
-
-            <h3>Campagne elettorali</h3>
-
-            <p>
-                Ho guidato numerose campagne
-                elettorali in ambito locale, regionale e nazionale,
-                curando il posizionamento dei candidati,
-                l'organizzazione degli staff, l'elaborazione
-                dei discorsi, il media training, le conferenze
-                stampa, la comunicazione digitale e le relazioni
-                con il sistema dell'informazione.
-            </p>
-
-            <p>
-                Una parte della mia attività è dedicata
-                alla ricerca del consenso attraverso il sistema
-                delle preferenze.
-            </p>
-
-        </div>
-    </div>
-</section>
-
-
-<!-- FORMAZIONE ACCADEMICA E AGGIORNAMENTO PROFESSIONALE -->
-
-<section class="experience">
-    <div class="container">
-        <div class="experience-content">
-
-            <h3>Formazione accademica e aggiornamento professionale</h3>
-
-            <p>
-                Ho conseguito una laurea in Storia a Bologna,
-                una laurea magistrale in Comunicazione digitale
-                e marketing e un master in Giornalismo
-                e comunicazione.
-            </p>
-
-            <p>
-                Nel mio aggiornamento professionale trovano
-                anche spazio temi come data journalism,
-                par condicio, presidio televisivo, sistemi
-                elettorali e applicazioni dell'intelligenza
-                artificiale nella comunicazione.
-            </p>
-
-        </div>
-    </div>
-</section>
-
-
-<!-- FORMAZIONE E GIORNALISMO -->
-
-<section class="education" id="formazione">
-    <div class="container education-grid">
-
-        <div>
-            <div class="section-label">03 / Giornalismo e formazione</div>
-
-            <h2 class="section-heading">
-                Dalla cronaca alla consulenza strategica.
-            </h2>
-        </div>
-
-        <div class="education-content">
-
-            <p>
-                La mia identità professionale si fonda
-                sull'integrazione tra esperienza giornalistica
-                e consulenza strategica.
-            </p>
-
-            <p>
-                Ho lavorato per anni nella cronaca bianca,
-                occupandomi di politica, economia, società
-                e attualità, per realtà televisive e digitali
-                e per importanti testate giornalistiche,
-                tra cui <em>Il Tirreno</em> e l'edizione
-                toscana del <em>Corriere della Sera a Firenze</em>.
-            </p>
-
-            <p>
-                Questa esperienza mi ha consentito di sviluppare
-                una conoscenza diretta dei meccanismi
-                dell'informazione, delle dinamiche editoriali
-                e delle relazioni tra istituzioni e media.
-            </p>
-
-            <div class="education-note">
-                «Non esiste vento favorevole per il marinaio
-                che non sa dove andare».
-                <br>
-                <span style="font-family:var(--sans);font-size:12px;letter-spacing:.08em;text-transform:uppercase;">
-                    Seneca
-                </span>
-            </div>
-
-        </div>
-    </div>
-</section>
-
+        .education-note {
+            border-left: 2px solid var(--accent);
+            padding-left: 22px;
+            font-family: var(--serif);
+            font-size: 22px;
+            line-height: 1.5;
+            font-weight: 600;
+            color: var(--accent-light);
+            margin-top: 30px;
+        }
 
         /* COMPETENZE TRASVERSALI */
 
