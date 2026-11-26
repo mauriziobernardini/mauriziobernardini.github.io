@@ -759,8 +759,7 @@
         <div class="container hero-inner">
 
             <div class="eyebrow">
-    <span>Comunicazione</span>
-    <span>istituzionale e politica</span>
+    Strategia e comunicazione
 </div>
 
             <h1>
