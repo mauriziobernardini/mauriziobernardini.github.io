@@ -1081,7 +1081,18 @@
                         dell'informazione, delle dinamiche editoriali
                         e delle relazioni tra istituzioni e media.
                     </p>
-
+<div style="
+    font-family: var(--mono);
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: #ffffff;
+    margin-top: 30px;
+    margin-bottom: 15px;
+">
+    Formazione
+</div>
                     <p>
                         Ho conseguito una laurea in Storia a Bologna,
                         una laurea magistrale in Comunicazione digitale
