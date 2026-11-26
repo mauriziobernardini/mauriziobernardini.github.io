@@ -93,12 +93,8 @@
         }
 
         .brand {
-            font-family: var(--serif);
-            font-size: 20px;
-            font-weight: 700;
-            color: var(--navy);
-            letter-spacing: -.4px;
-        }
+    display: none;
+}
 
         .nav-links {
             display: flex;
