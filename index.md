@@ -460,10 +460,15 @@
             line-height: 1.15;
         }
 
-        .contact-content p {
-            color: var(--muted);
-            margin-bottom: 25px;
-        }
+      .contact-content p {
+    color: var(--muted);
+    margin-bottom: 25px;
+}
+
+.contact-content .contact-description {
+    font-weight: 800 !important;
+    color: var(--navy);
+}
 
        
 .contact-button {
