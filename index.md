@@ -469,20 +469,31 @@
             margin-bottom: 25px;
         }
 
-        .contact-button {
+       
+.contact-button {
     display: inline-flex;
     align-items: center;
     justify-content: center;
     padding: 15px 25px;
     background: var(--navy);
-    color: #ffffff;
+    color: #ffffff !important;
     font-size: 12px;
     font-weight: 700;
     letter-spacing: .08em;
     text-transform: uppercase;
-    text-decoration: none;
+    text-decoration: none !important;
     transition: background .2s;
 }
+
+.contact-button:visited {
+    color: #ffffff !important;
+}
+
+.contact-button:hover {
+    background: var(--accent);
+    color: #ffffff !important;
+}
+
         .contact-button:hover {
             background: var(--accent);
         }
