@@ -759,8 +759,9 @@
         <div class="container hero-inner">
 
             <div class="eyebrow">
-                Comunicazione istituzionale e politica
-            </div>
+    <span>Comunicazione</span>
+    <span>istituzionale e politica</span>
+</div>
 
             <h1>
                 Maurizio<br>
