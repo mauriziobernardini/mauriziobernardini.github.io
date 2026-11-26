@@ -92,14 +92,8 @@
             gap: 30px;
         }
 
-    .brand {
-    display: block;
-    font-family: var(--sans);
-    font-size: 11px;
-    font-weight: 700;
-    letter-spacing: .12em;
-    text-transform: uppercase;
-    color: #ffffff;
+        .brand {
+    display: none;
 }
 
         .nav-links {
@@ -466,15 +460,10 @@
             line-height: 1.15;
         }
 
-      .contact-content p {
-    color: var(--muted);
-    margin-bottom: 25px;
-}
-
-.contact-content .contact-description {
-    font-weight: 800 !important;
-    color: var(--navy);
-}
+        .contact-content p {
+            color: var(--muted);
+            margin-bottom: 25px;
+        }
 
        
 .contact-button {
@@ -635,8 +624,8 @@
             }
 
             .brand {
-    font-size: 11px;
-}
+                font-size: 19px;
+            }
 
             .nav-links {
                 width: 100%;
@@ -734,6 +723,13 @@
             }
         }
 
+        /* RIMOZIONE DEL NOME DALLA BARRA SUPERIORE */
+
+        .navigation .brand,
+        .navigation .nav-inner > a,
+        .navigation .nav-inner > div:not(.nav-links) {
+            display: none !important;
+        }
 
     </style>
 </head>
@@ -743,22 +739,9 @@
     <!-- NAVIGAZIONE -->
 
     <nav class="navigation">
-    <div class="container nav-inner">
+        <div class="container nav-inner">
 
-        <div class="brand">
-            Maurizio Bernardini
-        </div>
-
-        <div class="nav-links">
-            <a href="#profilo">Profilo</a>
-            <a href="#competenze">Competenze</a>
-            <a href="#esperienza">Esperienza</a>
-            <a href="#formazione">Formazione</a>
-            <a href="#contatti">Contatti</a>
-        </div>
-
-    </div>
-</nav>
+            <div class="nav-links">
                 <a href="#profilo">Profilo</a>
                 <a href="#competenze">Competenze</a>
                 <a href="#esperienza">Esperienza</a>
@@ -1058,7 +1041,10 @@
                         alla ricerca del consenso attraverso il sistema
                         delle preferenze.
                     </p>
-        
+        </div>
+    </div>
+</section>
+
 
         <!-- FORMAZIONE E GIORNALISMO -->
 
@@ -1268,4 +1254,3 @@
 
         </div>
     </div>
-
