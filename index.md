@@ -92,12 +92,12 @@
             gap: 30px;
         }
 
-        .brand {
+    .brand {
     display: block;
     font-family: var(--sans);
-    font-size: 12px;
+    font-size: 11px;
     font-weight: 700;
-    letter-spacing: .08em;
+    letter-spacing: .12em;
     text-transform: uppercase;
     color: #ffffff;
 }
@@ -739,11 +739,11 @@
 .navigation .brand {
     display: block !important;
     font-family: var(--sans);
-    font-size: 12px;
+    font-size: 11px !important;
     font-weight: 700;
-    letter-spacing: .08em;
+    letter-spacing: .12em;
     text-transform: uppercase;
-    color: #ffffff;
+    color: #ffffff !important;
 }
 
     </style>
