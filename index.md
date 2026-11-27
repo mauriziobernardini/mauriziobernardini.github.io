@@ -938,7 +938,6 @@
 
                     <h3>Comunicazione istituzionale</h3>
 
-                    <p>
                         
 <p>
     Ho ricoperto incarichi di responsabilità
