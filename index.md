@@ -1067,7 +1067,7 @@
                     <div class="section-label">03 / Giornalismo e formazione</div>
 
                     <h2 class="section-heading">
-                        Dalla cronaca alla consulenza strategica.
+                        Dalla cronaca alla consulenza strategica
                     </h2>
                 </div>
 
