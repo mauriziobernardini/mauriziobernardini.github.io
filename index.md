@@ -1154,7 +1154,7 @@
 
                <div class="contact-content">
 
- <p class="contact-description">
+
    <p class="contact-description">
     <strong style="font-weight: 700;">
         Per consulenze, collaborazioni
