@@ -218,7 +218,7 @@
         .section-label {
             color: var(--accent);
             font-family: var(--mono);
-            font-size: 12px;
+            font-size: 13px;
             font-weight: 600;
             text-transform: uppercase;
             letter-spacing: .08em;
