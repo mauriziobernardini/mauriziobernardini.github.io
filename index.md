@@ -1155,10 +1155,10 @@
 
                <div class="contact-content">
 
-   <p class="contact-description" style="font-weight: 700;">
+  <p class="contact-description" style="font-weight: 700;">
     Per consulenze, collaborazioni
     e contatti professionali è possibile
-    utilizzare il mio profilo LinkedIn.
+    utilizzare il mio profilo LinkedIn o scrivermi via email.
 </p>
 
    <a class="contact-button"
