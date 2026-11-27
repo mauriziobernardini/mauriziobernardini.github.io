@@ -1097,7 +1097,6 @@
             <div class="container references-inner">
 
                 <div>
-                    <div class="section-label">04 / Competenze</div>
 
                     <h2 class="section-heading">
                         Skills
