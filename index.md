@@ -1169,7 +1169,8 @@
    rel="noopener noreferrer">
     Profilo LinkedIn &nbsp; →
 </a>
-<br><br>
+
+<div style="height: 20px;"></div>
 
 <a class="contact-button"
    href="mailto:info@mauriziobernardini.it">
