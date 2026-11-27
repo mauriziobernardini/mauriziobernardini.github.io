@@ -791,8 +791,8 @@
                     <div class="section-label">01 / Profilo</div>
 
                     <h2 class="section-heading">
-                        Esperienza giornalistica.
-                        Visione strategica.
+                        Esperienza giornalistica
+                        Visione strategica
                     </h2>
                 </div>
 
@@ -1149,7 +1149,7 @@
                     <div class="section-label">05 / Contatti professionali</div>
 
                     <h2>
-                        Parliamo di comunicazione e strategia.
+                        Parliamo di comunicazione e strategia
                     </h2>
                 </div>
 
