@@ -1175,9 +1175,7 @@
    href="mailto:info@mauriziobernardini.it">
     Scrivimi via email &nbsp; →
 </a>
-</div>
-            </div>
-        </section>
+
 
 
 
