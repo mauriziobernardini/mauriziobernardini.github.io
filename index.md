@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="it">
 <head>
     <meta charset="UTF-8">
@@ -15,7 +16,7 @@
     <meta property="og:description" content="Giornalista professionista e spin doctor. Comunicazione politica e istituzionale.">
     <meta property="og:locale" content="it_IT">
 
-<link rel="canonical" href="https://mauriziobernardini.it/">
+    <link rel="canonical" href="https://mauriziobernardini.it/">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
@@ -92,8 +93,8 @@
         }
 
         .brand {
-    display: none;
-}
+            display: none;
+        }
 
         .nav-links {
             display: flex;
@@ -169,14 +170,15 @@
         }
 
         .hero h1 {
-    font-family: var(--serif);
-    font-size: clamp(52px, 7vw, 88px);
-    font-weight: 800;
-    line-height: 1.12;
-    letter-spacing: 0.5px;
-    max-width: 850px;
-    margin-bottom: 25px;
-}
+            font-family: var(--serif);
+            font-size: clamp(52px, 7vw, 88px);
+            font-weight: 800;
+            line-height: 1.12;
+            letter-spacing: 0.5px;
+            max-width: 850px;
+            margin-bottom: 25px;
+        }
+
         .hero h1 span {
             color: var(--accent-light);
         }
@@ -411,10 +413,10 @@
         }
 
         .references-inner {
-    display: grid;
-    grid-template-columns: .75fr 1.25fr;
-    gap: 45px;
-    align-items: start;
+            display: grid;
+            grid-template-columns: .75fr 1.25fr;
+            gap: 45px;
+            align-items: start;
         }
 
         .reference-list {
@@ -435,13 +437,11 @@
 
         .reference-list li:last-child {
             border-bottom: 1px solid var(--line);
-        }
-
-        /* CONTATTI */
+        }        /* CONTATTI */
 
         .contact {
             background: #eeede7;
-            padding: 100px 0;
+            padding: 100px 0 120px;
         }
 
         .contact-inner {
@@ -459,38 +459,34 @@
             line-height: 1.15;
         }
 
-       .contact-content p {
-    color: var(--muted);
-    margin-bottom: 25px;
-    font-weight: 700;
-}
-       
-.contact-button {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    padding: 15px 25px;
-    background: var(--navy);
-    color: #ffffff !important;
-    font-size: 12px;
-    font-weight: 700;
-    letter-spacing: .08em;
-    text-transform: uppercase;
-    text-decoration: none !important;
-    transition: background .2s;
-}
+        .contact-content p {
+            color: var(--muted);
+            margin-bottom: 25px;
+            font-weight: 700;
+        }
 
-.contact-button:visited {
-    color: #ffffff !important;
-}
+        .contact-button {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            padding: 15px 25px;
+            background: var(--navy);
+            color: #ffffff !important;
+            font-size: 12px;
+            font-weight: 700;
+            letter-spacing: .08em;
+            text-transform: uppercase;
+            text-decoration: none !important;
+            transition: background .2s;
+        }
 
-.contact-button:hover {
-    background: var(--accent);
-    color: #ffffff !important;
-}
+        .contact-button:visited {
+            color: #ffffff !important;
+        }
 
         .contact-button:hover {
             background: var(--accent);
+            color: #ffffff !important;
         }
 
         /* FOOTER */
@@ -521,22 +517,22 @@
             line-height: 1.8;
         }
 
-       .footer-links {
-    display: flex;
-    gap: 20px;
-    font-size: 12px;
-    font-weight: 700;
-}
+        .footer-links {
+            display: flex;
+            gap: 20px;
+            font-size: 12px;
+            font-weight: 700;
+        }
 
-.footer-links a {
-    color: #ffffff;
-    font-weight: 700;
-    text-decoration: none;
-}
+        .footer-links a {
+            color: #ffffff;
+            font-weight: 700;
+            text-decoration: none;
+        }
 
-.footer-links a:hover {
-    color: var(--accent-light);
-}
+        .footer-links a:hover {
+            color: var(--accent-light);
+        }
 
         /* PRIVACY */
 
@@ -637,22 +633,16 @@
                 font-size: 9px;
             }
 
-          .hero-inner {
-    min-height: 440px;
-    padding: 75px 0;
-}
+            .hero-inner {
+                min-height: 440px;
+                padding: 75px 0;
+            }
 
-.hero h1 {
-    font-size: 52px;
-    letter-spacing: 0.2px;
-    line-height: 1.12;
-}
-        
-           .hero h1 {
-    font-size: 52px;
-    letter-spacing: 0.2px;
-    line-height: 1.12;
-}
+            .hero h1 {
+                font-size: 52px;
+                letter-spacing: 0.2px;
+                line-height: 1.12;
+            }
 
             .hero-description {
                 font-size: 17px;
@@ -663,6 +653,10 @@
             .references,
             .contact {
                 padding: 70px 0;
+            }
+
+            .contact {
+                padding-bottom: 90px;
             }
 
             .expertise,
@@ -707,7 +701,6 @@
             }
         }
 
-        
         /* ACCESSIBILITÀ */
 
         @media (prefers-reduced-motion: reduce) {
@@ -751,15 +744,14 @@
         </div>
     </nav>
 
-
     <!-- HERO -->
 
     <header class="hero" id="inizio">
         <div class="container hero-inner">
 
             <div class="eyebrow">
-    Strategia e comunicazione
-</div>
+                Strategia e comunicazione
+            </div>
 
             <h1>
                 Maurizio<br>
@@ -778,7 +770,6 @@
 
         </div>
     </header>
-
 
     <main>
 
@@ -817,7 +808,6 @@
                         per committenti pubblici e privati, mantenendo
                         un approccio tecnico indipendente e orientato
                         esclusivamente al metodo.
-                       
                     </p>
 
                     <div class="highlight">
@@ -841,142 +831,135 @@
             </div>
         </section>
 
+        <!-- COMPETENZE -->
 
-<!-- COMPETENZE -->
+        <section class="expertise" id="competenze">
+            <div class="container">
 
-<section class="expertise" id="competenze">
-    <div class="container">
+                <div class="section-top">
+                    <div class="section-label">02 / Ambiti professionali</div>
 
-        <div class="section-top">
-            <div class="section-label">02 / Ambiti professionali</div>
+                    <h2 class="section-heading">
+                        Le aree di competenza
+                    </h2>
 
-            <h2 class="section-heading">
-                Le aree di competenza
-            </h2>
+                    <p>
+                        Un'esperienza trasversale che integra
+                        informazione, strategia, relazioni istituzionali
+                        e comunicazione politica.
+                    </p>
+                </div>
 
-            <p>
-                Un'esperienza trasversale che integra
-                informazione, strategia, relazioni istituzionali
-                e comunicazione politica.
-            </p>
-        </div>
+                <div class="expertise-grid">
 
-        <div class="expertise-grid">
+                    <article class="expertise-card">
+                        <div class="card-number">01</div>
+                        <h3>Campagne elettorali e comunicazione politica</h3>
+                        <p>
+                            Posizionamento, strategie di consenso,
+                            comunicazione dei candidati e supporto
+                            ai gruppi politici, coordinamento delle
+                            strutture operative e mediazione politica.
+                        </p>
+                    </article>
 
-            <article class="expertise-card">
-                <div class="card-number">01</div>
-                <h3>Campagne elettorali e comunicazione politica</h3>
-                <p>
-                    Posizionamento, strategie di consenso,
-                    comunicazione dei candidati e supporto
-                    ai gruppi politici, coordinamento delle
-                    strutture operative e mediazione politica.
-                </p>
-            </article>
+                    <article class="expertise-card">
+                        <div class="card-number">02</div>
+                        <h3>Comunicazione istituzionale</h3>
+                        <p>
+                            Uffici stampa, coordinamento degli staff
+                            e comunicazione per amministrazioni
+                            e organismi istituzionali.
+                        </p>
+                    </article>
 
-            <article class="expertise-card">
-                <div class="card-number">02</div>
-                <h3>Comunicazione istituzionale</h3>
-                <p>
-                    Uffici stampa, coordinamento degli staff
-                    e comunicazione per amministrazioni
-                    e organismi istituzionali.
-                </p>
-            </article>
+                    <article class="expertise-card">
+                        <div class="card-number">03</div>
+                        <h3>Comunicazione di crisi</h3>
+                        <p>
+                            Gestione della comunicazione in contesti
+                            complessi, mediazione e rapporti
+                            con gli interlocutori istituzionali.
+                        </p>
+                    </article>
 
-            <article class="expertise-card">
-                <div class="card-number">03</div>
-                <h3>Comunicazione di crisi</h3>
-                <p>
-                    Gestione della comunicazione in contesti
-                    complessi, mediazione e rapporti
-                    con gli interlocutori istituzionali.
-                </p>
-            </article>
+                    <article class="expertise-card">
+                        <div class="card-number">04</div>
+                        <h3>Media relations</h3>
+                        <p>
+                            Rapporti con giornalisti, organizzazione
+                            di conferenze stampa, presidio mediatico
+                            e gestione dei contenuti.
+                        </p>
+                    </article>
 
-            <article class="expertise-card">
-                <div class="card-number">04</div>
-                <h3>Media relations</h3>
-                <p>
-                    Rapporti con giornalisti, organizzazione
-                    di conferenze stampa, presidio mediatico
-                    e gestione dei contenuti.
-                </p>
-            </article>
+                    <article class="expertise-card">
+                        <div class="card-number">05</div>
+                        <h3>Strategia digitale</h3>
+                        <p>
+                            Comunicazione crossmediale, social media,
+                            data journalism e applicazioni
+                            dell'intelligenza artificiale.
+                        </p>
+                    </article>
 
-            <article class="expertise-card">
-                <div class="card-number">05</div>
-                <h3>Strategia digitale</h3>
-                <p>
-                    Comunicazione crossmediale, social media,
-                    data journalism e applicazioni
-                    dell'intelligenza artificiale.
-                </p>
-            </article>
+                    <article class="expertise-card">
+                        <div class="card-number">06</div>
+                        <h3>Presentazione eventi</h3>
+                        <p>
+                            Conduzione e presentazione di eventi istituzionali,
+                            politici e pubblici, moderazione di incontri,
+                            dibattiti e conferenze, gestione degli interventi.
+                        </p>
+                    </article>
 
-            <article class="expertise-card">
-                <div class="card-number">06</div>
-                <h3>Presentazione eventi</h3>
-                <p>
-                    Conduzione e presentazione di eventi istituzionali,
-                    politici e pubblici, moderazione di incontri,
-                    dibattiti e conferenze, gestione degli interventi.
-                </p>
-            </article>
+                </div>
+            </div>
+        </section>        <!-- ESPERIENZA PROFESSIONALE -->
 
-        </div>
-    </div>
-</section>
+        <section class="experience" id="esperienza">
+            <div class="container">
 
-<!-- ESPERIENZA PROFESSIONALE -->
-
-<section class="experience" id="esperienza">
-    <div class="container">
-
-        <div class="experience-content">
-
+                <div class="experience-content">
 
                     <h3>Comunicazione istituzionale</h3>
 
-                        
-<p>
-    Ho ricoperto incarichi di responsabilità
-    nella comunicazione di amministrazioni
-    pubbliche e organismi politici.
-</p>
+                    <p>
+                        Ho ricoperto incarichi di responsabilità
+                        nella comunicazione di amministrazioni
+                        pubbliche e organismi politici.
+                    </p>
 
-<p>
-    Capo comunicazione del Movimento 5 Stelle in Regione Toscana.
-    <a href="https://trasparenza.consiglio.regione.toscana.it/node/26930"
-       target="_blank" rel="noopener noreferrer">
-        Riferimento istituzionale.
-    </a>
-</p>
+                    <p>
+                        Capo comunicazione del Movimento 5 Stelle in Regione Toscana.
+                        <a href="https://trasparenza.consiglio.regione.toscana.it/node/26930"
+                           target="_blank" rel="noopener noreferrer">
+                            Riferimento istituzionale.
+                        </a>
+                    </p>
 
-<p>
-    Coordinamento e indirizzo operativo dello staff di comunicazione
-    in Regione Emilia-Romagna presso i gruppi consiliari.
-    <a href="https://wwwservizi.regione.emilia-romagna.it/amministrazionetrasparente/Incarichi/RegioneEmiliaRomagna/Dettaglio/996"
-       target="_blank" rel="noopener noreferrer">
-        Consulta il riferimento istituzionale.
-    </a>
-</p>
+                    <p>
+                        Coordinamento e indirizzo operativo dello staff di comunicazione
+                        in Regione Emilia-Romagna presso i gruppi consiliari.
+                        <a href="https://wwwservizi.regione.emilia-romagna.it/amministrazionetrasparente/Incarichi/RegioneEmiliaRomagna/Dettaglio/996"
+                           target="_blank" rel="noopener noreferrer">
+                            Consulta il riferimento istituzionale.
+                        </a>
+                    </p>
 
-<p>
-    Capo di Gabinetto, portavoce e responsabile
-    del settore comunicazione a Imperia su incarico del sindaco e già ministro Claudio Scajola.
-</p>
+                    <p>
+                        Capo di Gabinetto, portavoce e responsabile
+                        del settore comunicazione a Imperia su incarico del sindaco e già ministro Claudio Scajola.
+                    </p>
 
-<p>
-    Capo ufficio stampa del Comune
-    di Grosseto nominato dal sindaco Antonfrancesco Vivarelli Colonna.
-    <a href="https://www.comune.grosseto.it/persona_pubblica/bernardini-maurizio/"
-       target="_blank" rel="noopener noreferrer">
-        Riferimento istituzionale.
-    </a>
-</p>
-
-
+                    <p>
+                        Capo ufficio stampa del Comune
+                        di Grosseto nominato dal sindaco Antonfrancesco Vivarelli Colonna.
+                        <a href="https://www.comune.grosseto.it/persona_pubblica/bernardini-maurizio/"
+                           target="_blank" rel="noopener noreferrer">
+                            Riferimento istituzionale.
+                        </a>
+                    </p>
 
                     <h3>Consulenza politica e collaborazioni</h3>
 
@@ -992,7 +975,7 @@
                         Tra le personalità seguite figurano
                         Mario Lolini, già coordinatore toscano
                         della Lega e deputato; Pietro Vignali,
-                        già sindaco di Parma, attuale capogruppo e segretario 
+                        già sindaco di Parma, attuale capogruppo e segretario
                         di Forza Italia Emilia-Romagna. Ho curato anche
                         l'immagine di esponenti di rilievo
                         del Partito democratico e del mondo civico.
@@ -1017,7 +1000,6 @@
                         e per realtà del mondo cooperativo nazionale.
                     </p>
 
-
                     <h3>Campagne elettorali</h3>
 
                     <p>
@@ -1036,9 +1018,9 @@
                         delle preferenze.
                     </p>
 
-       <h3>Formazione accademica e aggiornamento professionale</h3>
+                    <h3>Formazione accademica e aggiornamento professionale</h3>
 
-<p>
+                    <p>
                         Ho conseguito una laurea in Storia a Bologna,
                         una laurea magistrale in Comunicazione digitale
                         e marketing e un master in Giornalismo
@@ -1052,15 +1034,13 @@
                         elettorali e applicazioni dell'intelligenza
                         artificiale nella comunicazione.
                     </p>
-       <p>
 
-</p>
+                </div>
+            </div>
+        </section>
 
-        </div>
-    </div>
-</section>
+        <!-- FORMAZIONE E GIORNALISMO -->
 
-<!-- FORMAZIONE E GIORNALISMO -->
         <section class="education" id="formazione">
             <div class="container education-grid">
 
@@ -1096,10 +1076,9 @@
                         e delle relazioni tra istituzioni e media.
                     </p>
 
-
                     <div class="education-note">
                         «Non esiste vento favorevole per il marinaio
-                        che non sa<br> 
+                        che non sa<br>
                         dove andare»
                         <br>
                         <span style="font-family:var(--sans);font-size:12px;letter-spacing:.08em;text-transform:uppercase;">
@@ -1110,7 +1089,6 @@
                 </div>
             </div>
         </section>
-
 
         <!-- COMPETENZE TRASVERSALI -->
 
@@ -1125,23 +1103,20 @@
                     </h2>
                 </div>
 
-               <div>
-    <ul class="reference-list">
-        <li><strong>Comunicazione istituzionale, politica e di crisi</strong></li>
-        <li><strong>Rappresentanza istituzionale</strong></li>
-        <li><strong>Mediazione</strong></li>
-        <li><strong>Selezione e gestione staff</strong></li>
-        <li><strong>Formazione crossmediale</strong></li>
-        <li><strong>Presentazione eventi</strong></li>
-        <li><strong>Problem solving</strong></li>
-    </ul>
-</div>
+                <div>
+                    <ul class="reference-list">
+                        <li><strong>Comunicazione istituzionale, politica e di crisi</strong></li>
+                        <li><strong>Rappresentanza istituzionale</strong></li>
+                        <li><strong>Mediazione</strong></li>
+                        <li><strong>Selezione e gestione staff</strong></li>
+                        <li><strong>Formazione crossmediale</strong></li>
+                        <li><strong>Presentazione eventi</strong></li>
+                        <li><strong>Problem solving</strong></li>
+                    </ul>
+                </div>
 
             </div>
-        </section>
-
-
-        <!-- CONTATTI -->
+        </section>        <!-- CONTATTI -->
 
         <section class="contact" id="contatti">
             <div class="container contact-inner">
@@ -1154,34 +1129,35 @@
                     </h2>
                 </div>
 
-               <div class="contact-content">
+                <div class="contact-content">
 
+                    <p class="contact-description">
+                        <strong style="font-weight: 700;">
+                            Per consulenze, collaborazioni
+                            e contatti professionali è possibile
+                            utilizzare il mio profilo LinkedIn o scrivermi via email.
+                        </strong>
+                    </p>
 
-   <p class="contact-description">
-    <strong style="font-weight: 700;">
-        Per consulenze, collaborazioni
-        e contatti professionali è possibile
-        utilizzare il mio profilo LinkedIn o scrivermi via email.
-    </strong>
-</p>
+                    <a class="contact-button"
+                       href="https://www.linkedin.com/in/mauber"
+                       target="_blank"
+                       rel="noopener noreferrer">
+                        Profilo LinkedIn &nbsp; →
+                    </a>
 
-<a class="contact-button"
-   href="https://www.linkedin.com/in/mauber"
-   target="_blank"
-   rel="noopener noreferrer">
-    Profilo LinkedIn &nbsp; →
-</a>
+                    <div style="height: 20px;"></div>
 
-<div style="height: 20px;"></div>
+                    <a class="contact-button"
+                       href="mailto:info@mauriziobernardini.it">
+                        Scrivimi via email &nbsp; →
+                    </a>
 
-<a class="contact-button"
-   href="mailto:info@mauriziobernardini.it">
-    Scrivimi via email &nbsp; →
-</a>
+                </div>
+            </div>
+        </section>
 
-</div>
-</div>
-</section>
+    </main>
 
     <!-- FOOTER -->
 
@@ -1197,13 +1173,12 @@
                 </div>
             </div>
 
-           <div class="footer-links">
-    <a href="#inizio">Torna all'inizio ↑</a>
-</div>
+            <div class="footer-links">
+                <a href="#inizio">Torna all'inizio ↑</a>
+            </div>
 
         </div>
     </footer>
-
 
     <!-- PRIVACY -->
 
@@ -1261,3 +1236,6 @@
 
         </div>
     </div>
+
+</body>
+</html>
