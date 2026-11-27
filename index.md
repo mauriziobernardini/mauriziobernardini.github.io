@@ -1098,7 +1098,8 @@
 
                     <div class="education-note">
                         «Non esiste vento favorevole per il marinaio
-                        che non sa dove andare»
+                        che non sa 
+                        dove andare»
                         <br>
                         <span style="font-family:var(--sans);font-size:12px;letter-spacing:.08em;text-transform:uppercase;">
                             Seneca
