@@ -15,7 +15,7 @@
     <meta property="og:description" content="Giornalista professionista e spin doctor. Comunicazione politica e istituzionale.">
     <meta property="og:locale" content="it_IT">
 
-<link rel="canonical" href="https://www.mauriziobernardini.it/">
+<link rel="canonical" href="https://mauriziobernardini.it/">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
