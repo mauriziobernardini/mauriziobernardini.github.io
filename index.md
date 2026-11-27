@@ -1135,7 +1135,6 @@
     </ul>
 </div>
 
-                </div>
             </div>
         </section>
 
