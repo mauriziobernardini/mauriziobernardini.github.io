@@ -992,17 +992,13 @@
                     <p>
                         Tra le personalità seguite figurano
                         Mario Lolini, già coordinatore toscano
-                        della Lega e deputato, e Pietro Vignali,
-                        già sindaco di Parma, attuale capogruppo
-                        di Forza Italia in Regione Emilia-Romagna
-                        e segretario regionale. Ho curato anche
+                        della Lega e deputato; Pietro Vignali,
+                        già sindaco di Parma, attuale capogruppo e segretario 
+                        di Forza Italia Emilia-Romagna. Ho curato anche
                         l'immagine di esponenti di rilievo
-                        del Partito democratico.
-                        Nel 2016 ho curato la comunicazione politica
-                        della campagna elettorale del Movimento 5 Stelle
-                        di Grosseto, con candidato sindaco Giacomo Gori.
-                        La lista ottenne il 20% dei voti, uno dei risultati
-                        più significativi del Movimento nei centri urbani.
+                        del Partito democratico e del mondo civico.
+                        Nel 2016 ho gestito la campagna elettorale del Movimento 5 Stelle
+                        di Grosseto, con candidato sindaco Giacomo Gori: con il 20% dei voti resta ancora oggi, a distanza di oltre un decennio, uno dei migliori risultati di sempre del Movimento nei capoluoghi italiani.
                     </p>
 
                     <p>
