@@ -1052,13 +1052,15 @@
                         elettorali e applicazioni dell'intelligenza
                         artificiale nella comunicazione.
                     </p>
-        <p>
-                        
-                    </p>
+       <p>
 
+</p>
 
-        <!-- FORMAZIONE E GIORNALISMO -->
+        </div>
+    </div>
+</section>
 
+<!-- FORMAZIONE E GIORNALISMO -->
         <section class="education" id="formazione">
             <div class="container education-grid">
 
@@ -1177,8 +1179,9 @@
     Scrivimi via email &nbsp; →
 </a>
 
-
-
+</div>
+</div>
+</section>
 
     <!-- FOOTER -->
 
