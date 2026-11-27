@@ -1161,13 +1161,19 @@
     utilizzare il mio profilo LinkedIn.
 </p>
 
-    <a class="contact-button"
-       href="https://www.linkedin.com/in/mauber"
-       target="_blank"
-       rel="noopener noreferrer">
-        Profilo LinkedIn &nbsp; →
-    </a>
+   <a class="contact-button"
+   href="https://www.linkedin.com/in/mauber"
+   target="_blank"
+   rel="noopener noreferrer">
+    Profilo LinkedIn &nbsp; →
+</a>
 
+<br><br>
+
+<a class="contact-button"
+   href="mailto:info@mauriziobernardini.it">
+    Scrivimi via email &nbsp; →
+</a>
 </div>
             </div>
         </section>
