@@ -459,11 +459,11 @@
             line-height: 1.15;
         }
 
-        .contact-content p {
-            color: var(--muted);
-            margin-bottom: 25px;
-        }
-
+       .contact-content p {
+    color: var(--muted);
+    margin-bottom: 25px;
+    font-weight: 700;
+}
        
 .contact-button {
     display: inline-flex;
