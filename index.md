@@ -154,7 +154,7 @@
             gap: 14px;
             color: var(--accent-light);
             font-family: var(--mono);
-            font-size: 11px;
+            font-size: 13px;
             font-weight: 600;
             letter-spacing: .08em;
             text-transform: uppercase;
