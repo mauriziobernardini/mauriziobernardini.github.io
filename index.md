@@ -1123,17 +1123,17 @@
                     </h2>
                 </div>
 
-                <div>
-
-                    <ul class="reference-list">
-                        <li>Comunicazione istituzionale, politica e di crisi</li>
-                        <li>Rappresentanza istituzionale</li>
-                        <li>Mediazione</li>
-                        <li>Selezione e gestione staff</li>
-                        <li>Formazione crossmediale</li>
-                        <li>Presentazione eventi</li>
-                        <li>Problem solving</li>
-                    </ul>
+               <div>
+    <ul class="reference-list">
+        <li><strong>Comunicazione istituzionale, politica e di crisi</strong></li>
+        <li><strong>Rappresentanza istituzionale</strong></li>
+        <li><strong>Mediazione</strong></li>
+        <li><strong>Selezione e gestione staff</strong></li>
+        <li><strong>Formazione crossmediale</strong></li>
+        <li><strong>Presentazione eventi</strong></li>
+        <li><strong>Problem solving</strong></li>
+    </ul>
+</div>
 
                 </div>
             </div>
