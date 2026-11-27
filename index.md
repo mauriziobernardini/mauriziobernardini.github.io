@@ -922,6 +922,7 @@
 
                 <div class="experience-content">
 
+<div class="section-label">03 / Esperienza professionale</div>
                     <h3>Comunicazione istituzionale</h3>
 
                     <p>
@@ -1045,7 +1046,7 @@
             <div class="container education-grid">
 
                 <div>
-                    <div class="section-label">03 / Formazione giornalistica</div>
+                    <div class="section-label">04 / Formazione giornalistica</div>
 
                     <h2 class="section-heading">
                         Dalla cronaca alla consulenza strategica
