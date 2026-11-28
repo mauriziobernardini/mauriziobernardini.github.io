@@ -16,8 +16,15 @@
     <meta property="og:description" content="Giornalista professionista e spin doctor. Comunicazione politica e istituzionale.">
     <meta property="og:locale" content="it_IT">
 
-    <link rel="canonical" href="https://mauriziobernardini.it/">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
+    
+<link rel="canonical" href="https://mauriziobernardini.it/">
+
+<!-- FAVICON MB -->
+<link rel="icon" type="image/png" sizes="512x512" href="/favicon.png">
+<link rel="apple-touch-icon" href="/favicon.png">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=Roboto+Slab:wght@400;500;600;700;800&family=Source+Sans+3:wght@400;500;600;700;800&display=swap" rel="stylesheet">
