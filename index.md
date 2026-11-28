@@ -10,6 +10,7 @@
     <meta name="author" content="Maurizio Bernardini">
     <meta name="robots" content="index, follow">
     <meta name="theme-color" content="#142b40">
+    <link rel="icon" type="image/png" href="/favicon.png">
 
     <meta property="og:type" content="website">
     <meta property="og:title" content="Maurizio Bernardini | Giornalista professionista e spin doctor">
